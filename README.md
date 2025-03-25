@@ -1,3 +1,2 @@
 ## Files in this repo:
- * images: [70](/images)
- * frames: [16](/frames)
+ * images: [54](/images)
