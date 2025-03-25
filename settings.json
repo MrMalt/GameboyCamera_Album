@@ -16,84 +16,84 @@
     ],
     "frames": [
       {
+        "hash": "e1bda0524ec094fd36006867e196f48c44c85436",
         "id": "consolelenses01",
-        "name": "standard-001-dmg-2BitPit.png",
-        "hash": "e1bda0524ec094fd36006867e196f48c44c85436"
+        "name": "GB DMG 1"
       },
       {
+        "hash": "8a398d729febfdd2c9beaf17317f4334734dfefb",
         "id": "consolelenses02",
-        "name": "standard-001-dmg-alt-2BitPit.png",
-        "hash": "8a398d729febfdd2c9beaf17317f4334734dfefb"
+        "name": "GB DMG 2"
       },
       {
+        "hash": "2b377669b92575f922edf423d80fdff084362b03",
         "id": "consolelenses03",
-        "name": "standard-002-pocket-2BitPit.png",
-        "hash": "2b377669b92575f922edf423d80fdff084362b03"
+        "name": "GB Pocket"
       },
       {
+        "hash": "685975c50a841e8a3bada20d00cb17580ef6d291",
         "id": "consolelenses04",
-        "name": "standard-003-light-2BitPit.png",
-        "hash": "685975c50a841e8a3bada20d00cb17580ef6d291"
+        "name": "GB Light"
       },
       {
+        "hash": "d51c202feee779031fdb8c0758cb434d45bd270d",
         "id": "consolelenses05",
-        "name": "standard-004-color-2BitPit.png",
-        "hash": "d51c202feee779031fdb8c0758cb434d45bd270d"
+        "name": "GB Color"
       },
       {
+        "hash": "d00276cf03cb7cf8281ecba18db43161a3bbbb28",
         "id": "consolelenses06",
-        "name": "standard-005-advance-2BitPit.png",
-        "hash": "d00276cf03cb7cf8281ecba18db43161a3bbbb28"
+        "name": "GB Advance"
       },
       {
+        "hash": "18168ead1228c9dc2b4ef0fd9ea822e389058358",
         "id": "consolelenses07",
-        "name": "standard-006-advancesp-2BitPit.png",
-        "hash": "18168ead1228c9dc2b4ef0fd9ea822e389058358"
+        "name": "GB Advance SP"
       },
       {
+        "hash": "1d3440c352a859dca25ab4d0a2a67e66b8f7c797",
         "id": "defaultframes01",
-        "name": "standard-camera-club.png",
-        "hash": "1d3440c352a859dca25ab4d0a2a67e66b8f7c797"
+        "name": "Camera Club"
       },
       {
+        "hash": "6bab9deece741b81623e5436792b476bcc8dff96",
         "id": "defaultframes02",
-        "name": "standard-pocketcam-translation-02.png",
-        "hash": "6bab9deece741b81623e5436792b476bcc8dff96"
+        "name": "Pocketcam Translation 1"
       },
       {
+        "hash": "b795a59ba92fa016260be721de375a0b967ed744",
         "id": "defaultframes03",
-        "name": "standard-pocketcam-translation-07.png",
-        "hash": "b795a59ba92fa016260be721de375a0b967ed744"
+        "name": "Pocketcam Translation 2"
       },
       {
+        "hash": "37ae7eb95dcad1694b59c83c59fae10b1e3e72a3",
         "id": "defaultframes04",
-        "name": "standard-matrix.png",
-        "hash": "37ae7eb95dcad1694b59c83c59fae10b1e3e72a3"
+        "name": "Matrix"
       },
       {
+        "hash": "26968528900c358868ce48c65791354db9aff305",
         "id": "wild01",
-        "name": "wild-glitch-BOICHOT.png",
-        "hash": "26968528900c358868ce48c65791354db9aff305"
+        "name": "Wild Glitch"
       },
       {
+        "hash": "71d05cefe2451d7dcd4c5910c8aa48bb557f2ae4",
         "id": "wild02",
-        "name": "wild-links-awakening-BOICHOT.png",
-        "hash": "71d05cefe2451d7dcd4c5910c8aa48bb557f2ae4"
+        "name": "Wild Links Awakening"
       },
       {
+        "hash": "546af6d46eac951615fedd1390e432e462034095",
         "id": "wild03",
-        "name": "wild-megaman-BOICHOT.png",
-        "hash": "546af6d46eac951615fedd1390e432e462034095"
+        "name": "Wild Megaman"
       },
       {
+        "hash": "c9c7f44ffcd9d25f5c89b0c3300567800e156b5e",
         "id": "wild04",
-        "name": "wild-mswin.png",
-        "hash": "c9c7f44ffcd9d25f5c89b0c3300567800e156b5e"
+        "name": "Wild Windows98"
       },
       {
+        "hash": "b75a7cad6e8cea09f2f536d1f9006081e627d5b9",
         "id": "wild05",
-        "name": "wild-camera-nerd-BOICHOT.png",
-        "hash": "b75a7cad6e8cea09f2f536d1f9006081e627d5b9"
+        "name": "Wild Pokemon Card"
       }
     ],
     "imageGroups": [
