@@ -3,15 +3,15 @@
     "frameGroups": [
       {
         "id": "consolelenses",
-        "name": "Console Lenses"
+        "name": "Console Lens Frames"
       },
       {
         "id": "defaultframes",
-        "name": "Default Frames"
+        "name": "Normal Frames"
       },
       {
         "id": "wild",
-        "name": "Wild Lenses"
+        "name": "Wild Frames"
       }
     ],
     "frames": [
@@ -26,9 +26,9 @@
         "hash": "8a398d729febfdd2c9beaf17317f4334734dfefb"
       },
       {
+        "hash": "2b377669b92575f922edf423d80fdff084362b03",
         "id": "consolelenses03",
-        "name": "standard-002-pocket-2BitPit.png",
-        "hash": "2b377669b92575f922edf423d80fdff084362b03"
+        "name": "standard-002-pocket-2BitPit.png"
       },
       {
         "id": "consolelenses04",
