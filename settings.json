@@ -664,8 +664,8 @@
         },
         "hashes": {
           "r": "554ed5a4887426c79825fbddad3e0ba049a4b8bc",
-          "b": "42a87950f587d8b0b6ed0e17eb4f80e404beec7b",
-          "g": "ae22fb961e0a09438090c48c281076c4e0c8a4ea"
+          "g": "ae22fb961e0a09438090c48c281076c4e0c8a4ea",
+          "b": "42a87950f587d8b0b6ed0e17eb4f80e404beec7b"
         },
         "hash": "369a7f7759302aac20f1b22bbe3d340d73d1241b",
         "created": "2025-03-04 09:32:04:099",
@@ -769,8 +769,8 @@
           "blend": "multiply"
         },
         "hashes": {
-          "g": "bae8fd88451236dc123cc64e6ad0d941bcb9de90",
           "r": "6b9e112ba0efc877d82d020e500ca1439fde01ee",
+          "g": "bae8fd88451236dc123cc64e6ad0d941bcb9de90",
           "b": "91fcfaf209486fd924c7e1c629d4820be138c5f6"
         },
         "hash": "383617db8da10c5745c7655b2766274e67581e4c",
@@ -1192,7 +1192,24 @@
       }
     ],
     "palettes": [],
-    "plugins": [],
+    "plugins": [
+      {
+        "url": "https://herrzatacke.github.io/gb-printer-web-plugins/stitch.js",
+        "name": "Stitch",
+        "description": "This plugin stitches separate images while removing appropriate top/bottom frames",
+        "configParams": {},
+        "config": {},
+        "loading": false
+      },
+      {
+        "url": "https://herrzatacke.github.io/gb-printer-web-plugins/toSav.js",
+        "name": "To .sav",
+        "description": "This plugin creates a .sav file with a maximum of 30 images",
+        "configParams": {},
+        "config": {},
+        "loading": false
+      }
+    ],
     "lastUpdateUTC": 1742809726,
     "version": 1
   },
