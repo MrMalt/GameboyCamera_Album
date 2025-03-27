@@ -1894,37 +1894,6 @@
         "loading": false
       },
       {
-        "url": "https://herrzatacke.github.io/gb-printer-web-plugins/svgize.js",
-        "name": "SVG-ize",
-        "description": "Creates an svg from your image",
-        "configParams": {
-          "r1": {
-            "label": "Radius 1 (smallest)",
-            "type": "number"
-          },
-          "r2": {
-            "label": "Radius 2",
-            "type": "number"
-          },
-          "r3": {
-            "label": "Radius 3",
-            "type": "number"
-          },
-          "r4": {
-            "label": "Radius 4 (biggest)",
-            "type": "number"
-          }
-        },
-        "config": {
-          "r1": 0,
-          "r2": 0,
-          "r3": 0,
-          "r4": 0
-        },
-        "loading": false,
-        "error": false
-      },
-      {
         "url": "https://herrzatacke.github.io/gb-printer-web-plugins/toSav.js",
         "name": "To .sav",
         "description": "This plugin creates a .sav file with a maximum of 30 images",
