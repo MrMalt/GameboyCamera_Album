@@ -266,14 +266,21 @@
         "title": "🎨 Trichrome",
         "created": "2025-03-24 10:03:58:858",
         "coverImage": "5a2a02a9dbe2cc8f256381be16f965b7c3c034b6",
-        "images": [],
+        "images": [
+          "bdde4a0438bbf80f1f0a2de16b135d9896b8f3ef",
+          "369a7f7759302aac20f1b22bbe3d340d73d1241b",
+          "f049e9c5f0f5cc78d97dd28fea01175b8d114b33",
+          "383617db8da10c5745c7655b2766274e67581e4c",
+          "5a2a02a9dbe2cc8f256381be16f965b7c3c034b6",
+          "d7b03451e5efd2c835eda3f3c87a1112d6b727e5"
+        ],
         "groups": [
           "7a8b6d97-5acb-43f2-bc04-dfefc51223ac",
           "346f1bcb-2e04-451d-aef4-1ae41fe09fce",
+          "0f53617e-11ab-4b69-a7cd-233e676f62d7",
           "0cbaf9be-c426-48c5-b5d2-a658b8979461",
           "426853cb-5870-4f0f-9faa-1181a338cd3d",
-          "5632cd00-7069-4131-a92d-343b8cef1bb1",
-          "0f53617e-11ab-4b69-a7cd-233e676f62d7"
+          "5632cd00-7069-4131-a92d-343b8cef1bb1"
         ]
       },
       {
@@ -324,39 +331,36 @@
       {
         "id": "346f1bcb-2e04-451d-aef4-1ae41fe09fce",
         "slug": "colortest_1",
-        "title": "🧪 ColorTest1",
+        "title": "🎞️ ColorTest_1",
         "created": "2025-03-24 10:18:39:451",
         "coverImage": "369a7f7759302aac20f1b22bbe3d340d73d1241b",
         "images": [
           "554ed5a4887426c79825fbddad3e0ba049a4b8bc",
           "42a87950f587d8b0b6ed0e17eb4f80e404beec7b",
-          "ae22fb961e0a09438090c48c281076c4e0c8a4ea",
-          "369a7f7759302aac20f1b22bbe3d340d73d1241b"
+          "ae22fb961e0a09438090c48c281076c4e0c8a4ea"
         ],
         "groups": []
       },
       {
         "id": "426853cb-5870-4f0f-9faa-1181a338cd3d",
         "slug": "colortest_3",
-        "title": "🧪 ColorTest3",
+        "title": "🎞️ ColorTest_3",
         "created": "2025-03-24 10:21:04:507",
         "coverImage": "f049e9c5f0f5cc78d97dd28fea01175b8d114b33",
         "images": [
           "a9a0c6616980c1b26bfae2b33432a4bc534484fd",
           "6a71ba50c744206c2a5210382cb74f2c063b5a3c",
-          "417a7fb8a87d01153756c99faf563b3ab8d79609",
-          "f049e9c5f0f5cc78d97dd28fea01175b8d114b33"
+          "417a7fb8a87d01153756c99faf563b3ab8d79609"
         ],
         "groups": []
       },
       {
         "id": "0cbaf9be-c426-48c5-b5d2-a658b8979461",
         "slug": "colortest_2",
-        "title": "🧪 ColorTest2",
+        "title": "🎞️ ColorTest_2",
         "created": "2025-03-24 10:21:17:638",
         "coverImage": "bae8fd88451236dc123cc64e6ad0d941bcb9de90",
         "images": [
-          "383617db8da10c5745c7655b2766274e67581e4c",
           "bae8fd88451236dc123cc64e6ad0d941bcb9de90",
           "6b9e112ba0efc877d82d020e500ca1439fde01ee",
           "d2f00f8a912c2d9b05d2b2cc2780cd565f0c2b82"
@@ -366,14 +370,13 @@
       {
         "id": "5632cd00-7069-4131-a92d-343b8cef1bb1",
         "slug": "colortest_4",
-        "title": "🧪 ColorTest4",
+        "title": "🎞️ ColorTest_4",
         "created": "2025-03-24 10:21:26:565",
         "coverImage": "5a2a02a9dbe2cc8f256381be16f965b7c3c034b6",
         "images": [
           "172cd2ae9343061997d54add5bd50b5e7e9bfb86",
           "a2c4dadefb07e35738498cc8414e7352fe3fe34b",
-          "0951051e1f7eb91cc865c071f98eb108338d41a8",
-          "5a2a02a9dbe2cc8f256381be16f965b7c3c034b6"
+          "0951051e1f7eb91cc865c071f98eb108338d41a8"
         ],
         "groups": []
       },
@@ -416,15 +419,13 @@
       {
         "id": "0f53617e-11ab-4b69-a7cd-233e676f62d7",
         "slug": "color_guus",
-        "title": "🖼️ColorGuus",
+        "title": "🎞️ ColorGuus_2",
         "created": "2025-03-27 00:22:17:264",
         "coverImage": "d7b03451e5efd2c835eda3f3c87a1112d6b727e5",
         "images": [
           "2b0447a482953201d5b625369b93ce72e5fc5ace",
           "55bc454a9ad333f31876e7c3f98c6c3505840430",
-          "dcaabba8707b810e3b0e63834c9556db85841e8b",
-          "bdde4a0438bbf80f1f0a2de16b135d9896b8f3ef",
-          "d7b03451e5efd2c835eda3f3c87a1112d6b727e5"
+          "dcaabba8707b810e3b0e63834c9556db85841e8b"
         ],
         "groups": []
       }
@@ -439,7 +440,7 @@
           "Gameboy Camera",
           "Ties"
         ],
-        "palette": "bgb",
+        "palette": "kditw",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -465,7 +466,7 @@
           "Gameboy Camera",
           "Pien"
         ],
-        "palette": "bgb",
+        "palette": "roga",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -491,7 +492,7 @@
           "Gameboy Camera",
           "Pien"
         ],
-        "palette": "bgb",
+        "palette": "roga",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -518,7 +519,7 @@
           "Gameboy Camera",
           "Plant"
         ],
-        "palette": "bgb",
+        "palette": "roga",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -545,7 +546,7 @@
           "Gameboy Camera",
           "Plant"
         ],
-        "palette": "bgb",
+        "palette": "dimwm",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -624,10 +625,10 @@
           "Gameboy Camera",
           "Plant"
         ],
-        "palette": "bgb",
+        "palette": "gbcrb",
         "framePalette": "bw",
         "invertFramePalette": false,
-        "invertPalette": false,
+        "invertPalette": true,
         "frame": "",
         "meta": {
           "romType": "stock",
@@ -703,7 +704,7 @@
         "tags": [
           "Gameboy Camera"
         ],
-        "palette": "bgb",
+        "palette": "grafixkidgray",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -756,7 +757,7 @@
           "Kiruna",
           "Ties"
         ],
-        "palette": "bgb",
+        "palette": "glmo",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -782,7 +783,7 @@
           "Gameboy Camera",
           "Kiruna"
         ],
-        "palette": "bgb",
+        "palette": "roga",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -809,7 +810,7 @@
           "Gameboy Camera",
           "Kiruna"
         ],
-        "palette": "bgb",
+        "palette": "roga",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -835,7 +836,7 @@
           "Gameboy Camera",
           "Kiruna"
         ],
-        "palette": "bgb",
+        "palette": "glmo",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -861,7 +862,7 @@
           "Gameboy Camera",
           "Kiruna"
         ],
-        "palette": "bgb",
+        "palette": "grafixkidgray",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -957,8 +958,8 @@
         "palette": {
           "r": [
             0,
-            85,
-            170,
+            84,
+            172,
             255
           ],
           "g": [
@@ -988,7 +989,7 @@
         },
         "hash": "369a7f7759302aac20f1b22bbe3d340d73d1241b",
         "created": "2025-03-04 09:32:04:099",
-        "title": "ColorTest1",
+        "title": "ColorTest_1",
         "tags": [
           "Gameboy Camera",
           "Trichrome"
@@ -1104,7 +1105,7 @@
         },
         "hash": "383617db8da10c5745c7655b2766274e67581e4c",
         "created": "2025-03-14 14:19:50:653",
-        "title": "ColorTest2",
+        "title": "ColorTest_2",
         "tags": [
           "Gameboy Camera",
           "Trichrome"
@@ -1220,7 +1221,7 @@
         },
         "hash": "f049e9c5f0f5cc78d97dd28fea01175b8d114b33",
         "created": "2025-03-15 12:44:04:899",
-        "title": "ColorTest3",
+        "title": "ColorTest_3",
         "tags": [
           "2BitToy Camera+",
           "Trichrome"
@@ -1234,7 +1235,7 @@
         "tags": [
           "Gameboy Camera"
         ],
-        "palette": "bgb",
+        "palette": "roga",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -1251,7 +1252,7 @@
           "Gameboy Camera",
           "Pien"
         ],
-        "palette": "bgb",
+        "palette": "spezi",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -1323,7 +1324,7 @@
           "__filter:favourite__",
           "2BitToy Camera+"
         ],
-        "palette": "bgb",
+        "palette": "wtfp",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -1340,7 +1341,7 @@
           "2BitToy Camera+",
           "Pien"
         ],
-        "palette": "bgb",
+        "palette": "hipster",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -1363,9 +1364,10 @@
         "title": "Sign_2",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "2BitToy Camera+"
         ],
-        "palette": "bgb",
+        "palette": "gbceuus",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -1417,7 +1419,7 @@
         },
         "hash": "5a2a02a9dbe2cc8f256381be16f965b7c3c034b6",
         "created": "2025-03-22 21:20:17:099",
-        "title": "ColorTest4",
+        "title": "ColorTest_4",
         "tags": [
           "__filter:favourite__",
           "2BitToy Camera+",
@@ -1552,12 +1554,13 @@
         "title": "Misc_5",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "2BitToy Camera+"
         ],
-        "palette": "bgb",
+        "palette": "gbcrb",
         "framePalette": "bw",
         "invertFramePalette": false,
-        "invertPalette": false,
+        "invertPalette": true,
         "frame": "",
         "meta": {
           "romType": "stock",
@@ -1595,7 +1598,7 @@
           "__filter:favourite__",
           "2BitToy Camera+"
         ],
-        "palette": "bgb",
+        "palette": "gbcd",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -1618,9 +1621,10 @@
         "title": "Clock_2",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "2BitToy Camera+"
         ],
-        "palette": "bgb",
+        "palette": "gbcla",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -1726,10 +1730,10 @@
         "tags": [
           "2BitToy Camera+"
         ],
-        "palette": "bgb",
+        "palette": "gbcrb",
         "framePalette": "bw",
         "invertFramePalette": false,
-        "invertPalette": false,
+        "invertPalette": true,
         "frame": "",
         "meta": {
           "romType": "stock",
@@ -1751,7 +1755,7 @@
         "tags": [
           "2BitToy Camera+"
         ],
-        "palette": "bgb",
+        "palette": "wtfp",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -1798,8 +1802,8 @@
         "palette": {
           "r": [
             0,
-            85,
-            170,
+            84,
+            172,
             255
           ],
           "g": [
@@ -1829,7 +1833,7 @@
         },
         "hash": "d7b03451e5efd2c835eda3f3c87a1112d6b727e5",
         "created": "2025-03-27 00:07:46:349",
-        "title": "ColorGuus_Test",
+        "title": "ColorGuus_1",
         "tags": [
           "2BitToy Camera+",
           "Guus",
@@ -1871,7 +1875,7 @@
         },
         "hash": "bdde4a0438bbf80f1f0a2de16b135d9896b8f3ef",
         "created": "2025-03-27 00:07:59:021",
-        "title": "ColorGuus",
+        "title": "ColorGuus_2",
         "tags": [
           "__filter:favourite__",
           "2BitToy Camera+",
@@ -1887,7 +1891,7 @@
         "tags": [
           "2BitToy Camera+"
         ],
-        "palette": "bgb",
+        "palette": "kditw",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -1903,7 +1907,7 @@
           "2BitToy Camera+",
           "Plant"
         ],
-        "palette": "bgb",
+        "palette": "dimwm",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -1919,7 +1923,7 @@
           "__filter:favourite__",
           "2BitToy Camera+"
         ],
-        "palette": "bgb",
+        "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -1934,7 +1938,7 @@
         "tags": [
           "2BitToy Camera+"
         ],
-        "palette": "bgb",
+        "palette": "tpa",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -1949,7 +1953,7 @@
         "tags": [
           "2BitToy Camera+"
         ],
-        "palette": "bgb",
+        "palette": "hipster",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -1959,7 +1963,7 @@
     ],
     "palettes": [],
     "plugins": [],
-    "lastUpdateUTC": 1743282871,
+    "lastUpdateUTC": 1743291597,
     "version": 1
   },
   "9caa3f5dd592732a3e8b7989fc6c150f6c3c3934": "xÚíËrìª\u0012Dç|MòH\n\r\u000büÿOº\u0003¤î¶÷ÙgrãDx`EÈ¸å\u0012RÃ\"ë¥?~\r~\r~\r~\r~\rþ?%@jYÂ2%¿N; ¥áF4ÍÑ-FQÐE@j]Ëä\u0015Y»x\u0010YÛ\u0007\rMÓ\u000b#¢äNî§;i\u001aØ;ç¾¯<7³]£§í¡\u0002\u0017AóáNîÈeªA\u0002A2½Q±wÎ¡\u0002lÇ`æF9æh<ßç¾% ¹\b\u0005ÊsÁEHÀ|?¢?#qÎçÙójç\u0011³·,\u0001×<\u0017dÇ0xÚd\u001fw9\u001f\u0003ÏÔòª©Uª6²bVs'\u001b¦R\u000e©OIMRHÌM©ï`©R²8³vlJâ%­)µ¢K!ó)\u0005¥~Ö]jF\u0012)Ù\u0016¥rIl\u0012ä\u0011þCdú5åÌyo\u0007ÕòÜÓÉ\u000b[©ABÓÌE±åNöuÕáÆ û\u000bÚîgzÜIfß>ÙB\u0005É\\­N/ë\u0018ÀåÙ4A_Wu'3·\u00156hî\u0016«Ôä\"\u0018^ÜÉ¯íNb©NRURRE\u0000w²µ9\u001dTn\u0012)Ò\u001b¹¬Mæ>S¯)¥\u00071Åi\u0019|HÑ\u0015g$\u001f\u0006oÔ¬\u0012Pf4¸ôf2¾2\u0019\u0002ª\u0016Rqr¡Ê3¥\f­«ÚÊu¯Qmåª´ªiò¼uËRdSf¦T²\u0000\tã\u0018,®KBH\u001c²\u0001)\u0005¤\u0002)çc¢@*\u001eÌÜ¥<$C¨\u0019p±aê\u0019ú\u001f£¥o1ÆYð»¦#\u0019ç\u000f\u0013RnÒl[É\u0004å\u001d!Ï§§>¤q+oòA{)¸\u001c÷\u001aü¢íÈuG¶\u0001\t!Crll¥0iK2´¥ÊÓFH2)ÉÎ×áó½Ïö,½ë¾>OOC¤*Ù%M{\u001b¿\u0017/¥)!ùý.{k{J©{°ç©>Â6$¢^õ1¤´V5PÎ*¬lÍ¾â0³Ô~¸\u001enD¨\u0014\u000fÖ¹Zj.¢iº¤û÷6\u001d¡(çÂå}îÅ\\Ç²4ÜÎ¢u²Öµ|3Ç*Õaü\b&_$gmdÝ\u001eJ1`Z¨©å£îMâ\u0018\u0012¬4Ík]ØJM\u0015ÒEÓ\u0018Ò\u0005;Âú ÇKÆ,!KÒ5Í$PÂ¼\rjh\nÇ\u0001Võ\u0010\u0015M3õKªòÚ­nV\u0015\u001b\u001fL>Pï]R\u0003±Â¤Xç/{v¹4fÊx.{<#yóÿ\u0010\u001dßÚ\u0014<oÝBÚûøÍYnx%¥uUëíý\n[CÖGX¬]ÑöLîd}\bÒoæ+zq\u0011Ç¡lf\u0018&PÜÉP6ò+Èaø\tQ\u001e(e+ãå*|²Q\u000eßÌ\u0011¥ødS ü\b&\r=»`Ú¨æ \u0016*'¨\u0001{¹æâÁlÛ\u0007q©{a k'\f\u0019ï¥¬íÑ0Un_.35¤ \u0003o4Í´4¬*&îÙ\u000bmRªâöR\\f}J2F\u0012.\t\n'MqC9%qßê\u0007Ái70Ûî\u0000ëÆzù¡{.)FRR¹ñSª\u0016\u001aü§äû×®»9¥'è{­G«·{Èä¢²6]ÜÓÅÝu¥YN4ü\u00045.bF+#x¼ÿÜ-2ø\n~_AïnY²÷\tUúÝÎ¸#ó¹æ<m}©ö\u001dôþ\b&\u0007L\u0003f~\u0018äÍ»U &¸8`òÂ@×¢hkÖV¦'D\u001f0¡\u001eùË8±W­\u00144)m°%'\u0015*ò Å.5Y6¤Ö¤­îA\u0003\u0017\u001b<Z9ÎýÊý\u001aÍ4`áàl}æ¦Hi\u0014i\u0006Í0\u0015­j±ê\n³²h[bvHRuÉLCJSç%;CcJ¨§<Snß\u001dÈí7\fµÅÛH¡Âòµu)ï\u001d¾\u0019±öºãjãüÊûasF;*gú\u001aÓ~?OÐ\u001b(ñÄ´O\u0010|NO×¯¨ø6¸tòGä8\u000eÚBå9 ^0k$d\u0019;y¦0%5ªfípqH(3Z¶=\u0012\\,\fw'?GTóä\u001dÉÅ¬º#g\u0005  i\fÔ2`\tV\u0010ÊYjej{¦\u0002%õÈÐ\u000063Ð5ÂlÌë¤ú-k§>25`}dõ|)\u001dY\u001b9å)¦-.HùÊ¦+KI P\u0014>I_oµ\u000b\u001eIªó08ð`JÑ¤Ù¤¤®ÐÔR\bÖ5Hí0í önÚI~²¢,ÛÈ5Pì¾¦µ;¿:lÚ±_÷õdßò,~G\u0006h\u0002\u0016Àüèác¨ójÝ7ý dAÌÉ\rNÂé`í¸è \bOË+)Ç\u0013\u0005ûf.\u0016Ã¼z¿ÒVF¨¼üÃÃ¦O¶\u001d¹$]hZ@\u001d­i\u0001\u0005l±\nÖÈÍú\u0018©\\´hEvå6\u0004\u0000\f@\u0006\u0000 ±I*S4E¿Ô+\u001bf;e\u0016à.Ô\u0006..¬:Ðò}÷ÓCYSÆP\fIË!m\\VGzX;FË´¢Vwæ#'¥%$=Å3H>h\u0002\u0018êchÓ´f×\nÚC+.-_\u001aéÅàÍ¥ÙÝê\u0000ª}\u0015±\u0007w¹é&ñI¾üv§ÙéúÅä\u0003ésÇë3\u0012\u000eV\u0007é`h\\¨µaÒ\u000f£É´>.ls¶æ\"èxª!íó\\\u0010å\u0019¸W\fS2ö»Hòe\\6ð\u000fÇ\u0000Ð\u0000,\u0000)ãß?{øvG2\u00016ÏØïúy·\u001a@êÌp\u0000lw\u0007ùkO\u0003V\u0017*;rY¨,`]¨tP\u0015+\u0019clh´!!\u0018\u0003\u0006GËëôÐ{þÂ$\r¨\u0002ÚÎ¹\nHÁ[´øµ²ù'\u0004ö~«\u001c\tìïþ@Ìø6øÂ¤ñ=?zÐþIL\u0006JóÌÙq±3Pè8Å\u0001¯'C{\u0010Û=¿\u0002pÊß\u00035_éí(Ìw£}\u001cê$&â\u0012OÛ\u0000\u001b\u0003jþ\\\u0005î5ýÁb\u0006öBu'Ñ5SgÆ5\nÚÊðqÏÁ\u0000|\u0011­i¤W<m~Ðk¨u¡&\u0013ÚBÝ#¬¡h]Ù\u0016\u0016©µVj÷³_T\u0003(\u0000Ú#æ¶ëÍc¹\u0017o}\u0002\f\u0001LîÛ¡ÎO&?TÍïvîOü0Ø\u000fLò\u0013óýþÃÒÉæùÅ¤\nÂü,ÿæµb%w¾}÷Ds'&]äd÷Ë'[Õzûî{«$=»-\u001eí½BÅò|â¨Þ2b\u0014ìva{À/6\t70\u001f\u0007\u0001D.h£joä47\\\u0005\u001d F\u0001XÑØýJ\b\u0001K(\fÈïÙ|j¦g\u0003µ>¹N\u001dbÏlÛrx¥\u0012©uáÄN¡ÊªÄy~\"Ü÷\bþ-¼\u0019ôÂø#?Å70¦É%ASm.)ñS\u0006oÔæ§N~gðK»¿Q­ý!¤ñìóÉe\u000eZ tÏ'|\u0015&&ià\t°¦7\u001a¿²ÅíqîN®QmÊeG*yG.îäÌm?û:ÛIFaq¸¼Q­OyÐvÎr¤ßµOÍ#Ç.>ÉºW&\u0017\u0002\u001bÉf&ê{\u000eú\u0015F;e§Z¡t5\b/l×TÎÒÕO¦²!¥MKvîh\u0012ã\u0014B'sNO\u0006ý\u0010ô\u001cñ×¼û1°\u0014¥'+z\fûHÐ%%{bÚ8ý>»P\u0016Ç8\u00016\u0007r,T-\\\\Z± ­\u000f\u0019Ôß\u0002ÎïÎÝ~ Nö©ÙýÝîg/9b\u0014%ßÌ{å\u0013ì7>ï÷\u001f2dí×Öáp#.õË(RQ\u0010Mw±hÍêz@)·ÒPRrRÕné¹s]Íwj:\u0003{\u000bÌZNm»d%¨¥h@­ï9(\u001elSª&]MJ;S«VyÐp!mJvvRèæ§Êø°foû`p¿_ó\u0006<¿¼Xä\u001bN×Suÿ øO!WÉþýð3\u001dá\\!tÓÐT4d\u001a>\u0002Î»µ;,xå8ñ-S\u0019þ¤údgÖÊUÝr¬\\eÌZånGUª\u00161 »è%\u0003RÈ8 ¥&HªqÎ ©\u0014w)0Ua~»ñ]MÙÏtïyÜ,K³¿wcRtÅûÅq vOqbÈ\u001fÔ¾o°è¥Qú(\u001aþÓ@Ù#\u001f·Ç§MIê§FþãRÌ[H¿\u001cñM\u0006eg[(¾\u0015Óßï\u0010\u001fÎü9æ1ÜSJ6ÕvÕ\"$ó}?bJJ]§Ôóìü`+PÙ\u001eÜU+í»\u0016´óÙf³oÿròû¿I¿\u0006¿\u0006¿\u0006¿\u0006ÿµÁÿ\u0000Ð\u001c>",
