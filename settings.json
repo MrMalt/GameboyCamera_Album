@@ -472,7 +472,7 @@
           "Gameboy Camera",
           "Pien"
         ],
-        "palette": "roga",
+        "palette": "gbcu",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -498,7 +498,7 @@
           "Gameboy Camera",
           "Pien"
         ],
-        "palette": "roga",
+        "palette": "gbcub",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -525,7 +525,7 @@
           "Gameboy Camera",
           "Plant"
         ],
-        "palette": "roga",
+        "palette": "cstmgreen",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -552,7 +552,7 @@
           "Gameboy Camera",
           "Plant"
         ],
-        "palette": "dimwm",
+        "palette": "cstmorange",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -579,7 +579,7 @@
           "Gameboy Camera",
           "Plant"
         ],
-        "palette": "bgb",
+        "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -631,10 +631,10 @@
           "Gameboy Camera",
           "Plant"
         ],
-        "palette": "gbcrb",
+        "palette": "cstmyellow2",
         "framePalette": "bw",
         "invertFramePalette": false,
-        "invertPalette": true,
+        "invertPalette": false,
         "frame": "",
         "meta": {
           "romType": "stock",
@@ -736,7 +736,7 @@
           "Gameboy Camera",
           "Kiruna"
         ],
-        "palette": "bgb",
+        "palette": "roga",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -763,7 +763,7 @@
           "Kiruna",
           "Ties"
         ],
-        "palette": "glmo",
+        "palette": "cstmpurple",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -786,10 +786,11 @@
         "title": "Kiruna_3",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "Gameboy Camera",
           "Kiruna"
         ],
-        "palette": "roga",
+        "palette": "cstmorange",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -816,7 +817,7 @@
           "Gameboy Camera",
           "Kiruna"
         ],
-        "palette": "bw",
+        "palette": "cstmgreen",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -842,7 +843,7 @@
           "Gameboy Camera",
           "Kiruna"
         ],
-        "palette": "glmo",
+        "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -1330,7 +1331,7 @@
           "__filter:favourite__",
           "2BitToy Camera+"
         ],
-        "palette": "wtfp",
+        "palette": "waves1",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -1373,7 +1374,7 @@
           "__filter:favourite__",
           "2BitToy Camera+"
         ],
-        "palette": "gbceuus",
+        "palette": "waves1",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -1505,7 +1506,7 @@
         "tags": [
           "Gameboy Camera"
         ],
-        "palette": "bgb",
+        "palette": "other1",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -1604,7 +1605,7 @@
           "__filter:favourite__",
           "2BitToy Camera+"
         ],
-        "palette": "gbcd",
+        "palette": "cstmpurple",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -1630,7 +1631,7 @@
           "__filter:favourite__",
           "2BitToy Camera+"
         ],
-        "palette": "gbcla",
+        "palette": "cstmpurple",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -1913,7 +1914,7 @@
           "2BitToy Camera+",
           "Plant"
         ],
-        "palette": "dimwm",
+        "palette": "cstmpink",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -1984,6 +1985,642 @@
       }
     ],
     "palettes": [
+      {
+        "shortName": "cstmyellow2",
+        "name": "High Contrast Yellow (Green)",
+        "palette": [
+          "#fdfcf4",
+          "#ffc140",
+          "#2e401a",
+          "#000000"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "cstmyellow",
+        "name": "High Contrast Yellow",
+        "palette": [
+          "#f1ebbe",
+          "#e19800",
+          "#2a2550",
+          "#000000"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "rdblk",
+        "name": "Red Black",
+        "palette": [
+          "#ff0000",
+          "#aa0000",
+          "#550000",
+          "#000000"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "gnblk",
+        "name": "Green Black",
+        "palette": [
+          "#00ff00",
+          "#00aa00",
+          "#005500",
+          "#000000"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "blblk",
+        "name": "Blue Black",
+        "palette": [
+          "#0000ff",
+          "#0000aa",
+          "#000055",
+          "#000000"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "yeblk",
+        "name": "Yellow Black",
+        "palette": [
+          "#ffff00",
+          "#aaaa00",
+          "#555500",
+          "#000000"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "mgblk",
+        "name": "Magenta Black",
+        "palette": [
+          "#ff00ff",
+          "#aa00aa",
+          "#550055",
+          "#000000"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "cyblk",
+        "name": "Cyan Black",
+        "palette": [
+          "#00ffff",
+          "#00aaaa",
+          "#005555",
+          "#000000"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "rdwht",
+        "name": "Red White",
+        "palette": [
+          "#ffffff",
+          "#ffaaaa",
+          "#ff5555",
+          "#ff0000"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "gnwht",
+        "name": "Green White",
+        "palette": [
+          "#ffffff",
+          "#aaffaa",
+          "#55ff55",
+          "#00ff00"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "blwht",
+        "name": "Blue White",
+        "palette": [
+          "#ffffff",
+          "#aaaaff",
+          "#5555ff",
+          "#0000ff"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "yewht",
+        "name": "Yellow White",
+        "palette": [
+          "#ffffff",
+          "#ffffaa",
+          "#ffff55",
+          "#ffff00"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "mgwht",
+        "name": "Magenta White",
+        "palette": [
+          "#ffffff",
+          "#ffaaff",
+          "#ff55ff",
+          "#ff00ff"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "cywht",
+        "name": "Cyan White",
+        "palette": [
+          "#ffffff",
+          "#aaffff",
+          "#55ffff",
+          "#00ffff"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "mdbbs",
+        "name": "DeviantArt - Mtn Dew Baja Blast Storm - TheWolfBunny64",
+        "palette": [
+          "#68c2a4",
+          "#46947d",
+          "#30564d",
+          "#12221c"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "pb2p",
+        "name": "Lospec - PAPERBACK-2 - Doph",
+        "palette": [
+          "#b8c2b9",
+          "#b8c2b9",
+          "#382b26",
+          "#382b26"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "obmgp",
+        "name": "Lospec - 1BIT MONITOR GLOW - NORMAL - Polyducks",
+        "palette": [
+          "#f0f6f0",
+          "#f0f6f0",
+          "#222323",
+          "#222323"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "scp",
+        "name": "Lospec - SODA-CAP - Cappuchi",
+        "palette": [
+          "#e8e7cb",
+          "#fca6ac",
+          "#ff7d6e",
+          "#2176cc"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "ffp",
+        "name": "Lospec - FUZZYFOUR - P-Tux7",
+        "palette": [
+          "#fffdaf",
+          "#00faac",
+          "#ff3796",
+          "#302387"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "b4sp",
+        "name": "Lospec - B4SEMENT - BitBits",
+        "palette": [
+          "#f0f6f0",
+          "#3dff98",
+          "#ff4adc",
+          "#222323"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "bobmgp",
+        "name": "Lospec - 1BIT MONITOR GLOW - BRIGHTER - Polyducks",
+        "palette": [
+          "#f0f6f0",
+          "#f0f6f0",
+          "#f0f6f0",
+          "#222323"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "dobmgp",
+        "name": "Lospec - 1BIT MONITOR GLOW - DARKER - Polyducks",
+        "palette": [
+          "#f0f6f0",
+          "#222323",
+          "#222323",
+          "#222323"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "lohp",
+        "name": "Lospec - LOOK OF HORROR - ChuchuCasual",
+        "palette": [
+          "#d32836",
+          "#871c3e",
+          "#302d6a",
+          "#0a202f"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "p4p",
+        "name": "Lospec - PONG4 - BitBits",
+        "palette": [
+          "#fdfff2",
+          "#14e1ff",
+          "#ff7ad6",
+          "#5c4bff"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "htp",
+        "name": "Lospec - HEYTHERE - BitBits",
+        "palette": [
+          "#ffe737",
+          "#ff82ce",
+          "#1880f8",
+          "#151515"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "ss4p",
+        "name": "Lospec - SOFTSERVE 4 - Snowy Owl",
+        "palette": [
+          "#e3e6e8",
+          "#ead762",
+          "#64c1bd",
+          "#e64270"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "r4p",
+        "name": "Lospec - ROYAL4 - downgraded",
+        "palette": [
+          "#ebdb5e",
+          "#d4864a",
+          "#8a1fac",
+          "#521296"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "i4p",
+        "name": "Lospec - ITALY-4 - nayz",
+        "palette": [
+          "#edeada",
+          "#5d8d60",
+          "#c74634",
+          "#100f24"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "bbp",
+        "name": "Lospec - BUMBLE BEE - Mason Kaplan",
+        "palette": [
+          "#f6f6f6",
+          "#f8c868",
+          "#ff8e65",
+          "#3b3c40"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "fsp",
+        "name": "Lospec - FORGOTTEN SWAMP - Cactus Celery",
+        "palette": [
+          "#d1ada1",
+          "#4d7d65",
+          "#593a5f",
+          "#3b252e"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "grh4p",
+        "name": "Lospec - GRH-4 - Toha 2008",
+        "palette": [
+          "#ffffff",
+          "#ced7d7",
+          "#bcc7c7",
+          "#91a7a7"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "tbpp",
+        "name": "Lospec - 2-BIT PIPS - Aurel L.",
+        "palette": [
+          "#b5a37e",
+          "#647859",
+          "#7c3838",
+          "#3a3522"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "cbgbp",
+        "name": "Lospec - CHERRY BLOSSOM GB - Vectorial Transcooler",
+        "palette": [
+          "#ffffff",
+          "#ffeffe",
+          "#ffd3e1",
+          "#ffb7c5"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "cmyk4p",
+        "name": "Lospec - CMYK4 - timconceivable",
+        "palette": [
+          "#ffe666",
+          "#2ec7e6",
+          "#e62e6b",
+          "#222126"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "fpd",
+        "name": "FADED PRINT DARK - 2358",
+        "palette": [
+          "#ffffff",
+          "#a8a8a8",
+          "#949494",
+          "#545454"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "fpl",
+        "name": "FADED PRINT LIGHT - 2358",
+        "palette": [
+          "#ffffff",
+          "#d4d4d4",
+          "#c9c9c9",
+          "#a8a8a8"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "fpn",
+        "name": "FADED PRINT NORMAL - 2358",
+        "palette": [
+          "#ffffff",
+          "#dfdfdf",
+          "#ababab",
+          "#808080"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "fpw",
+        "name": "FADED PRINT WIDE - 2358",
+        "palette": [
+          "#ffffff",
+          "#dfdfdf",
+          "#ababab",
+          "#545454"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "pool241",
+        "name": "Hiroshi Nagai's Pool 24 1st",
+        "palette": [
+          "#FFF5FF",
+          "#8BC2FB",
+          "#104F59",
+          "#2A3636"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "pool242",
+        "name": "Hiroshi Nagai's Pool 24 2nd",
+        "palette": [
+          "#82CAF5",
+          "#244FA5",
+          "#283741",
+          "#25192A"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "sunset1",
+        "name": "Hiroshi Nagai's Sunset 1st",
+        "palette": [
+          "#AB7DB4",
+          "#682761",
+          "#3F1079",
+          "#12020C"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "sunset2",
+        "name": "Hiroshi Nagai's Sunset 2nd",
+        "palette": [
+          "#D7B8F9",
+          "#7272E9",
+          "#882F54",
+          "#190E1B"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "waves1",
+        "name": "Hiroshi Nagai's Waves 1st",
+        "palette": [
+          "#E1D5F9",
+          "#643EBB",
+          "#531FA0",
+          "#060503"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "waves2",
+        "name": "Hiroshi Nagai's Waves 2nd",
+        "palette": [
+          "#8d9bfb",
+          "#6895ea",
+          "#774263",
+          "#201129"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "architecture1",
+        "name": "Hiroshi Nagai's Architecture 1st",
+        "palette": [
+          "#ECE6ED",
+          "#895BF1",
+          "#9A4B0C",
+          "#34101D"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "architecture2",
+        "name": "Hiroshi Nagai's Architecture 2nd",
+        "palette": [
+          "#DF7051",
+          "#351262",
+          "#03100F",
+          "#020000"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "architecture3",
+        "name": "Hiroshi Nagai's Architecture 3rd",
+        "palette": [
+          "#EE7897",
+          "#B53639",
+          "#813246",
+          "#3F1E75"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "other1",
+        "name": "Hiroshi Nagai's Other 1st",
+        "palette": [
+          "#FDFFFD",
+          "#E99BB8",
+          "#9A1906",
+          "#172135"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "other2",
+        "name": "Hiroshi Nagai's Other 2nd",
+        "palette": [
+          "#C48751",
+          "#B48A48",
+          "#3E554B",
+          "#4B3338"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "cstmpink",
+        "name": "Pink Lemonade",
+        "palette": [
+          "#FFFFFF",
+          "#D4A6C1",
+          "#A84D82",
+          "#000000"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "cstmbrown",
+        "name": "Pien Brown",
+        "palette": [
+          "#f8f4f9",
+          "#ffd6af",
+          "#c49e85",
+          "#6b4b3e"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "cstmgreen3",
+        "name": "Earthy Green",
+        "palette": [
+          "#e8e4db",
+          "#c9c1ae",
+          "#9ba17f",
+          "#687351"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "cstmpurple2",
+        "name": "Washed Purple",
+        "palette": [
+          "#dabfff",
+          "#907ad6",
+          "#4f518c",
+          "#2c2a4a"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
       {
         "shortName": "cstmblue",
         "name": "Bright Blue",
@@ -2064,8 +2701,7 @@
           "fileExtension": "png",
           "mimeType": "png"
         },
-        "loading": false,
-        "error": false
+        "loading": false
       },
       {
         "url": "https://herrzatacke.github.io/gb-printer-web-plugins/stitch.js",
@@ -2084,7 +2720,7 @@
         "loading": false
       }
     ],
-    "lastUpdateUTC": 1744377664,
+    "lastUpdateUTC": 1744701483,
     "version": 1
   },
   "9caa3f5dd592732a3e8b7989fc6c150f6c3c3934": "xÚíËrìª\u0012Dç|MòH\n\r\u000büÿOº\u0003¤î¶÷ÙgrãDx`EÈ¸å\u0012RÃ\"ë¥?~\r~\r~\r~\r~\rþ?%@jYÂ2%¿N; ¥áF4ÍÑ-FQÐE@j]Ëä\u0015Y»x\u0010YÛ\u0007\rMÓ\u000b#¢äNî§;i\u001aØ;ç¾¯<7³]£§í¡\u0002\u0017AóáNîÈeªA\u0002A2½Q±wÎ¡\u0002lÇ`æF9æh<ßç¾% ¹\b\u0005ÊsÁEHÀ|?¢?#qÎçÙójç\u0011³·,\u0001×<\u0017dÇ0xÚd\u001fw9\u001f\u0003ÏÔòª©Uª6²bVs'\u001b¦R\u000e©OIMRHÌM©ï`©R²8³vlJâ%­)µ¢K!ó)\u0005¥~Ö]jF\u0012)Ù\u0016¥rIl\u0012ä\u0011þCdú5åÌyo\u0007ÕòÜÓÉ\u000b[©ABÓÌE±åNöuÕáÆ û\u000bÚîgzÜIfß>ÙB\u0005É\\­N/ë\u0018ÀåÙ4A_Wu'3·\u00156hî\u0016«Ôä\"\u0018^ÜÉ¯íNb©NRURRE\u0000w²µ9\u001dTn\u0012)Ò\u001b¹¬Mæ>S¯)¥\u00071Åi\u0019|HÑ\u0015g$\u001f\u0006oÔ¬\u0012Pf4¸ôf2¾2\u0019\u0002ª\u0016Rqr¡Ê3¥\f­«ÚÊu¯Qmåª´ªiò¼uËRdSf¦T²\u0000\tã\u0018,®KBH\u001c²\u0001)\u0005¤\u0002)çc¢@*\u001eÌÜ¥<$C¨\u0019p±aê\u0019ú\u001f£¥o1ÆYð»¦#\u0019ç\u000f\u0013RnÒl[É\u0004å\u001d!Ï§§>¤q+oòA{)¸\u001c÷\u001aü¢íÈuG¶\u0001\t!Crll¥0iK2´¥ÊÓFH2)ÉÎ×áó½Ïö,½ë¾>OOC¤*Ù%M{\u001b¿\u0017/¥)!ùý.{k{J©{°ç©>Â6$¢^õ1¤´V5PÎ*¬lÍ¾â0³Ô~¸\u001enD¨\u0014\u000fÖ¹Zj.¢iº¤û÷6\u001d¡(çÂå}îÅ\\Ç²4ÜÎ¢u²Öµ|3Ç*Õaü\b&_$gmdÝ\u001eJ1`Z¨©å£îMâ\u0018\u0012¬4Ík]ØJM\u0015ÒEÓ\u0018Ò\u0005;Âú ÇKÆ,!KÒ5Í$PÂ¼\rjh\nÇ\u0001Võ\u0010\u0015M3õKªòÚ­nV\u0015\u001b\u001fL>Pï]R\u0003±Â¤Xç/{v¹4fÊx.{<#yóÿ\u0010\u001dßÚ\u0014<oÝBÚûøÍYnx%¥uUëíý\n[CÖGX¬]ÑöLîd}\bÒoæ+zq\u0011Ç¡lf\u0018&PÜÉP6ò+Èaø\tQ\u001e(e+ãå*|²Q\u000eßÌ\u0011¥ødS ü\b&\r=»`Ú¨æ \u0016*'¨\u0001{¹æâÁlÛ\u0007q©{a k'\f\u0019ï¥¬íÑ0Un_.35¤ \u0003o4Í´4¬*&îÙ\u000bmRªâöR\\f}J2F\u0012.\t\n'MqC9%qßê\u0007Ái70Ûî\u0000ëÆzù¡{.)FRR¹ñSª\u0016\u001aü§äû×®»9¥'è{­G«·{Èä¢²6]ÜÓÅÝu¥YN4ü\u00045.bF+#x¼ÿÜ-2ø\n~_AïnY²÷\tUúÝÎ¸#ó¹æ<m}©ö\u001dôþ\b&\u0007L\u0003f~\u0018äÍ»U &¸8`òÂ@×¢hkÖV¦'D\u001f0¡\u001eùË8±W­\u00144)m°%'\u0015*ò Å.5Y6¤Ö¤­îA\u0003\u0017\u001b<Z9ÎýÊý\u001aÍ4`áàl}æ¦Hi\u0014i\u0006Í0\u0015­j±ê\n³²h[bvHRuÉLCJSç%;CcJ¨§<Snß\u001dÈí7\fµÅÛH¡Âòµu)ï\u001d¾\u0019±öºãjãüÊûasF;*gú\u001aÓ~?OÐ\u001b(ñÄ´O\u0010|NO×¯¨ø6¸tòGä8\u000eÚBå9 ^0k$d\u0019;y¦0%5ªfípqH(3Z¶=\u0012\\,\fw'?GTóä\u001dÉÅ¬º#g\u0005  i\fÔ2`\tV\u0010ÊYjej{¦\u0002%õÈÐ\u000063Ð5ÂlÌë¤ú-k§>25`}dõ|)\u001dY\u001b9å)¦-.HùÊ¦+KI P\u0014>I_oµ\u000b\u001eIªó08ð`JÑ¤Ù¤¤®ÐÔR\bÖ5Hí0í önÚI~²¢,ÛÈ5Pì¾¦µ;¿:lÚ±_÷õdßò,~G\u0006h\u0002\u0016Àüèác¨ójÝ7ý dAÌÉ\rNÂé`í¸è \bOË+)Ç\u0013\u0005ûf.\u0016Ã¼z¿ÒVF¨¼üÃÃ¦O¶\u001d¹$]hZ@\u001d­i\u0001\u0005l±\nÖÈÍú\u0018©\\´hEvå6\u0004\u0000\f@\u0006\u0000 ±I*S4E¿Ô+\u001bf;e\u0016à.Ô\u0006..¬:Ðò}÷ÓCYSÆP\fIË!m\\VGzX;FË´¢Vwæ#'¥%$=Å3H>h\u0002\u0018êchÓ´f×\nÚC+.-_\u001aéÅàÍ¥ÙÝê\u0000ª}\u0015±\u0007w¹é&ñI¾üv§ÙéúÅä\u0003ésÇë3\u0012\u000eV\u0007é`h\\¨µaÒ\u000f£É´>.ls¶æ\"èxª!íó\\\u0010å\u0019¸W\fS2ö»Hòe\\6ð\u000fÇ\u0000Ð\u0000,\u0000)ãß?{øvG2\u00016ÏØïúy·\u001a@êÌp\u0000lw\u0007ùkO\u0003V\u0017*;rY¨,`]¨tP\u0015+\u0019clh´!!\u0018\u0003\u0006GËëôÐ{þÂ$\r¨\u0002ÚÎ¹\nHÁ[´øµ²ù'\u0004ö~«\u001c\tìïþ@Ìø6øÂ¤ñ=?zÐþIL\u0006JóÌÙq±3Pè8Å\u0001¯'C{\u0010Û=¿\u0002pÊß\u00035_éí(Ìw£}\u001cê$&â\u0012OÛ\u0000\u001b\u0003jþ\\\u0005î5ýÁb\u0006öBu'Ñ5SgÆ5\nÚÊðqÏÁ\u0000|\u0011­i¤W<m~Ðk¨u¡&\u0013ÚBÝ#¬¡h]Ù\u0016\u0016©µVj÷³_T\u0003(\u0000Ú#æ¶ëÍc¹\u0017o}\u0002\f\u0001LîÛ¡ÎO&?TÍïvîOü0Ø\u000fLò\u0013óýþÃÒÉæùÅ¤\nÂü,ÿæµb%w¾}÷Ds'&]äd÷Ë'[Õzûî{«$=»-\u001eí½BÅò|â¨Þ2b\u0014ìva{À/6\t70\u001f\u0007\u0001D.h£joä47\\\u0005\u001d F\u0001XÑØýJ\b\u0001K(\fÈïÙ|j¦g\u0003µ>¹N\u001dbÏlÛrx¥\u0012©uáÄN¡ÊªÄy~\"Ü÷\bþ-¼\u0019ôÂø#?Å70¦É%ASm.)ñS\u0006oÔæ§N~gðK»¿Q­ý!¤ñìóÉe\u000eZ tÏ'|\u0015&&ià\t°¦7\u001a¿²ÅíqîN®QmÊeG*yG.îäÌm?û:ÛIFaq¸¼Q­OyÐvÎr¤ßµOÍ#Ç.>ÉºW&\u0017\u0002\u001bÉf&ê{\u000eú\u0015F;e§Z¡t5\b/l×TÎÒÕO¦²!¥MKvîh\u0012ã\u0014B'sNO\u0006ý\u0010ô\u001cñ×¼û1°\u0014¥'+z\fûHÐ%%{bÚ8ý>»P\u0016Ç8\u00016\u0007r,T-\\\\Z± ­\u000f\u0019Ôß\u0002ÎïÎÝ~ Nö©ÙýÝîg/9b\u0014%ßÌ{å\u0013ì7>ï÷\u001f2dí×Öáp#.õË(RQ\u0010Mw±hÍêz@)·ÒPRrRÕné¹s]Íwj:\u0003{\u000bÌZNm»d%¨¥h@­ï9(\u001elSª&]MJ;S«VyÐp!mJvvRèæ§Êø°foû`p¿_ó\u0006<¿¼Xä\u001bN×Suÿ øO!WÉþýð3\u001dá\\!tÓÐT4d\u001a>\u0002Î»µ;,xå8ñ-S\u0019þ¤údgÖÊUÝr¬\\eÌZånGUª\u00161 »è%\u0003RÈ8 ¥&HªqÎ ©\u0014w)0Ua~»ñ]MÙÏtïyÜ,K³¿wcRtÅûÅq vOqbÈ\u001fÔ¾o°è¥Qú(\u001aþÓ@Ù#\u001f·Ç§MIê§FþãRÌ[H¿\u001cñM\u0006eg[(¾\u0015Óßï\u0010\u001fÎü9æ1ÜSJ6ÕvÕ\"$ó}?bJJ]§Ôóìü`+PÙ\u001eÜU+í»\u0016´óÙf³oÿròû¿I¿\u0006¿\u0006¿\u0006¿\u0006ÿµÁÿ\u0000Ð\u001c>",
