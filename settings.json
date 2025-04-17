@@ -2572,6 +2572,30 @@
     ],
     "palettes": [
       {
+        "shortName": "cstm4p",
+        "name": "4PROCES",
+        "palette": [
+          "#049cc4",
+          "#ff6600",
+          "#7c047c",
+          "#000059"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "cstmgrey",
+        "name": "Brunhilde",
+        "palette": [
+          "#e3d9c7",
+          "#b8a591",
+          "#827164",
+          "#433a33"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
         "shortName": "cstmgreyblue",
         "name": "Light Blue Grey",
         "palette": [
