@@ -406,8 +406,8 @@
         "title": "Lumberjack_1",
         "lines": 360,
         "tags": [
-          "Converted",
-          "Lumberjack"
+          "📸 Lumberjack",
+          "Converted"
         ],
         "palette": "kditw",
         "framePalette": "bw",
@@ -422,8 +422,8 @@
         "title": "Lumberjack_10",
         "lines": 360,
         "tags": [
-          "Converted",
-          "Lumberjack"
+          "📸 Lumberjack",
+          "Converted"
         ],
         "palette": "fsil",
         "framePalette": "bw",
@@ -438,8 +438,8 @@
         "title": "Lumberjack_9",
         "lines": 360,
         "tags": [
-          "Converted",
-          "Lumberjack"
+          "📸 Lumberjack",
+          "Converted"
         ],
         "palette": "bw",
         "framePalette": "bw",
@@ -453,8 +453,8 @@
         "title": "Lumberjack_8",
         "lines": 360,
         "tags": [
-          "Converted",
-          "Lumberjack"
+          "📸 Lumberjack",
+          "Converted"
         ],
         "palette": "bw",
         "framePalette": "bw",
@@ -468,8 +468,8 @@
         "title": "Lumberjack_7",
         "lines": 360,
         "tags": [
-          "Converted",
-          "Lumberjack"
+          "📸 Lumberjack",
+          "Converted"
         ],
         "palette": "cstmyellow",
         "framePalette": "bw",
@@ -484,8 +484,8 @@
         "title": "Lumberjack_6",
         "lines": 360,
         "tags": [
-          "Converted",
-          "Lumberjack"
+          "📸 Lumberjack",
+          "Converted"
         ],
         "palette": "cstmgreen",
         "framePalette": "bw",
@@ -500,8 +500,8 @@
         "title": "Lumberjack_5",
         "lines": 360,
         "tags": [
-          "Converted",
-          "Lumberjack"
+          "📸 Lumberjack",
+          "Converted"
         ],
         "palette": "bw",
         "framePalette": "bw",
@@ -515,8 +515,8 @@
         "title": "Lumberjack_4",
         "lines": 360,
         "tags": [
-          "Converted",
-          "Lumberjack"
+          "📸 Lumberjack",
+          "Converted"
         ],
         "palette": "bw",
         "framePalette": "bw",
@@ -530,8 +530,8 @@
         "title": "Lumberjack_3",
         "lines": 360,
         "tags": [
-          "Converted",
-          "Lumberjack"
+          "📸 Lumberjack",
+          "Converted"
         ],
         "palette": "cstmorange",
         "framePalette": "bw",
@@ -546,8 +546,8 @@
         "title": "Lumberjack_2",
         "lines": 360,
         "tags": [
-          "Converted",
-          "Lumberjack"
+          "📸 Lumberjack",
+          "Converted"
         ],
         "palette": "cstmyellow",
         "framePalette": "bw",
@@ -2368,6 +2368,7 @@
         "lines": 360,
         "tags": [
           "__filter:favourite__",
+          "📸 Vera",
           "2BitToy Camera+",
           "Mart"
         ],
@@ -2418,8 +2419,8 @@
         "title": "Lumberjack_11",
         "lines": 360,
         "tags": [
-          "Converted",
-          "Lumberjack"
+          "📸 Lumberjack",
+          "Converted"
         ],
         "palette": "cstmgreyblue",
         "framePalette": "bw",
@@ -2434,8 +2435,8 @@
         "title": "Lumberjack_12",
         "lines": 360,
         "tags": [
-          "Converted",
-          "Lumberjack"
+          "📸 Lumberjack",
+          "Converted"
         ],
         "palette": "tpa",
         "framePalette": "bw",
@@ -2450,8 +2451,8 @@
         "title": "Lumberjack_13",
         "lines": 360,
         "tags": [
-          "Converted",
-          "Lumberjack"
+          "📸 Lumberjack",
+          "Converted"
         ],
         "palette": "roga",
         "framePalette": "bw",
@@ -2466,8 +2467,8 @@
         "title": "Lumberjack_14",
         "lines": 360,
         "tags": [
-          "Converted",
-          "Lumberjack"
+          "📸 Lumberjack",
+          "Converted"
         ],
         "palette": "cmyk",
         "framePalette": "bw",
@@ -2839,44 +2840,7 @@
         "isPredefined": false
       }
     ],
-    "plugins": [
-      {
-        "url": "https://herrzatacke.github.io/gb-printer-web-plugins/average.js",
-        "name": "Average",
-        "description": "Create an average over a set of images",
-        "configParams": {
-          "scaleFactor": {
-            "label": "Image export dimension factor (1x, 2x, ...)",
-            "type": "number"
-          },
-          "fileExtension": {
-            "label": "Filetype: Use \"png\", \"jpg\" or \"webp\"",
-            "type": "string"
-          }
-        },
-        "config": {
-          "fileExtension": "png",
-          "mimeType": "png"
-        },
-        "loading": false
-      },
-      {
-        "url": "https://herrzatacke.github.io/gb-printer-web-plugins/stitch.js",
-        "name": "Stitch",
-        "description": "This plugin stitches separate images while removing appropriate top/bottom frames",
-        "configParams": {},
-        "config": {},
-        "loading": false
-      },
-      {
-        "url": "https://herrzatacke.github.io/gb-printer-web-plugins/toSav.js",
-        "name": "To .sav",
-        "description": "This plugin creates a .sav file with a maximum of 30 images",
-        "configParams": {},
-        "config": {},
-        "loading": false
-      }
-    ],
+    "plugins": [],
     "lastUpdateUTC": 1744845335,
     "version": 1
   },
