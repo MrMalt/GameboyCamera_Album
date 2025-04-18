@@ -575,7 +575,6 @@
           "__filter:favourite__",
           "📷 Gameboy Camera",
           "📸 Mart",
-          "Misc",
           "Ties"
         ],
         "palette": "kditw",
@@ -742,8 +741,7 @@
         "tags": [
           "📷 Gameboy Camera",
           "📸 Mart",
-          "Guus",
-          "Misc"
+          "Guus"
         ],
         "palette": "roga",
         "framePalette": "bw",
@@ -800,8 +798,7 @@
           "📷 Gameboy Camera",
           "📸 Mart",
           "Guus",
-          "Mart",
-          "Misc"
+          "Mart"
         ],
         "palette": "bgb",
         "framePalette": "bw",
@@ -827,10 +824,9 @@
         "lines": 360,
         "tags": [
           "📷 Gameboy Camera",
-          "📸 Mart",
-          "Misc"
+          "📸 Mart"
         ],
-        "palette": "llawk",
+        "palette": "cstmgreen",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -854,8 +850,7 @@
         "lines": 360,
         "tags": [
           "📷 Gameboy Camera",
-          "📸 Mart",
-          "Misc"
+          "📸 Mart"
         ],
         "palette": "grafixkidgray",
         "framePalette": "bw",
@@ -882,8 +877,7 @@
         "tags": [
           "📷 Gameboy Camera",
           "📸 Mart",
-          "Kiruna",
-          "Misc"
+          "Kiruna"
         ],
         "palette": "bgb",
         "framePalette": "bw",
@@ -911,7 +905,6 @@
           "📷 Gameboy Camera",
           "📸 Mart",
           "Kiruna",
-          "Misc",
           "Ties"
         ],
         "palette": "ffs",
@@ -940,8 +933,7 @@
           "__filter:favourite__",
           "📷 Gameboy Camera",
           "📸 Mart",
-          "Kiruna",
-          "Misc"
+          "Kiruna"
         ],
         "palette": "cstmorange",
         "framePalette": "bw",
@@ -969,8 +961,7 @@
           "__filter:favourite__",
           "📷 Gameboy Camera",
           "📸 Mart",
-          "Kiruna",
-          "Misc"
+          "Kiruna"
         ],
         "palette": "cstmgreen",
         "framePalette": "bw",
@@ -997,8 +988,7 @@
         "tags": [
           "📷 Gameboy Camera",
           "📸 Mart",
-          "Kiruna",
-          "Misc"
+          "Kiruna"
         ],
         "palette": "bw",
         "framePalette": "bw",
@@ -1025,8 +1015,7 @@
         "tags": [
           "📷 Gameboy Camera",
           "📸 Mart",
-          "Kiruna",
-          "Misc"
+          "Kiruna"
         ],
         "palette": "gbcub",
         "framePalette": "bw",
@@ -1095,7 +1084,8 @@
           "bloodType": "-",
           "comment": "",
           "isCopy": false
-        }
+        },
+        "rotation": 0
       },
       {
         "hash": "ae22fb961e0a09438090c48c281076c4e0c8a4ea",
@@ -1412,8 +1402,7 @@
         "lines": 360,
         "tags": [
           "📷 Gameboy Camera",
-          "📸 Mart",
-          "Misc"
+          "📸 Mart"
         ],
         "palette": "datn",
         "framePalette": "bw",
@@ -1465,7 +1454,8 @@
         "framePalette": "bgb",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "",
+        "rotation": 0
       },
       {
         "hash": "a2c4dadefb07e35738498cc8414e7352fe3fe34b",
@@ -1481,7 +1471,8 @@
         "framePalette": "bgb",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "",
+        "rotation": 0
       },
       {
         "hash": "0951051e1f7eb91cc865c071f98eb108338d41a8",
@@ -1497,7 +1488,8 @@
         "framePalette": "bgb",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "",
+        "rotation": 0
       },
       {
         "hash": "3099acb83cf47efbc8a3c8a223198a654d0febb5",
@@ -1507,8 +1499,7 @@
         "tags": [
           "__filter:favourite__",
           "📷 2BitToy Camera+",
-          "📸 Mart",
-          "Misc"
+          "📸 Mart"
         ],
         "palette": "gbcla",
         "framePalette": "bw",
@@ -1520,7 +1511,7 @@
       {
         "hash": "da301008107fb3484d5456a2335160ca15e0b89a",
         "created": "2025-03-22 21:16:47:463",
-        "title": "Pien_3",
+        "title": "Pien",
         "lines": 360,
         "tags": [
           "__filter:favourite__",
@@ -1553,8 +1544,7 @@
         "tags": [
           "__filter:favourite__",
           "📷 2BitToy Camera+",
-          "📸 Mart",
-          "Misc"
+          "📸 Mart"
         ],
         "palette": "gbcla",
         "framePalette": "bw",
@@ -1625,8 +1615,7 @@
         "lines": 360,
         "tags": [
           "📷 Gameboy Camera",
-          "📸 Mart",
-          "Misc"
+          "📸 Mart"
         ],
         "palette": "bw",
         "framePalette": "bw",
@@ -1643,8 +1632,7 @@
         "tags": [
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Guus",
-          "Misc"
+          "Guus"
         ],
         "palette": "shmgy",
         "framePalette": "bw",
@@ -1660,8 +1648,7 @@
         "lines": 360,
         "tags": [
           "📷 Gameboy Camera",
-          "📸 Mart",
-          "Misc"
+          "📸 Mart"
         ],
         "palette": "gbcua",
         "framePalette": "bw",
@@ -1678,8 +1665,7 @@
         "tags": [
           "📷 Gameboy Camera",
           "📸 Mart",
-          "Guus",
-          "Misc"
+          "Guus"
         ],
         "palette": "ffs",
         "framePalette": "bw",
@@ -1696,8 +1682,7 @@
         "tags": [
           "📷 Gameboy Camera",
           "📸 Mart",
-          "Guus",
-          "Misc"
+          "Guus"
         ],
         "palette": "bbp",
         "framePalette": "bw",
@@ -1724,8 +1709,7 @@
         "tags": [
           "__filter:favourite__",
           "📷 2BitToy Camera+",
-          "📸 Mart",
-          "Misc"
+          "📸 Mart"
         ],
         "palette": "kditw",
         "framePalette": "bw",
@@ -1751,8 +1735,7 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Mart",
-          "Misc"
+          "📸 Mart"
         ],
         "palette": "obmgp",
         "framePalette": "bw",
@@ -1769,8 +1752,7 @@
         "tags": [
           "__filter:favourite__",
           "📷 2BitToy Camera+",
-          "📸 Mart",
-          "Misc"
+          "📸 Mart"
         ],
         "palette": "gbcla",
         "framePalette": "bw",
@@ -1797,8 +1779,7 @@
         "tags": [
           "__filter:favourite__",
           "📷 2BitToy Camera+",
-          "📸 Mart",
-          "Misc"
+          "📸 Mart"
         ],
         "palette": "gbcla",
         "framePalette": "bw",
@@ -1908,8 +1889,7 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Mart",
-          "Misc"
+          "📸 Mart"
         ],
         "palette": "kditw",
         "framePalette": "bw",
@@ -1935,8 +1915,7 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Mart",
-          "Misc"
+          "📸 Mart"
         ],
         "palette": "wtfp",
         "framePalette": "bw",
@@ -1963,8 +1942,7 @@
         "tags": [
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Guus",
-          "Misc"
+          "Guus"
         ],
         "palette": "glmo",
         "framePalette": "bw",
@@ -2077,10 +2055,9 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Mart",
-          "Misc"
+          "📸 Mart"
         ],
-        "palette": "llawk",
+        "palette": "cstmgreen",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -2113,8 +2090,7 @@
         "tags": [
           "__filter:favourite__",
           "📷 2BitToy Camera+",
-          "📸 Mart",
-          "Misc"
+          "📸 Mart"
         ],
         "palette": "bw",
         "framePalette": "bw",
@@ -2130,8 +2106,7 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Mart",
-          "Misc"
+          "📸 Mart"
         ],
         "palette": "cstmyellow2",
         "framePalette": "bw",
@@ -2147,8 +2122,7 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Mart",
-          "Misc"
+          "📸 Mart"
         ],
         "palette": "obmgp",
         "framePalette": "bw",
@@ -2166,7 +2140,6 @@
           "__filter:favourite__",
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Misc",
           "Thomas"
         ],
         "palette": "tpa",
@@ -2183,8 +2156,7 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Mart",
-          "Misc"
+          "📸 Mart"
         ],
         "palette": "obmgp",
         "framePalette": "bw",
@@ -2201,7 +2173,6 @@
         "tags": [
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Misc",
           "Puk"
         ],
         "palette": "grafixkidgray",
@@ -2220,7 +2191,6 @@
           "__filter:favourite__",
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Misc",
           "Puk"
         ],
         "palette": "grafixkidgray",
@@ -2274,8 +2244,7 @@
         "tags": [
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Antwepen",
-          "Misc"
+          "Antwepen"
         ],
         "palette": "roga",
         "framePalette": "bw",
@@ -2292,8 +2261,7 @@
         "tags": [
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Antwepen",
-          "Misc"
+          "Antwepen"
         ],
         "palette": "roga",
         "framePalette": "bw",
@@ -2310,10 +2278,9 @@
         "tags": [
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Antwepen",
-          "Misc"
+          "Antwepen"
         ],
-        "palette": "bobmgp",
+        "palette": "grafixkidgray",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -2328,8 +2295,7 @@
         "tags": [
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Antwepen",
-          "Misc"
+          "Antwepen"
         ],
         "palette": "pool241",
         "framePalette": "bw",
@@ -2347,8 +2313,7 @@
           "__filter:favourite__",
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Antwepen",
-          "Misc"
+          "Antwepen"
         ],
         "palette": "aqpp",
         "framePalette": "bw",
@@ -2366,8 +2331,7 @@
           "__filter:favourite__",
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Antwepen",
-          "Misc"
+          "Antwepen"
         ],
         "palette": "kditw",
         "framePalette": "bw",
@@ -2385,8 +2349,7 @@
           "__filter:favourite__",
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Antwepen",
-          "Misc"
+          "Antwepen"
         ],
         "palette": "bw",
         "framePalette": "bw",
@@ -2404,8 +2367,7 @@
           "__filter:favourite__",
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Antwepen",
-          "Misc"
+          "Antwepen"
         ],
         "palette": "hipster",
         "framePalette": "bw",
@@ -2621,9 +2583,13 @@
       {
         "hash": "c960c9becaa013e668e1b20003ba576b1fc467bf",
         "created": "2025-04-18 00:44:48:000",
-        "title": "gbcImage_2025-04-18_00-44-48.txt",
+        "title": "Pien_4",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Pien"
+        ],
         "palette": "d2kr",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -2634,9 +2600,13 @@
       {
         "hash": "c45dc5f194406f0210a31c5654a9bebdd57e2bc0",
         "created": "2025-04-18 00:44:52:001",
-        "title": "gbcImage_2025-04-18_00-44-52.txt",
+        "title": "Pien_5",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Pien"
+        ],
         "palette": "d2kr",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -2647,9 +2617,13 @@
       {
         "hash": "c82003fdaba55ec8281f80364be959f2acd2ad41",
         "created": "2025-04-18 00:44:54:002",
-        "title": "gbcImage_2025-04-18_00-44-54.txt",
+        "title": "Pien_6",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Pien"
+        ],
         "palette": "d2kr",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -2660,10 +2634,13 @@
       {
         "hash": "2eb2838be6fe7b9726cde4c6255018964b7b2cd7",
         "created": "2025-04-18 00:44:56:003",
-        "title": "gbcImage_2025-04-18_00-44-56.txt",
+        "title": "Pien_7",
         "lines": 360,
         "tags": [
-          "__filter:favourite__"
+          "__filter:favourite__",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Pien"
         ],
         "palette": "d2kr",
         "framePalette": "bw",
@@ -2675,9 +2652,13 @@
       {
         "hash": "8888152d91cf06e4fd80dea1cdb3bcce48e415bb",
         "created": "2025-04-18 00:44:58:004",
-        "title": "gbcImage_2025-04-18_00-44-57.txt",
+        "title": "Pien_8",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Pien"
+        ],
         "palette": "d2kr",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -2688,10 +2669,13 @@
       {
         "hash": "eda714739c6ddb125dc8986ca4a46f984f65ed8e",
         "created": "2025-04-18 00:44:59:005",
-        "title": "gbcImage_2025-04-18_00-44-59.txt",
+        "title": "Pien_9",
         "lines": 360,
         "tags": [
-          "__filter:favourite__"
+          "__filter:favourite__",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Pien"
         ],
         "palette": "d2kr",
         "framePalette": "bw",
@@ -3099,8 +3083,37 @@
         "isPredefined": false
       }
     ],
-    "plugins": [],
-    "lastUpdateUTC": 1744879417,
+    "plugins": [
+      {
+        "url": "https://herrzatacke.github.io/gb-printer-web-plugins/average.js",
+        "name": "Average",
+        "description": "Create an average over a set of images",
+        "configParams": {
+          "scaleFactor": {
+            "label": "Image export dimension factor (1x, 2x, ...)",
+            "type": "number"
+          },
+          "fileExtension": {
+            "label": "Filetype: Use \"png\", \"jpg\" or \"webp\"",
+            "type": "string"
+          }
+        },
+        "config": {
+          "fileExtension": "png",
+          "mimeType": "png"
+        },
+        "loading": false
+      },
+      {
+        "url": "https://herrzatacke.github.io/gb-printer-web-plugins/stitch.js",
+        "name": "Stitch",
+        "description": "This plugin stitches separate images while removing appropriate top/bottom frames",
+        "configParams": {},
+        "config": {},
+        "loading": false
+      }
+    ],
+    "lastUpdateUTC": 1744934951,
     "version": 1
   },
   "154306671b78dbc52348f1cfaa8d85d1e78f38f8": "xÚíÝ#+®ïy%\u0019%ò¥H´ÞÿÎ\u0005N»ªºöDì³gbbìèÊN[Éô±\u0010G'GO#5Ö}Ìû\u0012AÖJF\"ózÝãÃ\u0000 Uç5|^ËõA\u0015¤âu\u000f%Ö\u0007î$\rJB9y_×\u0007î­\u0001¤Æ°Y½\u001bD¡²»¶q\u0019Të\u0011a&\u0011i\"5{\u0019éÑ¬ÔÚ¯\u000f2ÄÌ\"zV1\b\u001aXFt«b\u0019\u0019bb\u0019=ªE0`Åjt\u0006¬JO&d!Á\\UEDÕÚ{Ð Éé½qõÂjôP\u001b\u0015\u00116\rSèhÓ0î\u0007.WûÍ`ùfú!Ä=Xþ£}\u001fnØë¾D'ÍÈHRÖ\u0017×½¥´Aó~{À,¼½Z[íõ@¹3xÊdÒñº\bÒ@úêEÜºmpgP×½ôh6S\u000eÇÍQÊ\u0001d½\u0011u¡\u0016f\"W,Â­]Èm\u0003Ë\u0006}GÓ½µNfäep\u0012Æx«â\u0002EzF]\u0010KfÐp\u0019DFÚUmEd\u0014c h0H\nÚpí£Âlz¨Eô¨ÖlùÒ\u0010\f\\÷/h%2C®6öT¿õ?M¬ÆõÀ\u000bÚåÉ3\u001eöF¹[» E¼b¡\u0018Ü+\u001a$ä\u0015Åë{¸ï´\rôR¾`½A[í\u0005PÙæ\u0007´¹\u001e(=ìënÃúWv«/\u0011»ZÀøÆÆ0\bScÜxø@íM/Ò¤l\u000ev¸«õ7I*&Ýk»Äkö^§AÊ n\u0015Âì½Ö\u001dÍ\u000bë\u0015½ÍXFR&0\fØ&È,¢³ÂÚ\u001ckå.$À1]u\u0011Õèè¬hÍ\t±1okîf@\u0019C\u001dõªb\u0019¦>\u001aPilÜ1T\u0007\u000168ÇjÃeÐ¥¡ÊÐðNõöýÝÕoT\u000báÖ\fÁíêÞk-¸\tG¸µ>\r%2]Z¹\u0000Ñ\u000f)þÄÞtiïT;ÛÒBÈè\u0013Ú-ÉoÀ h¨ìûþ\u00121a.Ì­M\u001aã¥Qb\u0019¡6D2£[Ýr\u0001³\tÚÙá¿¢i#´³âagì ±£¶6Å¸\fÓèYEZú\u0015'ªqNûå\"h2!c%\bï\u0006½ÖØ\u0005Ì\u001c¯\u0012FÓÙ ¢?ëlC[È]E\u0015\u00010ÖÂ\u0001Ý!jkè6\u0002IÀ\f(lð¤À®ù\u0016\u0018«¤i°6=øÇLN\u0001å\u0003µ\r×]\u0002;ê®²Ø\u0019Îzõ{<UÙ\u0016Õí®Õ\u001f\u0003h\u0004Õè©2¬FÏ\u0014\u0019¦Ú×Ú{À(Èw­^×rôÊÄ¶íô`C{äKHÏÊ.A{#µ6LCcØ0\rÍ!ÅÎxD·j\u0012Ù{­Ã\"\"Ù32CÚ\u0004\u0015m\rí6\\i@\u0019OUWüI ³\r>£¹cA\u0007Ûäa\u001a\u0001\u0006äòÜÅÃ[4ÇÞç\u0017\u0011Û`@ïñg\u0002c]­\u0002eì)ìñg\u0006\u0017QúzÂXUd\u0002b@a­Í\u0004Ì6ÔUB\u0003PvQûÊÕ¸H \nP®\"\tØýßUT\u0003JkîK>`íÕÍ«±¾ØÝì\u0004\u0006\u001eñæêí¨k íX¡z\u001fÝ;Ág\u001eG:T\u001b\u000fÌ\u00103\u0004÷\fäÑ>²â­´;éu[J[¿NÉ×ì?LCû¨Ïvx£Ã,â`\u0007\toÍõ\u0012-Z6bV¸W\u0006\u0003\u001c\n\u0012n\rÊ¾F÷\nû\u0005L' \u0003èáh¦`K­\u0007ÛÅ=&(\u0019\u001c@É\u0000ZÁ1¨Õ:¹\u0000%\u0002e X\u0006\u0000<æ}\tEÏ«ï\u0012\u0014\u0000\u0016\u000fuQ\f\u0000ª³ýU\u0018à9?\bW¿\u001bìq\u0000¹=º«è»N\fî*Ôï%ÔYØ4ÀêÅì&_\u0014\u0000GÎ\u00123\u0000T dLnH´y}\rÞ6cÑ\u001ap\u000eU[b>¬Úwîr¥(;§Ù\u000b±\b³½ðº3!Ë@mÜ³²¾&÷zKUñ!¤}5räZ\u000eÇ3R7Q\u000e6E&¼U<î\u0012$\u0002-\u001c¹ Íp\u001c&st\u000bd{yn»¼byrÆÂÑD\u0011\u0001Ç\u0003ª;xùM°\u0000 Ô¡X\u000f\b´¼\u0001\"·hn`Ö=ÜoÜ+û?þ\u000eÒW^E5øÅ¢ >\u001añià\u0001àæ{\u001b´\u0000ö÷qqÝïÁÛ\u0004ït\u0003j\u0003è;=\u0018¦o\u000b±1TGÇLz\u0012R¾°x[g½ \u0011NªVÑ©\u0018¬Ò?2Ò½9pËLÝ[+-\u0001Ú\u001cr¬@\u000b`¬+ícø,¥Y:!\u001b\u0018\u0018ð\\\u001fÄ'\u000f©\u0015\u0015\bTÈ,ß%¸O@4×SªÃ\u0011\u0013²\nÿ\u0001s²\t¨7ZÑü\bsÝv\u0007\u0000@~AÎ¿aRVÖÿeì}\u000e¤íâOÊKÄà\u000bÚOÉ%$ÇÇ0(Ã42EØàWz0¦ÒBVÂy-\bô\u0001å=Ø°dfmå½rÚ\réç.Ê\u0001+Ài@óªIMà)ktïiÐêXñ\"«èR¼\u0001So4õ¡¾úí?Øç«¾\fdb¯¸½«/Ê\u001c~gâÍà\u001dYhQ¬q\u0000<þXÅE´\u000bp¼*)?óì\u0010ÈÍ@QZÿI'7@\fêû\u0003?ª}üeìñøÁÉº¶hµÎ{]\tGé·5­4aØ\\-½¼Öº\u0007\u0003ºï3Ä:pb\u0016y®äÆW·\u0006nL^\u001a¥\u001f#ëÒEýaøÿ:©á\u001f0Ð¿T\u000e?Uá3vu\u001b\u001cK{·N+tÅR\u001drà@\"q AoÞÐpxó<ÛyàøJÔï»þ|JrùIË/ùñc!<VN+\u001fÈÙ}{¡\u001b\u001dµG#0Lçýp=R¯}¹ëç\u001a}ÿL)Rt78æ5Õ1\\\\\u0005\u000f¿\u0013\u0015þ.`î\u000eÁãÕÍøFáþì¨ÉÀ@\u0004x\\T~y\u0017 §³&\u000e\u001chÚpÈ!\u001fø`Òß|øÄ\u0013ÕáC#5æRîï5{f¤2çI`¦\tU^á-}@¯uÖÒË½½ ²6(ö¢eØýi·uPvT>q@7ÄÞµvï\u001dA¾ÄüñöýwyÔ\u0003\u000flÃ?:êøÆð[O\n\u001eëÏ\u001f§E@ þ\u001fÂäßåÀ¡Lþ¦fnåÚY6\u000e\u0001\u001cÏO½._ûï¨¨WHþ¶ùâ\u000f\u0002ò¸c ø\u001f¼í`\u0000±²èkË«s\u0019ì=±½aµ÷ô{#õ?Y£N8_gÜ/%¨?¾MÞª8q\u0002ú\u0017\u0006\u000eº\u001c¿3¹´³$^ï\u0013Ä\u0004ëïXL®¼í^l\u0006µ\nD!x~;wã,úïÊnÂùUi×¢87+áÄZ\u000bÏÿñÚÙ¾®[H5ÞÛ®\u0015\u0010&§\u0014ø×\u000eîµþ÷Ì¼ÿ:9W\u0007yò<ÏçÁã<èé'^ïo½w@o¼#øî\u001f¡­?B«?0\u0019zÛª{Îºéd®¥ýµ(Ú{ïï\u0019h'ÐÖ¯Q6r3ô<\u001fÎÏóäÌ k\u001bdóÑÊ\u0003p'²?ñ|\u001c°ñhy\nÓ>íÚç\u0013°p<ªCõÐ\u0002\u0010H¹ó÷Ý»ü¬j¿Ê¼\u0015ÿ\u0017\u001b9Ó:q\u0017Y:´Ê¨ßÌ®skâ±%¨¯!öF>\fÆµ±ßo\u001bû\u0006ô6QË\u0000Ð6ë75±\nöÖ*È3\u0014æÁñ$äyp\fÌÁÎÑûà<(BRºãÑÏ<z£\u001d=Èf#K={D\u0005\"+\u0014çÓPñÔty´³¼¦Ä\u000b\u000fÒþ`\u0010«]¯N~òø\u000bzbÔó\u000f\\ûZß\u001aØûÜ­»ú\n@\u001eñipÛ\u001c5Á*\u0000Mør*\u001cÈ\u0001=(|ý\u0018km-½ÖãùÌ£=ã\u0011þlÙL>ÚYö/?\u000fË`?Ç¡\u001c0Á\u0003RjeOµa-=ù°#\u0018ÕÌ2Ò­\u0015=äA&Ûë`[>H6²ôàI£×d§­oäIEÝk³\u0013Í<\u000e¥å>õæÓ®ì¹$W´5hÏLÔJ\u0016]Ûðî@v©\u0011dGÅ®³I·ÄúÙ\u0000ékUh\f\u0013²0\u0001é¨ ]Êú\u001cs4S1\f¹~c®3{P Æ<Ì¸sÄV\b²\tYBçæXÞt©\u000eA\u0004iB\u0016\b¤\t\u0004H(!ñ´¶Á\\L¦`;Ávzúh¹\u000b\u0016Èúásq0ªv`\u001eâ2#K÷Õ6J\u001e2O}5Û\u001c¯\u001fë\u0014óÈÍu4ñ±¾HMvÿ÷\u0019Æb=Z°5ïäùEï× Y\u001e>ÁøéU¬F×:æÁÊo\fËÑ_u¶ï\fø\u0017\u0000ü#\u0006K ¿6\u0012\u0000æ»\u000fýÀW\u0003ûÁ`Ü\u000er\u001de~3hö§6ÄÍ?õâ:úÁfùªû½\r·*>¯¯*v/Æ\u000b7W_ü)\u0016Ûíß\u0014î_\fþ\u000fÕ«B",
