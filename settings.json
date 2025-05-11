@@ -5650,7 +5650,7 @@
           "Dubai",
           "Moon"
         ],
-        "palette": "grafixkidgray",
+        "palette": "gddhdxude",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -5669,7 +5669,7 @@
           "📸 Mart",
           "Moon"
         ],
-        "palette": "bw",
+        "palette": "gddhdxude",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -5686,7 +5686,7 @@
           "📸 Mart",
           "Moon"
         ],
-        "palette": "d2kr",
+        "palette": "gddhdxude",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -5703,7 +5703,7 @@
           "📸 Mart",
           "Moon"
         ],
-        "palette": "grafixkidgray",
+        "palette": "gddhdxude",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -6031,11 +6031,12 @@
         "title": "gbcImage_2025-05-09_09-41-53.png",
         "lines": 360,
         "tags": [],
-        "palette": "gbclb",
+        "palette": "gddhdxude",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": "originalframes01"
+        "frame": "originalframes01",
+        "lockFrame": true
       },
       {
         "hash": "045e04a46d526aa841846ba984ae23b833eb34c2",
@@ -6045,11 +6046,12 @@
         "tags": [
           "__filter:favourite__"
         ],
-        "palette": "bw",
+        "palette": "gddhdxude",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": "originalframes01"
+        "frame": "originalframes01",
+        "lockFrame": true
       },
       {
         "hash": "3ba63bf94057434006a4c70e525937371861ce4b",
@@ -6084,11 +6086,12 @@
         "title": "gbcImage_2025-05-10_01-09-36.png",
         "lines": 360,
         "tags": [],
-        "palette": "bw",
+        "palette": "gddhdxude",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": "originalframes01"
+        "frame": "originalframes01",
+        "lockFrame": true
       },
       {
         "hash": "7aa106e64450707aa162266dc90afb837223b2b7",
@@ -6096,11 +6099,12 @@
         "title": "gbcImage_2025-05-10_01-09-38.png",
         "lines": 360,
         "tags": [],
-        "palette": "bw",
+        "palette": "gddhdxude",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": "originalframes01"
+        "frame": "originalframes01",
+        "lockFrame": true
       },
       {
         "hash": "a18b2f2fdc8f9fcf568573bbe63dfca128323cc6",
@@ -6108,11 +6112,12 @@
         "title": "gbcImage_2025-05-10_01-09-39.png",
         "lines": 360,
         "tags": [],
-        "palette": "bw",
+        "palette": "gddhdxude",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": "originalframes01"
+        "frame": "originalframes01",
+        "lockFrame": true
       },
       {
         "hash": "ef557adb3d203ce3fb3ad6e4782fe4214f865166",
@@ -6120,11 +6125,12 @@
         "title": "gbcImage_2025-05-10_01-09-41.png",
         "lines": 360,
         "tags": [],
-        "palette": "bw",
+        "palette": "gddhdxude",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": "originalframes01"
+        "frame": "originalframes01",
+        "lockFrame": true
       },
       {
         "hash": "26a72888e4a99abd8890d700f924621df0f795d0",
@@ -6132,11 +6138,12 @@
         "title": "gbcImage_2025-05-10_01-09-43.png",
         "lines": 360,
         "tags": [],
-        "palette": "bw",
+        "palette": "gddhdxude",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": "originalframes01"
+        "frame": "originalframes01",
+        "lockFrame": true
       },
       {
         "hash": "6c009797d3ec34c1620bd42a6cc6f87ccc191508",
@@ -6144,11 +6151,12 @@
         "title": "gbcImage_2025-05-10_01-09-44.png",
         "lines": 360,
         "tags": [],
-        "palette": "bw",
+        "palette": "gddhdxude",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": "originalframes01"
+        "frame": "originalframes01",
+        "lockFrame": true
       },
       {
         "hash": "6e9aa0180519af464c8b26b75c97729b42b756e0",
@@ -6158,7 +6166,7 @@
         "tags": [
           "__filter:favourite__"
         ],
-        "palette": "grafixkidgray",
+        "palette": "gddhdxude",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -6171,11 +6179,12 @@
         "title": "gbcImage_2025-05-10_01-09-48.png",
         "lines": 360,
         "tags": [],
-        "palette": "bw",
+        "palette": "gddhdxude",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": "originalframes01"
+        "frame": "originalframes01",
+        "lockFrame": true
       },
       {
         "hash": "c476f14766c6231bd98aaa2b36c04047aefc7551",
@@ -6183,11 +6192,12 @@
         "title": "gbcImage_2025-05-10_01-09-50.png",
         "lines": 360,
         "tags": [],
-        "palette": "bw",
+        "palette": "gddhdxude",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": "originalframes01"
+        "frame": "originalframes01",
+        "lockFrame": true
       },
       {
         "hash": "4b330adafe9c960b29780f69c6f9a21f0d791f96",
@@ -6359,6 +6369,18 @@
       }
     ],
     "palettes": [
+      {
+        "shortName": "gddhdxude",
+        "name": "Copy of Grafixkid Gray",
+        "palette": [
+          "#e0dbcd",
+          "#a89f94",
+          "#706b66",
+          "#000000"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
       {
         "shortName": "greenwhite",
         "name": "Green White",
