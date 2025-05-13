@@ -366,7 +366,8 @@
           "ff930e53-a3b0-4f17-86ee-779808e03380",
           "e669fc31-5ea3-4acc-8d56-75278ed10a3c",
           "c448211e-9a00-4099-bd55-0048ececd9d5",
-          "4dde6fd5-e8b8-418a-8166-066289b881d7"
+          "4dde6fd5-e8b8-418a-8166-066289b881d7",
+          "067a9f1f-d181-48ad-b053-e498c96a1388"
         ]
       },
       {
@@ -391,7 +392,9 @@
           "6933e9a53b64f318cedfd70ba7f3208876a5013f",
           "3b1fb5ace52dd6d82725b7297f6043c1944276d0",
           "b6718964a259ac2574f485f76db8a6e774e5dfc9",
-          "59af9973e3033026dc5cec4d4055fd9b4accc0e2"
+          "59af9973e3033026dc5cec4d4055fd9b4accc0e2",
+          "1a6e6349641a90c6189e5d9155463747089227d5",
+          "f8b39efb7f9f95b7126f7f6946b0997fa511096a"
         ],
         "groups": []
       },
@@ -695,7 +698,9 @@
           "47e9fd95ea29e54e4fd6c937f8c5496cca9af287",
           "a18b2f2fdc8f9fcf568573bbe63dfca128323cc6"
         ],
-        "groups": []
+        "groups": [
+          "7190f199-4843-4e27-a60b-ad99c9799103"
+        ]
       },
       {
         "id": "7190f199-4843-4e27-a60b-ad99c9799103",
@@ -5739,7 +5744,7 @@
           "📸 Mart",
           "Dubai"
         ],
-        "palette": "gbcla",
+        "palette": "rcs",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -7211,6 +7216,7 @@
         "title": "gbcImage_2025-05-13_00-57-40.png",
         "lines": 360,
         "tags": [
+          "🎨 Trichrome",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Moon"
@@ -7227,6 +7233,7 @@
         "title": "gbcImage_2025-05-13_00-57-41.png",
         "lines": 360,
         "tags": [
+          "🎨 Trichrome",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Moon"
@@ -7243,6 +7250,7 @@
         "title": "gbcImage_2025-05-13_00-57-43.png",
         "lines": 360,
         "tags": [
+          "🎨 Trichrome",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Moon"
@@ -7259,6 +7267,7 @@
         "title": "gbcImage_2025-05-13_00-57-44.png",
         "lines": 360,
         "tags": [
+          "🎨 Trichrome",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Moon"
@@ -7275,6 +7284,7 @@
         "title": "gbcImage_2025-05-13_00-57-45.png",
         "lines": 360,
         "tags": [
+          "🎨 Trichrome",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Moon"
@@ -7291,6 +7301,7 @@
         "title": "gbcImage_2025-05-13_00-57-47.png",
         "lines": 360,
         "tags": [
+          "🎨 Trichrome",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Moon"
@@ -7339,6 +7350,7 @@
         "title": "gbcImage_2025-05-13_00-55-41.png.png",
         "lines": 360,
         "tags": [
+          "⏲️ HDR",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Moon"
@@ -7356,6 +7368,7 @@
         "title": "gbcImage_2025-05-13_00-55-43.png.png",
         "lines": 360,
         "tags": [
+          "⏲️ HDR",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Moon"
@@ -7373,6 +7386,7 @@
         "title": "gbcImage_2025-05-13_00-55-45.png.png",
         "lines": 360,
         "tags": [
+          "⏲️ HDR",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Moon"
@@ -7390,6 +7404,7 @@
         "title": "gbcImage_2025-05-13_00-55-46.png.png",
         "lines": 360,
         "tags": [
+          "⏲️ HDR",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Moon"
@@ -7407,6 +7422,7 @@
         "title": "gbcImage_2025-05-13_00-55-48.png.png",
         "lines": 360,
         "tags": [
+          "⏲️ HDR",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Moon"
@@ -7424,6 +7440,7 @@
         "lines": 360,
         "tags": [
           "__filter:favourite__",
+          "⏲️ HDR",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Moon"
@@ -7441,6 +7458,7 @@
         "title": "gbcImage_2025-05-13_00-55-51.png.png",
         "lines": 360,
         "tags": [
+          "⏲️ HDR",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Moon"
@@ -7457,6 +7475,7 @@
         "title": "gbcImage_2025-05-13_00-55-52.png.png",
         "lines": 360,
         "tags": [
+          "⏲️ HDR",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Moon"
@@ -7473,6 +7492,7 @@
         "title": "gbcImage_2025-05-13_00-55-53.png.png",
         "lines": 360,
         "tags": [
+          "⏲️ HDR",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Moon"
@@ -7489,6 +7509,7 @@
         "title": "gbcImage_2025-05-13_00-55-55.png.png",
         "lines": 360,
         "tags": [
+          "⏲️ HDR",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Moon"
@@ -7506,12 +7527,13 @@
         "lines": 360,
         "tags": [
           "__filter:favourite__",
+          "⏲️ HDR",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Moon"
         ],
         "palette": "bw",
-        "framePalette": "bw",
+        "framePalette": "gddhdxude",
         "invertFramePalette": false,
         "invertPalette": false,
         "frame": "originalframes01",
@@ -7523,6 +7545,7 @@
         "title": "gbcImage_2025-05-13_00-55-58.png.png",
         "lines": 360,
         "tags": [
+          "⏲️ HDR",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Moon"
@@ -7539,6 +7562,7 @@
         "title": "gbcImage_2025-05-13_00-55-59.png.png",
         "lines": 360,
         "tags": [
+          "⏲️ HDR",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Moon"
@@ -7555,15 +7579,16 @@
         "title": "gbcImage_2025-05-13_00-56-01.png.png",
         "lines": 360,
         "tags": [
+          "⏲️ HDR",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Moon"
         ],
-        "palette": "bw",
+        "palette": "gddhdxude",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "originalframes01"
       },
       {
         "hash": "1afa738c1a81e8e9bfc46d6cb8559f9c1fa1e9c6",
@@ -7571,6 +7596,7 @@
         "title": "gbcImage_2025-05-13_00-56-02.png.png",
         "lines": 360,
         "tags": [
+          "⏲️ HDR",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Moon"
@@ -7587,6 +7613,7 @@
         "title": "gbcImage_2025-05-13_00-56-04.png.png",
         "lines": 360,
         "tags": [
+          "⏲️ HDR",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Moon"
@@ -7603,6 +7630,7 @@
         "title": "gbcImage_2025-05-13_00-56-06.png.png",
         "lines": 360,
         "tags": [
+          "⏲️ HDR",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Moon"
@@ -7619,6 +7647,7 @@
         "title": "gbcImage_2025-05-13_00-56-07.png.png",
         "lines": 360,
         "tags": [
+          "⏲️ HDR",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Moon"
@@ -7635,6 +7664,7 @@
         "title": "gbcImage_2025-05-13_00-56-09.png.png",
         "lines": 360,
         "tags": [
+          "⏲️ HDR",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Moon"
@@ -7652,6 +7682,7 @@
         "lines": 360,
         "tags": [
           "__filter:favourite__",
+          "⏲️ HDR",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Moon"
@@ -7671,7 +7702,8 @@
         "tags": [
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Moon"
+          "Moon",
+          "🎨 Trichrome"
         ],
         "palette": "bw",
         "framePalette": "bw",
@@ -7687,7 +7719,8 @@
         "tags": [
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Moon"
+          "Moon",
+          "🎨 Trichrome"
         ],
         "palette": "bw",
         "framePalette": "bw",
@@ -7703,7 +7736,8 @@
         "tags": [
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Moon"
+          "Moon",
+          "🎨 Trichrome"
         ],
         "palette": "bw",
         "framePalette": "bw",
@@ -7719,7 +7753,8 @@
         "tags": [
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Moon"
+          "Moon",
+          "🎨 Trichrome"
         ],
         "palette": "bw",
         "framePalette": "bw",
@@ -7735,7 +7770,8 @@
         "tags": [
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Moon"
+          "Moon",
+          "🎨 Trichrome"
         ],
         "palette": "bw",
         "framePalette": "bw",
@@ -7751,7 +7787,8 @@
         "tags": [
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Moon"
+          "Moon",
+          "🎨 Trichrome"
         ],
         "palette": "bw",
         "framePalette": "bw",
@@ -7797,10 +7834,12 @@
         "title": "",
         "tags": [
           "__filter:favourite__",
+          "🎨 Trichrome",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Moon"
-        ]
+        ],
+        "frame": "originalframes01"
       },
       {
         "palette": {
@@ -7839,7 +7878,7 @@
         "created": "2025-05-13 02:01:15:665",
         "title": "",
         "tags": [
-          "__filter:favourite__",
+          "🎨 Trichrome",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Moon"
@@ -7851,6 +7890,7 @@
         "title": "gbcImage_2025-05-13_00-59-33.png.png",
         "lines": 360,
         "tags": [
+          "⏲️ HDR",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Moon"
@@ -7868,6 +7908,7 @@
         "lines": 360,
         "tags": [
           "__filter:favourite__",
+          "⏲️ HDR",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Moon"
