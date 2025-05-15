@@ -1,3 +1,0 @@
-{"command":"INIT"}
-{"command":"DATA","compressed":0,"more":0}
-{"command":"PRNT","sheets":1,"margin_upper":1,"margin_lower":3,"pallet":228,"density":64 }
