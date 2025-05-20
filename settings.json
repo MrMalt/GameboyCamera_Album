@@ -373,7 +373,10 @@
           "4dde6fd5-e8b8-418a-8166-066289b881d7",
           "b7af4629-206a-4867-81cd-3c10808b2d40",
           "ce96a901-b27e-4dea-8268-190265af29c3",
-          "6e0b0bfd-d111-4a54-95e6-fa48eb06207e"
+          "6e0b0bfd-d111-4a54-95e6-fa48eb06207e",
+          "96375409-0ed8-4e5f-85cc-6a0746b6a1cd",
+          "679230a3-7378-4bbb-bf45-0201159a1bdd",
+          "a159edaf-dc44-4c81-8f41-dd2298e1325e"
         ]
       },
       {
@@ -402,7 +405,10 @@
           "1a6e6349641a90c6189e5d9155463747089227d5",
           "f8b39efb7f9f95b7126f7f6946b0997fa511096a",
           "114a50c01d2e88067cc99beab29515f39923c063",
-          "32e2c32491eafa773639d856760c58bff2f1e9d3"
+          "32e2c32491eafa773639d856760c58bff2f1e9d3",
+          "173c0f097e3aff12541215303b2456d3d7c601a7",
+          "7b72d9c8d10d944362b7600e66254359ef307ec5",
+          "7db60bf3c709f5d5323f60d507d9f9e6ec783867"
         ],
         "groups": [
           "01dd0965-6e0c-4237-ad58-316b99581e76"
@@ -890,25 +896,42 @@
         "groups": []
       },
       {
-        "id": "b2b0c8b3-7f2a-45a3-b008-8a83665a8d06",
-        "slug": "import_2025-05-18_20_42_46",
-        "title": "Import 2025-05-18 20:42:46",
-        "created": "2025-05-18 20:42:46:228",
-        "coverImage": "ac1c53aa61732c0cebb2f7df651ef5b0f3335408",
+        "id": "96375409-0ed8-4e5f-85cc-6a0746b6a1cd",
+        "slug": "gbcimage_2025_05_18_20_39",
+        "title": "gbcImage 2025 05 18 20 39",
+        "created": "2025-05-20 10:25:32:390",
+        "coverImage": "42f62c1e57642a9db3fc1fe49481dbd33b2b9847",
         "images": [
           "ac1c53aa61732c0cebb2f7df651ef5b0f3335408",
           "8b4c6da6d20f4fbd17eef5f7b5cdaec4ff7c9c22",
-          "42f62c1e57642a9db3fc1fe49481dbd33b2b9847",
+          "42f62c1e57642a9db3fc1fe49481dbd33b2b9847"
+        ],
+        "groups": []
+      },
+      {
+        "id": "679230a3-7378-4bbb-bf45-0201159a1bdd",
+        "slug": "gbcimage_2025_05_18_20_39",
+        "title": "gbcImage 2025 05 18 20 39",
+        "created": "2025-05-20 10:25:57:091",
+        "coverImage": "49c36be7a060f19153fbe8e02c3fb82f0e36dd8a",
+        "images": [
           "07584e3a22707c168fb30cc7598889c58e92b30d",
           "163ba4fad0cf9184671d0f1016cbd6190bec2639",
-          "49c36be7a060f19153fbe8e02c3fb82f0e36dd8a",
+          "49c36be7a060f19153fbe8e02c3fb82f0e36dd8a"
+        ],
+        "groups": []
+      },
+      {
+        "id": "a159edaf-dc44-4c81-8f41-dd2298e1325e",
+        "slug": "gbcimage_2025_05_18",
+        "title": "gbcImage 2025 05 18",
+        "created": "2025-05-20 10:26:17:272",
+        "coverImage": "3242ef37da57ebada5962730d6eb36bb07c10d82",
+        "images": [
           "71e88311ba083496bcbdd57d860c5c05a5d35d72",
           "30ad90d7c8dbb226459b27867c9fa8e68601b6de",
           "41bd77ad22c49b863c827393a3c7c471090670db",
-          "3242ef37da57ebada5962730d6eb36bb07c10d82",
-          "173c0f097e3aff12541215303b2456d3d7c601a7",
-          "7b72d9c8d10d944362b7600e66254359ef307ec5",
-          "7db60bf3c709f5d5323f60d507d9f9e6ec783867"
+          "3242ef37da57ebada5962730d6eb36bb07c10d82"
         ],
         "groups": []
       }
@@ -8687,7 +8710,7 @@
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "originalframes01"
       },
       {
         "hash": "30ad90d7c8dbb226459b27867c9fa8e68601b6de",
@@ -8703,7 +8726,7 @@
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "originalframes01"
       },
       {
         "hash": "41bd77ad22c49b863c827393a3c7c471090670db",
@@ -8719,7 +8742,7 @@
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "originalframes01"
       },
       {
         "hash": "3242ef37da57ebada5962730d6eb36bb07c10d82",
@@ -8735,7 +8758,7 @@
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "originalframes01"
       },
       {
         "palette": {
@@ -8838,7 +8861,8 @@
           "🎨 Trichrome",
           "📷 2BitToy Camera+",
           "📸 Mart"
-        ]
+        ],
+        "frame": "originalframes01"
       },
       {
         "palette": {
@@ -8880,7 +8904,8 @@
           "🎨 Trichrome",
           "📷 2BitToy Camera+",
           "📸 Mart"
-        ]
+        ],
+        "frame": "originalframes01"
       },
       {
         "hash": "1a02c9e8df2ef97efb531b6e2cad8aa137d2f34a",
