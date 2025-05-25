@@ -1355,6 +1355,7 @@
           "__filter:favourite__",
           "📷 Gameboy Camera",
           "📸 Mart",
+          "Hillegom",
           "Ties"
         ],
         "palette": "kditw",
@@ -1382,6 +1383,7 @@
         "tags": [
           "📷 Gameboy Camera",
           "📸 Mart",
+          "Hillegom",
           "Pien"
         ],
         "palette": "d2kr",
@@ -1409,6 +1411,7 @@
         "tags": [
           "📷 Gameboy Camera",
           "📸 Mart",
+          "Hillegom",
           "Pien"
         ],
         "palette": "d2kr",
@@ -1437,7 +1440,8 @@
           "__filter:favourite__",
           "📷 Gameboy Camera",
           "📸 Mart",
-          "Plant"
+          "Plant",
+          "Leiden"
         ],
         "palette": "cstmgreen",
         "framePalette": "bw",
@@ -1466,7 +1470,8 @@
           "__filter:favourite__",
           "📷 Gameboy Camera",
           "📸 Mart",
-          "Plant"
+          "Plant",
+          "Leiden"
         ],
         "palette": "cstmorange",
         "framePalette": "bw",
@@ -1494,7 +1499,8 @@
         "tags": [
           "📷 Gameboy Camera",
           "📸 Mart",
-          "Plant"
+          "Plant",
+          "Leiden"
         ],
         "palette": "obmgp",
         "framePalette": "bw",
@@ -1521,7 +1527,8 @@
         "tags": [
           "📷 Gameboy Camera",
           "📸 Mart",
-          "Guus"
+          "Guus",
+          "Leiden"
         ],
         "palette": "roga",
         "framePalette": "bw",
@@ -1548,7 +1555,8 @@
         "tags": [
           "📷 Gameboy Camera",
           "📸 Mart",
-          "Plant"
+          "Plant",
+          "Leiden"
         ],
         "palette": "cstmyellow2",
         "framePalette": "bw",
@@ -1578,6 +1586,7 @@
           "📷 Gameboy Camera",
           "📸 Mart",
           "Guus",
+          "Leiden",
           "Mart"
         ],
         "palette": "bgb",
@@ -1631,7 +1640,8 @@
         "lines": 360,
         "tags": [
           "📷 Gameboy Camera",
-          "📸 Mart"
+          "📸 Mart",
+          "Hillegom"
         ],
         "palette": "grafixkidgray",
         "framePalette": "bw",
@@ -2183,7 +2193,8 @@
         "lines": 360,
         "tags": [
           "📷 Gameboy Camera",
-          "📸 Mart"
+          "📸 Mart",
+          "Hillegom"
         ],
         "palette": "datn",
         "framePalette": "bw",
@@ -2201,6 +2212,7 @@
           "__filter:favourite__",
           "📷 Gameboy Camera",
           "📸 Mart",
+          "Hillegom",
           "Pien"
         ],
         "palette": "cstmyellow",
@@ -2280,7 +2292,8 @@
         "tags": [
           "__filter:favourite__",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Hillegom"
         ],
         "palette": "gbcla",
         "framePalette": "bw",
@@ -2298,6 +2311,7 @@
           "__filter:favourite__",
           "📷 2BitToy Camera+",
           "📸 Mart",
+          "Hillegom",
           "Pien"
         ],
         "palette": "gbcu",
@@ -2325,7 +2339,8 @@
         "tags": [
           "__filter:favourite__",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Hillegom"
         ],
         "palette": "gbcla",
         "framePalette": "bw",
@@ -2396,7 +2411,8 @@
         "lines": 360,
         "tags": [
           "📷 Gameboy Camera",
-          "📸 Mart"
+          "📸 Mart",
+          "Hillegom"
         ],
         "palette": "bw",
         "framePalette": "bw",
@@ -2413,7 +2429,8 @@
         "tags": [
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Guus"
+          "Guus",
+          "Leiden"
         ],
         "palette": "shmgy",
         "framePalette": "bw",
@@ -2429,7 +2446,8 @@
         "lines": 360,
         "tags": [
           "📷 Gameboy Camera",
-          "📸 Mart"
+          "📸 Mart",
+          "Hillegom"
         ],
         "palette": "gbcua",
         "framePalette": "bw",
@@ -2446,7 +2464,8 @@
         "tags": [
           "📷 Gameboy Camera",
           "📸 Mart",
-          "Guus"
+          "Guus",
+          "Leiden"
         ],
         "palette": "ffs",
         "framePalette": "bw",
@@ -2463,7 +2482,8 @@
         "tags": [
           "📷 Gameboy Camera",
           "📸 Mart",
-          "Guus"
+          "Guus",
+          "Leiden"
         ],
         "palette": "bbp",
         "framePalette": "bw",
@@ -2516,7 +2536,8 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Leiden"
         ],
         "palette": "obmgp",
         "framePalette": "bw",
@@ -2533,7 +2554,8 @@
         "tags": [
           "__filter:favourite__",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Hillegom"
         ],
         "palette": "gbcla",
         "framePalette": "bw",
@@ -2560,7 +2582,8 @@
         "tags": [
           "__filter:favourite__",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Hillegom"
         ],
         "palette": "gbcla",
         "framePalette": "bw",
@@ -2670,7 +2693,8 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Leiden"
         ],
         "palette": "kditw",
         "framePalette": "bw",
@@ -2696,7 +2720,8 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Leiden"
         ],
         "palette": "wtfp",
         "framePalette": "bw",
@@ -2723,7 +2748,8 @@
         "tags": [
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Guus"
+          "Guus",
+          "Leiden"
         ],
         "palette": "glmo",
         "framePalette": "bw",
@@ -2854,7 +2880,8 @@
           "__filter:favourite__",
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Plant"
+          "Plant",
+          "Leiden"
         ],
         "palette": "gbcd",
         "framePalette": "bw",
@@ -2888,7 +2915,8 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Hillegom"
         ],
         "palette": "cstmyellow2",
         "framePalette": "bw",
@@ -2904,7 +2932,8 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Hillegom"
         ],
         "palette": "obmgp",
         "framePalette": "bw",
@@ -2938,7 +2967,8 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Hillegom"
         ],
         "palette": "obmgp",
         "framePalette": "bw",
@@ -2955,6 +2985,7 @@
         "tags": [
           "📷 2BitToy Camera+",
           "📸 Mart",
+          "Hillegom",
           "Puk"
         ],
         "palette": "grafixkidgray",
@@ -2973,6 +3004,7 @@
           "__filter:favourite__",
           "📷 2BitToy Camera+",
           "📸 Mart",
+          "Hillegom",
           "Puk"
         ],
         "palette": "grafixkidgray",
@@ -3171,7 +3203,8 @@
         "tags": [
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Mart"
+          "Mart",
+          "Leiden"
         ],
         "palette": "cmyk",
         "framePalette": "bw",
@@ -3242,6 +3275,7 @@
           "__filter:favourite__",
           "📷 2BitToy Camera+",
           "📸 Mart",
+          "Hillegom",
           "Puk"
         ],
         "palette": "grafixkidgray",
@@ -3326,7 +3360,8 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Hillegom"
         ],
         "palette": "bw",
         "framePalette": "bw",
@@ -3342,7 +3377,8 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Hillegom"
         ],
         "palette": "bw",
         "framePalette": "bw",
@@ -3359,7 +3395,8 @@
         "tags": [
           "__filter:favourite__",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Hillegom"
         ],
         "palette": "cstmpurple",
         "framePalette": "bw",
@@ -3376,6 +3413,7 @@
         "tags": [
           "📷 2BitToy Camera+",
           "📸 Mart",
+          "Hillegom",
           "Pien"
         ],
         "palette": "d2kr",
@@ -3393,6 +3431,7 @@
         "tags": [
           "📷 2BitToy Camera+",
           "📸 Mart",
+          "Hillegom",
           "Pien"
         ],
         "palette": "d2kr",
@@ -3410,6 +3449,7 @@
         "tags": [
           "📷 2BitToy Camera+",
           "📸 Mart",
+          "Hillegom",
           "Pien"
         ],
         "palette": "d2kr",
@@ -3428,6 +3468,7 @@
           "__filter:favourite__",
           "📷 2BitToy Camera+",
           "📸 Mart",
+          "Hillegom",
           "Pien"
         ],
         "palette": "d2kr",
@@ -3445,6 +3486,7 @@
         "tags": [
           "📷 2BitToy Camera+",
           "📸 Mart",
+          "Hillegom",
           "Pien"
         ],
         "palette": "d2kr",
@@ -3463,6 +3505,7 @@
           "__filter:favourite__",
           "📷 2BitToy Camera+",
           "📸 Mart",
+          "Hillegom",
           "Pien"
         ],
         "palette": "d2kr",
@@ -3569,8 +3612,8 @@
           "__filter:favourite__",
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Den Haag",
-          "Architecture"
+          "Architecture",
+          "Den Haag"
         ],
         "palette": "wtfp",
         "framePalette": "bw",
@@ -3587,8 +3630,8 @@
         "tags": [
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Den Haag",
-          "Architecture"
+          "Architecture",
+          "Den Haag"
         ],
         "palette": "bw",
         "framePalette": "bw",
@@ -3624,8 +3667,8 @@
           "__filter:favourite__",
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Den Haag",
-          "Architecture"
+          "Architecture",
+          "Den Haag"
         ],
         "palette": "roga",
         "framePalette": "bw",
@@ -3642,8 +3685,8 @@
         "tags": [
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Den Haag",
-          "Architecture"
+          "Architecture",
+          "Den Haag"
         ],
         "palette": "obmgp",
         "framePalette": "bw",
@@ -3661,8 +3704,8 @@
           "__filter:favourite__",
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Den Haag",
-          "Architecture"
+          "Architecture",
+          "Den Haag"
         ],
         "palette": "d2kr",
         "framePalette": "bw",
@@ -3679,8 +3722,8 @@
         "tags": [
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Den Haag",
-          "Architecture"
+          "Architecture",
+          "Den Haag"
         ],
         "palette": "tbpp",
         "framePalette": "bw",
@@ -3697,8 +3740,8 @@
         "tags": [
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Den Haag",
-          "Architecture"
+          "Architecture",
+          "Den Haag"
         ],
         "palette": "fsp",
         "framePalette": "bw",
@@ -3715,8 +3758,8 @@
         "tags": [
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Den Haag",
-          "Architecture"
+          "Architecture",
+          "Den Haag"
         ],
         "palette": "cstmpurple",
         "framePalette": "bw",
@@ -4127,7 +4170,8 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Guus"
+          "📸 Guus",
+          "Leiden"
         ],
         "palette": "fsp",
         "framePalette": "bw",
@@ -4143,7 +4187,8 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Guus"
+          "📸 Guus",
+          "Leiden"
         ],
         "palette": "cstmgreen",
         "framePalette": "bw",
@@ -4159,7 +4204,8 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Leiden"
         ],
         "palette": "fsil",
         "framePalette": "bw",
@@ -4246,7 +4292,8 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Guus"
+          "📸 Guus",
+          "Leiden"
         ],
         "palette": "obmgp",
         "framePalette": "bw",
@@ -4262,7 +4309,8 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Leiden"
         ],
         "palette": "gbcla",
         "framePalette": "bw",
@@ -4279,7 +4327,8 @@
         "tags": [
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Architecture"
+          "Architecture",
+          "Leiden"
         ],
         "palette": "aqpp",
         "framePalette": "bw",
@@ -4295,7 +4344,8 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Leiden"
         ],
         "palette": "scp",
         "framePalette": "bw",
@@ -4311,7 +4361,8 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Leiden"
         ],
         "palette": "fsp",
         "framePalette": "bw",
@@ -4329,6 +4380,7 @@
           "__filter:favourite__",
           "📷 2BitToy Camera+",
           "📸 Mart",
+          "Leiden",
           "Sky"
         ],
         "palette": "tpa",
@@ -4346,6 +4398,7 @@
         "tags": [
           "📷 2BitToy Camera+",
           "📸 Mart",
+          "Leiden",
           "Sky"
         ],
         "palette": "spezi",
@@ -4362,7 +4415,8 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Leiden"
         ],
         "palette": "cstmgreen",
         "framePalette": "bw",
@@ -4378,7 +4432,8 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Leiden"
         ],
         "palette": "grafixkidgray",
         "framePalette": "bw",
@@ -4394,7 +4449,8 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Leiden"
         ],
         "palette": "datn",
         "framePalette": "bw",
@@ -4411,7 +4467,8 @@
         "tags": [
           "__filter:favourite__",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Leiden"
         ],
         "palette": "d2kr",
         "framePalette": "bw",
@@ -4429,6 +4486,7 @@
           "__filter:favourite__",
           "📷 2BitToy Camera+",
           "📸 Guus",
+          "Leiden",
           "Sky"
         ],
         "palette": "tpa",
@@ -4445,7 +4503,8 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Guus"
+          "📸 Guus",
+          "Leiden"
         ],
         "palette": "r4p",
         "framePalette": "bw",
@@ -4461,7 +4520,8 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Leiden"
         ],
         "palette": "tbpp",
         "framePalette": "bw",
@@ -4477,7 +4537,8 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Leiden"
         ],
         "palette": "shmgy",
         "framePalette": "bw",
@@ -4623,7 +4684,8 @@
         "tags": [
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Architecture"
+          "Architecture",
+          "Leiden"
         ],
         "palette": "spezi",
         "framePalette": "bw",
@@ -4688,7 +4750,8 @@
         "tags": [
           "__filter:favourite__",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Leiden"
         ],
         "palette": "d2kr",
         "framePalette": "bw",
@@ -4925,7 +4988,8 @@
         "tags": [
           "__filter:favourite__",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Leiden"
         ],
         "palette": "cstmorange",
         "framePalette": "bw",
@@ -6691,6 +6755,7 @@
           "__filter:favourite__",
           "📷 2BitToy Camera+",
           "📸 Mart",
+          "Leiden",
           "Plant"
         ],
         "palette": "obmgp",
@@ -6707,7 +6772,8 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Guus"
+          "📸 Guus",
+          "Leiden"
         ],
         "palette": "fsp",
         "framePalette": "bw",
@@ -6974,6 +7040,7 @@
         "tags": [
           "📷 2BitToy Camera+",
           "📸 Mart",
+          "Leiden",
           "Plant"
         ],
         "palette": "cstmgreen",
@@ -7165,7 +7232,8 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Hillegom"
         ],
         "palette": "bw",
         "framePalette": "bw",
@@ -7180,7 +7248,8 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Hillegom"
         ],
         "palette": "bw",
         "framePalette": "bw",
@@ -8845,6 +8914,7 @@
         "tags": [
           "📷 2BitToy Camera+",
           "📸 Mart",
+          "Leiden",
           "Miikka"
         ],
         "palette": "bw",
@@ -9889,9 +9959,10 @@
         "title": "gbcImage_2025-05-23_22-34-05.png",
         "lines": 360,
         "tags": [
+          "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "💿 PHOTO!"
+          "Hillegom"
         ],
         "palette": "bbp",
         "framePalette": "bw",
@@ -9906,9 +9977,10 @@
         "title": "gbcImage_2025-05-23_22-34-06.png",
         "lines": 360,
         "tags": [
+          "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "💿 PHOTO!"
+          "Hillegom"
         ],
         "palette": "bbp",
         "framePalette": "bw",
@@ -9923,9 +9995,10 @@
         "title": "gbcImage_2025-05-23_22-34-07.png",
         "lines": 360,
         "tags": [
+          "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "💿 PHOTO!"
+          "Hillegom"
         ],
         "palette": "bbp",
         "framePalette": "bw",
@@ -9940,9 +10013,10 @@
         "title": "gbcImage_2025-05-23_22-34-08.png",
         "lines": 360,
         "tags": [
+          "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "💿 PHOTO!"
+          "Hillegom"
         ],
         "palette": "bbp",
         "framePalette": "bw",
@@ -10821,9 +10895,10 @@
         "lines": 360,
         "tags": [
           "__filter:favourite__",
+          "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "💿 PHOTO!"
+          "Hillegom"
         ],
         "palette": "shmgy",
         "framePalette": "bw",
@@ -10839,11 +10914,12 @@
         "lines": 360,
         "tags": [
           "__filter:favourite__",
+          "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Animal",
-          "Pien",
-          "💿 PHOTO!"
+          "Hillegom",
+          "Pien"
         ],
         "palette": "cstmgrey",
         "framePalette": "bw",
@@ -10858,11 +10934,12 @@
         "title": "gbcImage_2025-05-25_23-08-39.png",
         "lines": 360,
         "tags": [
+          "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Animal",
-          "Pien",
-          "💿 PHOTO!"
+          "Hillegom",
+          "Pien"
         ],
         "palette": "cstmgrey",
         "framePalette": "bw",
@@ -10878,10 +10955,11 @@
         "lines": 360,
         "tags": [
           "__filter:favourite__",
+          "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Architecture",
-          "💿 PHOTO!"
+          "Hillegom"
         ],
         "palette": "grafixkidgray",
         "framePalette": "bw",
@@ -10897,10 +10975,11 @@
         "lines": 360,
         "tags": [
           "__filter:favourite__",
+          "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Sky",
-          "💿 PHOTO!"
+          "Hillegom",
+          "Sky"
         ],
         "palette": "tpa",
         "framePalette": "bw",
@@ -10915,10 +10994,11 @@
         "title": "gbcImage_2025-05-25_23-08-43.png",
         "lines": 360,
         "tags": [
+          "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Sky",
-          "💿 PHOTO!"
+          "Hillegom",
+          "Sky"
         ],
         "palette": "wtfp",
         "framePalette": "bw",
@@ -10933,9 +11013,10 @@
         "title": "gbcImage_2025-05-25_23-08-44.png",
         "lines": 360,
         "tags": [
+          "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "💿 PHOTO!"
+          "Leiden"
         ],
         "palette": "datn",
         "framePalette": "bw",
@@ -10950,9 +11031,10 @@
         "title": "gbcImage_2025-05-25_23-08-46.png",
         "lines": 360,
         "tags": [
+          "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "💿 PHOTO!"
+          "Leiden"
         ],
         "palette": "ffs",
         "framePalette": "bw",
@@ -10967,10 +11049,11 @@
         "title": "gbcImage_2025-05-25_23-08-47.png",
         "lines": 360,
         "tags": [
+          "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Guus",
-          "Mart",
-          "💿 PHOTO!"
+          "Leiden",
+          "Mart"
         ],
         "palette": "fsp",
         "framePalette": "bw",
@@ -10985,10 +11068,11 @@
         "title": "gbcImage_2025-05-25_23-08-48.png",
         "lines": 360,
         "tags": [
+          "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Guus",
-          "💿 PHOTO!"
+          "Leiden"
         ],
         "palette": "fsp",
         "framePalette": "bw",
@@ -11003,11 +11087,11 @@
         "title": "gbcImage_2025-05-25_23-08-50.png",
         "lines": 360,
         "tags": [
+          "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Animal",
-          "Den Haag",
-          "💿 PHOTO!"
+          "Den Haag"
         ],
         "palette": "aqpp",
         "framePalette": "bw",
@@ -11023,10 +11107,10 @@
         "lines": 360,
         "tags": [
           "__filter:favourite__",
+          "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Den Haag",
-          "💿 PHOTO!"
+          "Den Haag"
         ],
         "palette": "roga",
         "framePalette": "bw",
@@ -11041,10 +11125,11 @@
         "title": "gbcImage_2025-05-25_23-08-53.png",
         "lines": 360,
         "tags": [
+          "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Guus",
-          "💿 PHOTO!"
+          "Hillegom"
         ],
         "palette": "bgb",
         "framePalette": "bw",
@@ -11059,10 +11144,11 @@
         "title": "gbcImage_2025-05-25_23-08-54.png",
         "lines": 360,
         "tags": [
+          "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Guus",
-          "💿 PHOTO!"
+          "Hillegom"
         ],
         "palette": "rcs",
         "framePalette": "bw",
@@ -11078,10 +11164,11 @@
         "lines": 360,
         "tags": [
           "__filter:favourite__",
+          "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Architecture",
-          "💿 PHOTO!"
+          "Hillegom"
         ],
         "palette": "cstmgrey",
         "framePalette": "bw",
@@ -11096,9 +11183,10 @@
         "title": "gbcImage_2025-05-25_23-08-57.png",
         "lines": 360,
         "tags": [
+          "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "💿 PHOTO!"
+          "Hillegom"
         ],
         "palette": "datn",
         "framePalette": "bw",
@@ -11116,6 +11204,7 @@
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Thomas",
+          "Hillegom",
           "Mart"
         ],
         "palette": "cstmyellow",
@@ -11134,7 +11223,8 @@
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Animal"
+          "Animal",
+          "Hillegom"
         ],
         "palette": "d2kr",
         "framePalette": "bw",
@@ -11152,6 +11242,7 @@
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
+          "Hillegom",
           "Plant"
         ],
         "palette": "dimwm",
@@ -11170,7 +11261,8 @@
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Animal"
+          "Animal",
+          "Hillegom"
         ],
         "palette": "aqpp",
         "framePalette": "bw",
@@ -11187,7 +11279,8 @@
         "tags": [
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Hillegom"
         ],
         "palette": "roga",
         "framePalette": "bw",
@@ -11206,6 +11299,7 @@
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
+          "Hillegom",
           "Plant"
         ],
         "palette": "gddhdxude",
@@ -11225,6 +11319,7 @@
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
+          "Hillegom",
           "Sky"
         ],
         "palette": "kditw",
@@ -11244,6 +11339,7 @@
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
+          "Hillegom",
           "Sky"
         ],
         "palette": "bbp",
@@ -11262,6 +11358,7 @@
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
+          "Hillegom",
           "Sky"
         ],
         "palette": "gbcla",
