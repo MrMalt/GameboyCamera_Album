@@ -646,7 +646,9 @@
           "d65f4be5-ddb4-4246-be8a-f4ce6493e8f0",
           "704b6508-1937-48a1-b568-067b0d618fe4",
           "dfe5c2a5-7cad-4a79-9426-58b58c92413d",
-          "e2894558-769d-42f6-9b2a-6118c8bfd80a"
+          "e2894558-769d-42f6-9b2a-6118c8bfd80a",
+          "25180719-a3fc-4872-8f98-7b3585f91730",
+          "50e1817b-975a-4804-a49b-ff2a73e62706"
         ]
       },
       {
@@ -17620,8 +17622,7 @@
         },
         "config": {
           "fileExtension": "png",
-          "mimeType": "png",
-          "scaleFactor": 0
+          "mimeType": "png"
         },
         "loading": false
       },
