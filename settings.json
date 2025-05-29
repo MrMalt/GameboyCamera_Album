@@ -1641,46 +1641,6 @@
         "groups": []
       },
       {
-        "id": "e585b8d9-035a-4eb4-8308-937a19ebedf5",
-        "slug": "import_2025-05-29_19_24_23",
-        "title": "Import 2025-05-29 19:24:23",
-        "created": "2025-05-29 19:24:23:800",
-        "coverImage": "808fd831e93088a1d71ee8e91d6106fe8db1121a",
-        "images": [
-          "808fd831e93088a1d71ee8e91d6106fe8db1121a",
-          "6f17f83f7a61ff2027f6432493d86c005a6572ae",
-          "8b9c5848d9520e18c005927f772e47eafcd8e246",
-          "d017c386df540e73a2ee5564407c56269fb3c773",
-          "da57a343bc54c036051d334279725190e546f375",
-          "f89dcefa9f167467ffafa34ab43f12a091714727",
-          "5ee393b04a6d150238087a59be03fa09d098f209",
-          "a4a97551652203a3c8d9c6b8ace3448754df3c31",
-          "e82bd836a8bdd5ccfc6b426a98ed2a59f481ed36",
-          "3c6e7c2cc8f968281a0c6eae72261eeb26f24e71",
-          "4cfeb194f47ee79b73e8c30a7c78e549db2eebb6",
-          "3a7d578c1d79fd548cf97f844cd33ba082e30996",
-          "14827f8b9fefa1e4c86bae3076a372ac77f7db53",
-          "c847169be3c18d4441c63aa196910db9536b1dac",
-          "45e3e239f533f55b3e6d253bdf3b6f7e8c869e3a",
-          "32b1cb5cf82f7b0082ec8fdf11748187b0a8cad0",
-          "ea6f2afc1275ed9a29a2d3fa50fefe33736d4ffd",
-          "8ae9d002c7990841e34f84ee0c9d5ad657dfc569",
-          "3e5934ad990bf22a86b2cd9a0ca2af8f41e30f70",
-          "4a0c0d30728d79357adaddcb936e5c6db74d467e",
-          "990828fdf2e89cc343f961fdb66d1b44ebe5a156",
-          "eeadd7283a6504efc0fc133523c58ecbb30272e2",
-          "6bcdf6c04e0014729241dbb83a18effedf5d5989",
-          "2aa8773565deb3175f028ca761f6c79e29b2d998",
-          "b12a6de2c6118f6a5dd4586c2f9d478e8d24fc1d",
-          "41c9e33738793fe73efcb2f583f57748ff762831",
-          "f155f3e29153cf3a3e8ee20cde254632185d6e71",
-          "573af865b52c9feff34e978345939c71374fb0eb",
-          "bb53b4f1fab6ce05de70464d2d25003d2bd32a8e",
-          "98778043e7ba01ca2b3fbe51409e7a7aee00ed23"
-        ],
-        "groups": []
-      },
-      {
         "id": "2f3cd0c2-a4a7-432c-8b9d-a376e265189f",
         "slug": "import_2025-05-29_19_30_45",
         "title": "Import 2025-05-29 19:30:45",
@@ -17308,7 +17268,13 @@
         "created": "2025-05-29 19:22:51:000",
         "title": "gbcImage_2025-05-29_19-22-51.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Architecture",
+          "Den Haag"
+        ],
         "palette": "d2kr",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -17321,7 +17287,13 @@
         "created": "2025-05-29 19:22:53:001",
         "title": "gbcImage_2025-05-29_19-22-53.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "__filter:favourite__",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Den Haag"
+        ],
         "palette": "lohp",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -17334,7 +17306,13 @@
         "created": "2025-05-29 19:22:54:002",
         "title": "gbcImage_2025-05-29_19-22-54.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Architecture",
+          "Den Haag"
+        ],
         "palette": "rcs",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -17347,7 +17325,13 @@
         "created": "2025-05-29 19:22:56:003",
         "title": "gbcImage_2025-05-29_19-22-56.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Den Haag",
+          "Plant"
+        ],
         "palette": "cstmpink",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -17360,7 +17344,14 @@
         "created": "2025-05-29 19:22:57:004",
         "title": "gbcImage_2025-05-29_19-22-57.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "__filter:favourite__",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Den Haag",
+          "Plant"
+        ],
         "palette": "tbpp",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -17373,7 +17364,14 @@
         "created": "2025-05-29 19:22:59:005",
         "title": "gbcImage_2025-05-29_19-22-59.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "__filter:favourite__",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Den Haag",
+          "Plant"
+        ],
         "palette": "bbp",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -17386,7 +17384,12 @@
         "created": "2025-05-29 19:23:00:006",
         "title": "gbcImage_2025-05-29_19-23-00.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Den Haag"
+        ],
         "palette": "d2kr",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -17399,7 +17402,14 @@
         "created": "2025-05-29 19:23:01:007",
         "title": "gbcImage_2025-05-29_19-23-01.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "__filter:favourite__",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Architecture",
+          "Den Haag"
+        ],
         "palette": "nc",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -17412,7 +17422,14 @@
         "created": "2025-05-29 19:23:03:008",
         "title": "gbcImage_2025-05-29_19-23-03.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "__filter:favourite__",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Architecture",
+          "Den Haag"
+        ],
         "palette": "tpa",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -17425,7 +17442,13 @@
         "created": "2025-05-29 19:23:04:009",
         "title": "gbcImage_2025-05-29_19-23-04.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Den Haag",
+          "Sky"
+        ],
         "palette": "glmo",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -17438,7 +17461,13 @@
         "created": "2025-05-29 19:23:06:010",
         "title": "gbcImage_2025-05-29_19-23-06.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Den Haag",
+          "Sky"
+        ],
         "palette": "tpa",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -17451,7 +17480,13 @@
         "created": "2025-05-29 19:23:07:011",
         "title": "gbcImage_2025-05-29_19-23-07.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Den Haag",
+          "Plant"
+        ],
         "palette": "roga",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -17464,7 +17499,12 @@
         "created": "2025-05-29 19:23:09:012",
         "title": "gbcImage_2025-05-29_19-23-09.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Den Haag"
+        ],
         "palette": "gddhdxude",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -17477,7 +17517,12 @@
         "created": "2025-05-29 19:23:10:013",
         "title": "gbcImage_2025-05-29_19-23-10.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Den Haag"
+        ],
         "palette": "shmgy",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -17490,7 +17535,12 @@
         "created": "2025-05-29 19:23:11:014",
         "title": "gbcImage_2025-05-29_19-23-11.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Den Haag"
+        ],
         "palette": "glmo",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -17503,7 +17553,13 @@
         "created": "2025-05-29 19:23:12:015",
         "title": "gbcImage_2025-05-29_19-23-12.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Den Haag",
+          "Sky"
+        ],
         "palette": "r4p",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -17516,7 +17572,13 @@
         "created": "2025-05-29 19:23:14:016",
         "title": "gbcImage_2025-05-29_19-23-14.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "__filter:favourite__",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Den Haag"
+        ],
         "palette": "cstmyellow",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -17528,7 +17590,12 @@
         "created": "2025-05-29 19:23:15:017",
         "title": "gbcImage_2025-05-29_19-23-15.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Den Haag"
+        ],
         "palette": "aqpp",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -17541,7 +17608,12 @@
         "created": "2025-05-29 19:23:17:018",
         "title": "gbcImage_2025-05-29_19-23-17.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Den Haag"
+        ],
         "palette": "gbcla",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -17553,7 +17625,13 @@
         "created": "2025-05-29 19:23:18:019",
         "title": "gbcImage_2025-05-29_19-23-18.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "__filter:favourite__",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Den Haag"
+        ],
         "palette": "tbpp",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -17566,7 +17644,12 @@
         "created": "2025-05-29 19:23:20:020",
         "title": "gbcImage_2025-05-29_19-23-20.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Den Haag"
+        ],
         "palette": "dimwm",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -17579,7 +17662,13 @@
         "created": "2025-05-29 19:23:21:021",
         "title": "gbcImage_2025-05-29_19-23-21.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "__filter:favourite__",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Den Haag"
+        ],
         "palette": "cstmgrey",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -17592,7 +17681,13 @@
         "created": "2025-05-29 19:23:22:022",
         "title": "gbcImage_2025-05-29_19-23-22.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "__filter:favourite__",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Den Haag"
+        ],
         "palette": "roga",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -17605,7 +17700,13 @@
         "created": "2025-05-29 19:23:24:023",
         "title": "gbcImage_2025-05-29_19-23-24.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Architecture",
+          "Den Haag"
+        ],
         "palette": "ffs",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -17618,7 +17719,14 @@
         "created": "2025-05-29 19:23:25:024",
         "title": "gbcImage_2025-05-29_19-23-25.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "__filter:favourite__",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Architecture",
+          "Den Haag"
+        ],
         "palette": "bbp",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -17631,7 +17739,13 @@
         "created": "2025-05-29 19:23:27:025",
         "title": "gbcImage_2025-05-29_19-23-27.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Den Haag",
+          "Plant"
+        ],
         "palette": "cstmpink",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -17644,7 +17758,13 @@
         "created": "2025-05-29 19:23:28:026",
         "title": "gbcImage_2025-05-29_19-23-28.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Den Haag",
+          "Plant"
+        ],
         "palette": "architecture1",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -17657,7 +17777,14 @@
         "created": "2025-05-29 19:23:30:027",
         "title": "gbcImage_2025-05-29_19-23-30.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "__filter:favourite__",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Den Haag",
+          "Plant"
+        ],
         "palette": "gbcrb",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -17670,7 +17797,14 @@
         "created": "2025-05-29 19:23:31:028",
         "title": "gbcImage_2025-05-29_19-23-31.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "__filter:favourite__",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Architecture",
+          "Den Haag"
+        ],
         "palette": "cstmorange",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -17683,7 +17817,13 @@
         "created": "2025-05-29 19:23:35:029",
         "title": "gbcImage_2025-05-29_19-23-35.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Architecture",
+          "Den Haag"
+        ],
         "palette": "lohp",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -18697,8 +18837,7 @@
           "fileExtension": "png",
           "mimeType": "png"
         },
-        "loading": false,
-        "error": false
+        "loading": false
       },
       {
         "url": "https://herrzatacke.github.io/gb-printer-web-plugins/stitch.js",
@@ -18717,7 +18856,7 @@
         "loading": false
       }
     ],
-    "lastUpdateUTC": 1748389647,
+    "lastUpdateUTC": 1748541146,
     "version": 1
   }
 }
