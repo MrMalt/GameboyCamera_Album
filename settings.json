@@ -1484,14 +1484,36 @@
         "created": "2025-05-27 23:57:40:615",
         "coverImage": "f6a851e07c3c72558c2a16a8b558515d0ad1db15",
         "images": [
-          "8e528c40a97338a769bd21bc8f6d0cd6810b6462"
+          "8e528c40a97338a769bd21bc8f6d0cd6810b6462",
+          "80ddfe9bf08723c7ced031be9ae343f12b2279eb",
+          "f6a851e07c3c72558c2a16a8b558515d0ad1db15",
+          "7e59cf9cd5ba86764e0492185ed45adc92f1ae2a",
+          "f4bfa1689c755dc798a1e5ffdac6deb302f94864",
+          "71c7276c4664e3756aa1970a5f6014199b5789e5",
+          "dc742992eb64c12cab4456ea01a242db0c3ff91c",
+          "79d65b390320ecbaded8921947e7f4c41597d756",
+          "0bbd0f1244be9f78d9095c6a66b9484e4535a120",
+          "7eef1412c0a4a5e9c25e08be8024a464c0c1050a",
+          "2760ade6f0aed41a8c7f796b5f6b0e5d4cbc5991",
+          "dd6f4ed97d6a736706528339fb7d5e8aeb7ac57a",
+          "faec56ccc5efb52ff4d7568f1fdf5408a0ab9e9d",
+          "096f92707aff0a3f891493acaf3f5d7b07496e0e",
+          "6941c7845704ffb78cdc7705b73b6be2c0ffb7e1",
+          "31fdeb0af7db400f63eb31a1b441377779b87dee",
+          "1e80d0803bc8d44b714b4689ca4725c3c3c7a72f",
+          "12cfd06a1265558ece10eb94cc07b6a81dad20dd",
+          "fb8930d41e4c822987e069970724d940726fbee4",
+          "24a157123a48f41d0252cd228f06d416d2381f26",
+          "e024185d69cb47abcb3f7d3af4a04582714df8ac",
+          "69b0d5119b4e5a659148824742d6580e276354e6",
+          "a56ff3ae0fa29de82904d576a98953942cdc7836",
+          "00a87f16e47f6a5bcd376a72cb3d593c8858cdd0",
+          "7c30b6f10febd74cf47279c0417949e22085e6ae",
+          "e09d87846a030e28722dc3d77ff8a4c7fd547240",
+          "de91c576f62adb462dec07790be420998d2b6200",
+          "d07a7ce792cc4e8a9de3df702413c0f0fb333fcc"
         ],
-        "groups": [
-          "0fa21018-a5f8-4b5c-b661-06889c214e95",
-          "e908043f-c984-4d47-b086-910b9ca01060",
-          "42f11299-b832-40ad-963e-fa121ef9d961",
-          "6f1a7c44-9556-451a-a186-70d3f9ea764d"
-        ]
+        "groups": []
       },
       {
         "id": "50e1817b-975a-4804-a49b-ff2a73e62706",
@@ -1500,22 +1522,7 @@
         "created": "2025-05-28 00:05:06:738",
         "coverImage": "ceb4bc90e5e2fda94769041e0ca5af1e0f36d5f5",
         "images": [
-          "0b8fd78b74627b9566a5388e0dd3619e672fe5e9"
-        ],
-        "groups": [
-          "cd13f0b1-77ce-4007-b5f5-c9aff397c9a8",
-          "0febc2bd-a972-4e90-8e45-6d15b7d81909",
-          "1b1aa119-d103-4aef-9668-e8531b1d923d",
-          "cda7efcd-4d29-47b9-aee6-30ab880735bc"
-        ]
-      },
-      {
-        "id": "cd13f0b1-77ce-4007-b5f5-c9aff397c9a8",
-        "slug": "r",
-        "title": "R",
-        "created": "2025-05-28 00:05:56:116",
-        "coverImage": "be2ef3e233ee5180e9f6b845be5a3cb532b8ef5f",
-        "images": [
+          "0b8fd78b74627b9566a5388e0dd3619e672fe5e9",
           "ceb4bc90e5e2fda94769041e0ca5af1e0f36d5f5",
           "fb52905da3bc6eb1202777cc4f1dab7ac22b88f8",
           "3f71f2fb46182e7917e466fed43e2723e0094309",
@@ -1523,17 +1530,7 @@
           "e9060146aff358f4004c9997a87a47d3e17de19a",
           "d380853677afb3b4103e62124f29ac2e991cc40f",
           "be2ef3e233ee5180e9f6b845be5a3cb532b8ef5f",
-          "df5c06b9775861a469c9a573d881d016b4c1da7d"
-        ],
-        "groups": []
-      },
-      {
-        "id": "0febc2bd-a972-4e90-8e45-6d15b7d81909",
-        "slug": "g",
-        "title": "G",
-        "created": "2025-05-28 00:06:31:824",
-        "coverImage": "f470f0cfd93622bd24373087f6465d513ac5b646",
-        "images": [
+          "df5c06b9775861a469c9a573d881d016b4c1da7d",
           "abf8d094bb7a045e5dce8f8713da5541ff9f8784",
           "b88dab3640563a606ef2f207ca2de8e66993913e",
           "73d94b53dcfecf50856aef08704bf8b3ed794ef9",
@@ -1541,17 +1538,7 @@
           "db19a5f1bff4a02ee403d163c4b37454374085e9",
           "f470f0cfd93622bd24373087f6465d513ac5b646",
           "23816ca1d2f4794fe105c8e58555a9f9fb8cff54",
-          "ed526a677f34d2a03fb3f6ad042c43d41836b370"
-        ],
-        "groups": []
-      },
-      {
-        "id": "1b1aa119-d103-4aef-9668-e8531b1d923d",
-        "slug": "b",
-        "title": "B",
-        "created": "2025-05-28 00:06:51:741",
-        "coverImage": "e1027217e719e020f25a49158fcca3e6862f9070",
-        "images": [
+          "ed526a677f34d2a03fb3f6ad042c43d41836b370",
           "1d63a45dfc0c42a29b151362976fbc03f59831af",
           "2ea69221539d21e3d4c1b07ceece5ee07faec4c0",
           "e1027217e719e020f25a49158fcca3e6862f9070",
@@ -1559,87 +1546,10 @@
           "95fac4486b3c3d49a8385280841dfd3ce9e08b35",
           "36f894878440c5480c729431f3b7e2c02d150737",
           "7e7e10a3a89607ac13177d8520b275c54b4d16ab",
-          "8e1e5e309da99e3f55a72b31066512474c57c449"
-        ],
-        "groups": []
-      },
-      {
-        "id": "0fa21018-a5f8-4b5c-b661-06889c214e95",
-        "slug": "r",
-        "title": "R",
-        "created": "2025-05-28 00:08:12:488",
-        "coverImage": "79d65b390320ecbaded8921947e7f4c41597d756",
-        "images": [
-          "80ddfe9bf08723c7ced031be9ae343f12b2279eb",
-          "f6a851e07c3c72558c2a16a8b558515d0ad1db15",
-          "7e59cf9cd5ba86764e0492185ed45adc92f1ae2a",
-          "f4bfa1689c755dc798a1e5ffdac6deb302f94864",
-          "71c7276c4664e3756aa1970a5f6014199b5789e5",
-          "dc742992eb64c12cab4456ea01a242db0c3ff91c",
-          "79d65b390320ecbaded8921947e7f4c41597d756",
-          "0bbd0f1244be9f78d9095c6a66b9484e4535a120"
-        ],
-        "groups": []
-      },
-      {
-        "id": "e908043f-c984-4d47-b086-910b9ca01060",
-        "slug": "g",
-        "title": "G",
-        "created": "2025-05-28 00:08:39:375",
-        "coverImage": "2760ade6f0aed41a8c7f796b5f6b0e5d4cbc5991",
-        "images": [
-          "7eef1412c0a4a5e9c25e08be8024a464c0c1050a",
-          "2760ade6f0aed41a8c7f796b5f6b0e5d4cbc5991",
-          "dd6f4ed97d6a736706528339fb7d5e8aeb7ac57a",
-          "faec56ccc5efb52ff4d7568f1fdf5408a0ab9e9d",
-          "096f92707aff0a3f891493acaf3f5d7b07496e0e",
-          "6941c7845704ffb78cdc7705b73b6be2c0ffb7e1",
-          "31fdeb0af7db400f63eb31a1b441377779b87dee",
-          "1e80d0803bc8d44b714b4689ca4725c3c3c7a72f"
-        ],
-        "groups": []
-      },
-      {
-        "id": "42f11299-b832-40ad-963e-fa121ef9d961",
-        "slug": "b",
-        "title": "B",
-        "created": "2025-05-28 00:08:51:954",
-        "coverImage": "12cfd06a1265558ece10eb94cc07b6a81dad20dd",
-        "images": [
-          "12cfd06a1265558ece10eb94cc07b6a81dad20dd",
-          "fb8930d41e4c822987e069970724d940726fbee4",
-          "24a157123a48f41d0252cd228f06d416d2381f26",
-          "e024185d69cb47abcb3f7d3af4a04582714df8ac",
-          "69b0d5119b4e5a659148824742d6580e276354e6",
-          "a56ff3ae0fa29de82904d576a98953942cdc7836",
-          "00a87f16e47f6a5bcd376a72cb3d593c8858cdd0",
-          "7c30b6f10febd74cf47279c0417949e22085e6ae"
-        ],
-        "groups": []
-      },
-      {
-        "id": "cda7efcd-4d29-47b9-aee6-30ab880735bc",
-        "slug": "gbcimage_2025_05_28_00",
-        "title": "gbcImage 2025 05 28 00",
-        "created": "2025-05-28 00:43:54:008",
-        "coverImage": "9f738c0683fb645acfc5806dd99d7763fc611803",
-        "images": [
+          "8e1e5e309da99e3f55a72b31066512474c57c449",
           "1077e4e5336d901d85ba36b42f442f453be66c94",
           "15ec47cc60b2323698d1acae0f73ca385f12d432",
           "9f738c0683fb645acfc5806dd99d7763fc611803"
-        ],
-        "groups": []
-      },
-      {
-        "id": "6f1a7c44-9556-451a-a186-70d3f9ea764d",
-        "slug": "gbcimage_2025_05_27_23",
-        "title": "gbcImage 2025 05 27 23",
-        "created": "2025-05-28 00:49:16:889",
-        "coverImage": "d07a7ce792cc4e8a9de3df702413c0f0fb333fcc",
-        "images": [
-          "e09d87846a030e28722dc3d77ff8a4c7fd547240",
-          "de91c576f62adb462dec07790be420998d2b6200",
-          "d07a7ce792cc4e8a9de3df702413c0f0fb333fcc"
         ],
         "groups": []
       },
@@ -1743,19 +1653,7 @@
           "19b646b7493f6b76229fb692f6c461e8b5b73281",
           "4a1ed1bb6a38a29771e2fba3773f4dc6642db352",
           "db7801d9b3a4f350a1b5463f953b69928a46d754",
-          "fc53ae228a12b4dc180a9e35d1d94b626bac319b"
-        ],
-        "groups": [
-          "bb6f630d-609a-4347-8c27-c2b01497bb30"
-        ]
-      },
-      {
-        "id": "bb6f630d-609a-4347-8c27-c2b01497bb30",
-        "slug": "rgb_2025-05-29_21_08_32",
-        "title": "RGB 2025-05-29 21:08:32",
-        "created": "2025-05-29 21:08:32:957",
-        "coverImage": "3056f3cf0204e451305da051b1d396e170beacdc",
-        "images": [
+          "fc53ae228a12b4dc180a9e35d1d94b626bac319b",
           "3056f3cf0204e451305da051b1d396e170beacdc"
         ],
         "groups": []
@@ -17439,6 +17337,7 @@
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
+          "David",
           "Den Haag"
         ],
         "palette": "d2kr",
@@ -19732,8 +19631,7 @@
           "fileExtension": "png",
           "mimeType": "png"
         },
-        "loading": false,
-        "error": false
+        "loading": false
       },
       {
         "url": "https://herrzatacke.github.io/gb-printer-web-plugins/stitch.js",
@@ -19752,7 +19650,7 @@
         "loading": false
       }
     ],
-    "lastUpdateUTC": 1748543676,
+    "lastUpdateUTC": 1748554378,
     "version": 1
   }
 }
