@@ -1776,6 +1776,17 @@
           "da3740dd8b101e0054f3bf0b4c0a99fe91846670"
         ],
         "groups": []
+      },
+      {
+        "id": "bb6f630d-609a-4347-8c27-c2b01497bb30",
+        "slug": "rgb_2025-05-29_21_08_32",
+        "title": "RGB 2025-05-29 21:08:32",
+        "created": "2025-05-29 21:08:32:957",
+        "coverImage": "3056f3cf0204e451305da051b1d396e170beacdc",
+        "images": [
+          "3056f3cf0204e451305da051b1d396e170beacdc"
+        ],
+        "groups": []
       }
     ],
     "images": [
@@ -19326,11 +19337,12 @@
           "📸 Mart",
           "Den Haag"
         ],
-        "palette": "bw",
+        "palette": "cstmgreen",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "",
+        "lockFrame": true
       },
       {
         "hash": "c7f073e0eb11ddce0ca98af1424207b823b93fe6",
@@ -19343,11 +19355,50 @@
           "📸 Mart",
           "Den Haag"
         ],
-        "palette": "bw",
+        "palette": "spezi",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "palette": {
+          "r": [
+            0,
+            85,
+            170,
+            255
+          ],
+          "g": [
+            0,
+            85,
+            170,
+            255
+          ],
+          "b": [
+            0,
+            85,
+            170,
+            255
+          ],
+          "n": [
+            0,
+            85,
+            170,
+            255
+          ],
+          "blend": "multiply"
+        },
+        "hashes": {
+          "r": "5961e98c421031c0d18c7dead31310394c653c75",
+          "g": "5a1048c347c943557639bddd1f842c7a3d0ba00d",
+          "b": "4a1ed1bb6a38a29771e2fba3773f4dc6642db352"
+        },
+        "hash": "3056f3cf0204e451305da051b1d396e170beacdc",
+        "created": "2025-05-29 21:08:32:650",
+        "title": "",
+        "tags": []
       }
     ],
     "palettes": [
