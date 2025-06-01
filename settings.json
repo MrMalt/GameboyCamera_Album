@@ -649,7 +649,9 @@
           "50e1817b-975a-4804-a49b-ff2a73e62706",
           "2f3cd0c2-a4a7-432c-8b9d-a376e265189f",
           "8b0148f5-1308-44b1-8b79-8129ee2917c9",
-          "362c5871-7d27-47cc-a8d9-21beaf8993dc"
+          "362c5871-7d27-47cc-a8d9-21beaf8993dc",
+          "47657fe7-f1f7-4ac9-a8a3-702b797cd98e",
+          "bf4dd5f6-791c-40e5-b5ba-15a6d3c4723f"
         ]
       },
       {
@@ -1674,7 +1676,11 @@
           "6f5c44a932c56485a3ac165c262904dfe671c215",
           "1f5364e9f6223acd10f28642097daf94d88e8349"
         ],
-        "groups": []
+        "groups": [
+          "6b98ceaa-9ae9-4e93-87ee-0f66ff025577",
+          "5803d768-0cbd-4010-a1cd-1511cae57488",
+          "53b27cce-acd2-4b22-ac1f-d7068567b8dd"
+        ]
       },
       {
         "id": "6b98ceaa-9ae9-4e93-87ee-0f66ff025577",
@@ -1870,7 +1876,11 @@
           "2e4732b37b4069032ed999790bb2cbc4135097cd",
           "08d9a70caf09135e99b4af05c1e27d0166f1478a"
         ],
-        "groups": []
+        "groups": [
+          "fa80c428-5840-41ef-a3a0-43c2adff11d6",
+          "30246e26-98d4-4a89-b698-2b3db991639b",
+          "ca5079e0-9c96-4ad0-b0b1-431b35cbcb9a"
+        ]
       },
       {
         "id": "ca5079e0-9c96-4ad0-b0b1-431b35cbcb9a",
@@ -20392,7 +20402,13 @@
         "created": "2025-06-01 17:24:04:000",
         "title": "gbcImage_2025-06-01_17-24-04.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20404,7 +20420,13 @@
         "created": "2025-06-01 17:24:05:001",
         "title": "gbcImage_2025-06-01_17-24-05.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20416,7 +20438,13 @@
         "created": "2025-06-01 17:24:06:002",
         "title": "gbcImage_2025-06-01_17-24-06.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20428,7 +20456,13 @@
         "created": "2025-06-01 17:24:07:003",
         "title": "gbcImage_2025-06-01_17-24-07.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20440,7 +20474,13 @@
         "created": "2025-06-01 17:24:08:004",
         "title": "gbcImage_2025-06-01_17-24-08.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20452,7 +20492,13 @@
         "created": "2025-06-01 17:24:10:005",
         "title": "gbcImage_2025-06-01_17-24-09.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20464,7 +20510,13 @@
         "created": "2025-06-01 17:24:11:006",
         "title": "gbcImage_2025-06-01_17-24-11.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20476,7 +20528,13 @@
         "created": "2025-06-01 17:24:12:007",
         "title": "gbcImage_2025-06-01_17-24-12.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20488,7 +20546,13 @@
         "created": "2025-06-01 17:24:13:008",
         "title": "gbcImage_2025-06-01_17-24-13.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20500,7 +20564,13 @@
         "created": "2025-06-01 17:24:14:009",
         "title": "gbcImage_2025-06-01_17-24-14.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20512,7 +20582,13 @@
         "created": "2025-06-01 17:24:15:010",
         "title": "gbcImage_2025-06-01_17-24-15.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20524,7 +20600,13 @@
         "created": "2025-06-01 17:24:16:011",
         "title": "gbcImage_2025-06-01_17-24-16.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20536,7 +20618,13 @@
         "created": "2025-06-01 17:24:17:012",
         "title": "gbcImage_2025-06-01_17-24-17.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20548,7 +20636,13 @@
         "created": "2025-06-01 17:24:18:013",
         "title": "gbcImage_2025-06-01_17-24-18.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20560,7 +20654,13 @@
         "created": "2025-06-01 17:24:19:014",
         "title": "gbcImage_2025-06-01_17-24-19.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20572,7 +20672,13 @@
         "created": "2025-06-01 17:24:20:015",
         "title": "gbcImage_2025-06-01_17-24-20.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20584,7 +20690,13 @@
         "created": "2025-06-01 17:24:21:016",
         "title": "gbcImage_2025-06-01_17-24-21.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20596,7 +20708,13 @@
         "created": "2025-06-01 17:24:23:017",
         "title": "gbcImage_2025-06-01_17-24-23.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20608,7 +20726,13 @@
         "created": "2025-06-01 17:24:24:018",
         "title": "gbcImage_2025-06-01_17-24-24.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20620,7 +20744,13 @@
         "created": "2025-06-01 17:25:22:000",
         "title": "gbcImage_2025-06-01_17-25-22.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20632,7 +20762,13 @@
         "created": "2025-06-01 17:25:23:001",
         "title": "gbcImage_2025-06-01_17-25-23.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20644,7 +20780,13 @@
         "created": "2025-06-01 17:25:24:002",
         "title": "gbcImage_2025-06-01_17-25-24.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20656,7 +20798,13 @@
         "created": "2025-06-01 17:25:25:003",
         "title": "gbcImage_2025-06-01_17-25-25.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20668,7 +20816,13 @@
         "created": "2025-06-01 17:25:26:004",
         "title": "gbcImage_2025-06-01_17-25-26.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20680,7 +20834,13 @@
         "created": "2025-06-01 17:25:27:005",
         "title": "gbcImage_2025-06-01_17-25-27.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20692,7 +20852,13 @@
         "created": "2025-06-01 17:25:28:006",
         "title": "gbcImage_2025-06-01_17-25-28.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20704,7 +20870,13 @@
         "created": "2025-06-01 17:25:29:007",
         "title": "gbcImage_2025-06-01_17-25-29.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20716,7 +20888,13 @@
         "created": "2025-06-01 17:25:30:008",
         "title": "gbcImage_2025-06-01_17-25-30.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20728,7 +20906,13 @@
         "created": "2025-06-01 17:25:31:009",
         "title": "gbcImage_2025-06-01_17-25-31.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20740,7 +20924,13 @@
         "created": "2025-06-01 17:25:32:010",
         "title": "gbcImage_2025-06-01_17-25-32.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20752,7 +20942,13 @@
         "created": "2025-06-01 17:25:33:011",
         "title": "gbcImage_2025-06-01_17-25-33.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20764,7 +20960,13 @@
         "created": "2025-06-01 17:25:34:012",
         "title": "gbcImage_2025-06-01_17-25-34.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20776,7 +20978,13 @@
         "created": "2025-06-01 17:25:35:013",
         "title": "gbcImage_2025-06-01_17-25-35.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20788,7 +20996,13 @@
         "created": "2025-06-01 17:25:36:014",
         "title": "gbcImage_2025-06-01_17-25-36.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20800,7 +21014,13 @@
         "created": "2025-06-01 17:25:37:015",
         "title": "gbcImage_2025-06-01_17-25-37.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20812,7 +21032,13 @@
         "created": "2025-06-01 17:25:39:016",
         "title": "gbcImage_2025-06-01_17-25-39.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20824,7 +21050,13 @@
         "created": "2025-06-01 17:25:40:017",
         "title": "gbcImage_2025-06-01_17-25-40.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20836,7 +21068,13 @@
         "created": "2025-06-01 17:26:22:000",
         "title": "gbcImage_2025-06-01_17-26-22.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 Gameboy Camera",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20848,7 +21086,13 @@
         "created": "2025-06-01 17:26:23:001",
         "title": "gbcImage_2025-06-01_17-26-23.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 Gameboy Camera",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20860,7 +21104,13 @@
         "created": "2025-06-01 17:26:24:002",
         "title": "gbcImage_2025-06-01_17-26-24.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 Gameboy Camera",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20872,7 +21122,13 @@
         "created": "2025-06-01 17:26:25:003",
         "title": "gbcImage_2025-06-01_17-26-25.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 Gameboy Camera",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20884,7 +21140,13 @@
         "created": "2025-06-01 17:26:26:004",
         "title": "gbcImage_2025-06-01_17-26-26.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 Gameboy Camera",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20896,7 +21158,13 @@
         "created": "2025-06-01 17:26:27:005",
         "title": "gbcImage_2025-06-01_17-26-27.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 Gameboy Camera",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20908,7 +21176,13 @@
         "created": "2025-06-01 17:26:28:006",
         "title": "gbcImage_2025-06-01_17-26-28.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 Gameboy Camera",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20920,7 +21194,13 @@
         "created": "2025-06-01 17:26:29:007",
         "title": "gbcImage_2025-06-01_17-26-29.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 Gameboy Camera",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20932,7 +21212,13 @@
         "created": "2025-06-01 17:26:30:008",
         "title": "gbcImage_2025-06-01_17-26-30.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 Gameboy Camera",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20944,7 +21230,13 @@
         "created": "2025-06-01 17:26:32:009",
         "title": "gbcImage_2025-06-01_17-26-32.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 Gameboy Camera",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20956,7 +21248,13 @@
         "created": "2025-06-01 17:26:33:010",
         "title": "gbcImage_2025-06-01_17-26-33.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 Gameboy Camera",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20968,7 +21266,13 @@
         "created": "2025-06-01 17:26:34:011",
         "title": "gbcImage_2025-06-01_17-26-34.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 Gameboy Camera",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20980,7 +21284,13 @@
         "created": "2025-06-01 17:26:35:012",
         "title": "gbcImage_2025-06-01_17-26-35.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 Gameboy Camera",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -20992,7 +21302,13 @@
         "created": "2025-06-01 17:26:36:013",
         "title": "gbcImage_2025-06-01_17-26-36.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 Gameboy Camera",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21004,7 +21320,13 @@
         "created": "2025-06-01 17:26:37:014",
         "title": "gbcImage_2025-06-01_17-26-37.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 Gameboy Camera",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21016,7 +21338,13 @@
         "created": "2025-06-01 17:26:38:015",
         "title": "gbcImage_2025-06-01_17-26-38.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 Gameboy Camera",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21028,7 +21356,13 @@
         "created": "2025-06-01 17:26:39:016",
         "title": "gbcImage_2025-06-01_17-26-39.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 Gameboy Camera",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21040,7 +21374,13 @@
         "created": "2025-06-01 17:26:40:017",
         "title": "gbcImage_2025-06-01_17-26-40.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 Gameboy Camera",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21052,7 +21392,13 @@
         "created": "2025-06-01 17:26:41:018",
         "title": "gbcImage_2025-06-01_17-26-41.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 Gameboy Camera",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21064,7 +21410,13 @@
         "created": "2025-06-01 17:26:43:019",
         "title": "gbcImage_2025-06-01_17-26-43.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 Gameboy Camera",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21076,7 +21428,13 @@
         "created": "2025-06-01 17:27:31:000",
         "title": "gbcImage_2025-06-01_17-27-31.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21088,7 +21446,13 @@
         "created": "2025-06-01 17:27:32:001",
         "title": "gbcImage_2025-06-01_17-27-32.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21100,7 +21464,13 @@
         "created": "2025-06-01 17:27:33:002",
         "title": "gbcImage_2025-06-01_17-27-33.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21112,7 +21482,13 @@
         "created": "2025-06-01 17:27:34:003",
         "title": "gbcImage_2025-06-01_17-27-34.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21124,7 +21500,13 @@
         "created": "2025-06-01 17:27:35:004",
         "title": "gbcImage_2025-06-01_17-27-35.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21136,7 +21518,13 @@
         "created": "2025-06-01 17:27:36:005",
         "title": "gbcImage_2025-06-01_17-27-36.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21148,7 +21536,13 @@
         "created": "2025-06-01 17:27:37:006",
         "title": "gbcImage_2025-06-01_17-27-37.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21160,7 +21554,13 @@
         "created": "2025-06-01 17:27:38:007",
         "title": "gbcImage_2025-06-01_17-27-38.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21172,7 +21572,13 @@
         "created": "2025-06-01 17:27:39:008",
         "title": "gbcImage_2025-06-01_17-27-39.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21184,7 +21590,13 @@
         "created": "2025-06-01 17:27:40:009",
         "title": "gbcImage_2025-06-01_17-27-40.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21196,7 +21608,13 @@
         "created": "2025-06-01 17:27:41:010",
         "title": "gbcImage_2025-06-01_17-27-41.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21208,7 +21626,13 @@
         "created": "2025-06-01 17:27:42:011",
         "title": "gbcImage_2025-06-01_17-27-42.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21220,7 +21644,13 @@
         "created": "2025-06-01 17:27:43:012",
         "title": "gbcImage_2025-06-01_17-27-43.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21232,7 +21662,13 @@
         "created": "2025-06-01 17:27:44:013",
         "title": "gbcImage_2025-06-01_17-27-44.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21244,7 +21680,13 @@
         "created": "2025-06-01 17:27:45:014",
         "title": "gbcImage_2025-06-01_17-27-45.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21256,7 +21698,13 @@
         "created": "2025-06-01 17:27:46:015",
         "title": "gbcImage_2025-06-01_17-27-46.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21268,7 +21716,13 @@
         "created": "2025-06-01 17:27:47:016",
         "title": "gbcImage_2025-06-01_17-27-47.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21280,7 +21734,13 @@
         "created": "2025-06-01 17:27:48:017",
         "title": "gbcImage_2025-06-01_17-27-48.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21292,7 +21752,13 @@
         "created": "2025-06-01 17:27:49:018",
         "title": "gbcImage_2025-06-01_17-27-49.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21304,7 +21770,13 @@
         "created": "2025-06-01 17:27:50:019",
         "title": "gbcImage_2025-06-01_17-27-50.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21316,7 +21788,13 @@
         "created": "2025-06-01 17:28:42:000",
         "title": "gbcImage_2025-06-01_17-28-42.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21328,7 +21806,13 @@
         "created": "2025-06-01 17:28:43:001",
         "title": "gbcImage_2025-06-01_17-28-43.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21340,7 +21824,13 @@
         "created": "2025-06-01 17:28:44:002",
         "title": "gbcImage_2025-06-01_17-28-44.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21352,7 +21842,13 @@
         "created": "2025-06-01 17:28:45:003",
         "title": "gbcImage_2025-06-01_17-28-45.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21364,7 +21860,13 @@
         "created": "2025-06-01 17:28:46:004",
         "title": "gbcImage_2025-06-01_17-28-46.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21376,7 +21878,13 @@
         "created": "2025-06-01 17:28:47:005",
         "title": "gbcImage_2025-06-01_17-28-47.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21388,7 +21896,13 @@
         "created": "2025-06-01 17:28:48:006",
         "title": "gbcImage_2025-06-01_17-28-48.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21400,7 +21914,13 @@
         "created": "2025-06-01 17:28:49:007",
         "title": "gbcImage_2025-06-01_17-28-49.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21412,7 +21932,13 @@
         "created": "2025-06-01 17:28:50:008",
         "title": "gbcImage_2025-06-01_17-28-50.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21424,7 +21950,13 @@
         "created": "2025-06-01 17:28:51:009",
         "title": "gbcImage_2025-06-01_17-28-51.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21436,7 +21968,13 @@
         "created": "2025-06-01 17:28:52:010",
         "title": "gbcImage_2025-06-01_17-28-52.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21448,7 +21986,13 @@
         "created": "2025-06-01 17:28:53:011",
         "title": "gbcImage_2025-06-01_17-28-53.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21460,7 +22004,13 @@
         "created": "2025-06-01 17:28:54:012",
         "title": "gbcImage_2025-06-01_17-28-54.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21472,7 +22022,13 @@
         "created": "2025-06-01 17:28:55:013",
         "title": "gbcImage_2025-06-01_17-28-55.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21484,7 +22040,13 @@
         "created": "2025-06-01 17:28:56:014",
         "title": "gbcImage_2025-06-01_17-28-56.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21496,7 +22058,13 @@
         "created": "2025-06-01 17:28:57:015",
         "title": "gbcImage_2025-06-01_17-28-57.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21508,7 +22076,13 @@
         "created": "2025-06-01 17:28:58:016",
         "title": "gbcImage_2025-06-01_17-28-58.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21520,7 +22094,13 @@
         "created": "2025-06-01 17:28:59:017",
         "title": "gbcImage_2025-06-01_17-28-59.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21532,7 +22112,13 @@
         "created": "2025-06-01 17:29:00:018",
         "title": "gbcImage_2025-06-01_17-29-00.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21544,7 +22130,13 @@
         "created": "2025-06-01 17:29:01:019",
         "title": "gbcImage_2025-06-01_17-29-01.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21556,7 +22148,13 @@
         "created": "2025-06-01 17:29:02:020",
         "title": "gbcImage_2025-06-01_17-29-02.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21568,7 +22166,13 @@
         "created": "2025-06-01 17:29:03:021",
         "title": "gbcImage_2025-06-01_17-29-03.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21580,7 +22184,13 @@
         "created": "2025-06-01 17:29:04:022",
         "title": "gbcImage_2025-06-01_17-29-04.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21592,7 +22202,13 @@
         "created": "2025-06-01 17:29:05:023",
         "title": "gbcImage_2025-06-01_17-29-05.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21604,7 +22220,13 @@
         "created": "2025-06-01 17:29:06:024",
         "title": "gbcImage_2025-06-01_17-29-06.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21616,7 +22238,13 @@
         "created": "2025-06-01 17:29:07:025",
         "title": "gbcImage_2025-06-01_17-29-07.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21628,7 +22256,13 @@
         "created": "2025-06-01 17:29:08:026",
         "title": "gbcImage_2025-06-01_17-29-08.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21640,7 +22274,13 @@
         "created": "2025-06-01 17:30:00:000",
         "title": "gbcImage_2025-06-01_17-30-00.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21652,7 +22292,13 @@
         "created": "2025-06-01 17:30:01:001",
         "title": "gbcImage_2025-06-01_17-30-01.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21664,7 +22310,13 @@
         "created": "2025-06-01 17:30:02:002",
         "title": "gbcImage_2025-06-01_17-30-02.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21676,7 +22328,13 @@
         "created": "2025-06-01 17:30:03:003",
         "title": "gbcImage_2025-06-01_17-30-03.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21688,7 +22346,13 @@
         "created": "2025-06-01 17:30:04:004",
         "title": "gbcImage_2025-06-01_17-30-04.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21700,7 +22364,13 @@
         "created": "2025-06-01 17:30:05:005",
         "title": "gbcImage_2025-06-01_17-30-05.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21712,7 +22382,13 @@
         "created": "2025-06-01 17:30:06:006",
         "title": "gbcImage_2025-06-01_17-30-06.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21724,7 +22400,13 @@
         "created": "2025-06-01 17:30:07:007",
         "title": "gbcImage_2025-06-01_17-30-07.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21736,7 +22418,13 @@
         "created": "2025-06-01 17:30:08:008",
         "title": "gbcImage_2025-06-01_17-30-08.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21748,7 +22436,13 @@
         "created": "2025-06-01 17:30:09:009",
         "title": "gbcImage_2025-06-01_17-30-09.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21760,7 +22454,13 @@
         "created": "2025-06-01 17:30:10:010",
         "title": "gbcImage_2025-06-01_17-30-10.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21772,7 +22472,13 @@
         "created": "2025-06-01 17:30:11:011",
         "title": "gbcImage_2025-06-01_17-30-11.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21784,7 +22490,13 @@
         "created": "2025-06-01 17:30:12:012",
         "title": "gbcImage_2025-06-01_17-30-12.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21796,7 +22508,13 @@
         "created": "2025-06-01 17:30:13:013",
         "title": "gbcImage_2025-06-01_17-30-13.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21808,7 +22526,13 @@
         "created": "2025-06-01 17:30:15:014",
         "title": "gbcImage_2025-06-01_17-30-14.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21820,7 +22544,13 @@
         "created": "2025-06-01 17:30:16:015",
         "title": "gbcImage_2025-06-01_17-30-16.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21832,7 +22562,13 @@
         "created": "2025-06-01 17:30:17:016",
         "title": "gbcImage_2025-06-01_17-30-17.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21844,7 +22580,13 @@
         "created": "2025-06-01 17:30:18:017",
         "title": "gbcImage_2025-06-01_17-30-18.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21856,7 +22598,13 @@
         "created": "2025-06-01 17:30:19:018",
         "title": "gbcImage_2025-06-01_17-30-19.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21868,7 +22616,13 @@
         "created": "2025-06-01 17:30:20:019",
         "title": "gbcImage_2025-06-01_17-30-20.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21880,7 +22634,13 @@
         "created": "2025-06-01 17:30:21:020",
         "title": "gbcImage_2025-06-01_17-30-21.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21892,7 +22652,13 @@
         "created": "2025-06-01 17:30:22:021",
         "title": "gbcImage_2025-06-01_17-30-22.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21904,7 +22670,13 @@
         "created": "2025-06-01 17:30:23:022",
         "title": "gbcImage_2025-06-01_17-30-23.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21916,7 +22688,13 @@
         "created": "2025-06-01 17:30:24:023",
         "title": "gbcImage_2025-06-01_17-30-24.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21928,7 +22706,13 @@
         "created": "2025-06-01 17:30:25:024",
         "title": "gbcImage_2025-06-01_17-30-25.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21940,7 +22724,13 @@
         "created": "2025-06-01 17:30:26:025",
         "title": "gbcImage_2025-06-01_17-30-26.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21952,7 +22742,13 @@
         "created": "2025-06-01 17:31:22:000",
         "title": "gbcImage_2025-06-01_17-31-22.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21964,7 +22760,13 @@
         "created": "2025-06-01 17:31:23:001",
         "title": "gbcImage_2025-06-01_17-31-23.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21976,7 +22778,13 @@
         "created": "2025-06-01 17:31:25:002",
         "title": "gbcImage_2025-06-01_17-31-25.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -21988,7 +22796,13 @@
         "created": "2025-06-01 17:31:26:003",
         "title": "gbcImage_2025-06-01_17-31-26.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22000,7 +22814,13 @@
         "created": "2025-06-01 17:31:27:004",
         "title": "gbcImage_2025-06-01_17-31-27.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22012,7 +22832,13 @@
         "created": "2025-06-01 17:31:28:005",
         "title": "gbcImage_2025-06-01_17-31-28.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22024,7 +22850,13 @@
         "created": "2025-06-01 17:31:29:006",
         "title": "gbcImage_2025-06-01_17-31-29.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22036,7 +22868,13 @@
         "created": "2025-06-01 17:31:30:007",
         "title": "gbcImage_2025-06-01_17-31-30.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22048,7 +22886,13 @@
         "created": "2025-06-01 17:31:32:008",
         "title": "gbcImage_2025-06-01_17-31-31.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22060,7 +22904,13 @@
         "created": "2025-06-01 17:31:33:009",
         "title": "gbcImage_2025-06-01_17-31-33.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22072,7 +22922,13 @@
         "created": "2025-06-01 17:31:34:010",
         "title": "gbcImage_2025-06-01_17-31-34.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22084,7 +22940,13 @@
         "created": "2025-06-01 17:31:35:011",
         "title": "gbcImage_2025-06-01_17-31-35.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22096,7 +22958,13 @@
         "created": "2025-06-01 17:31:36:012",
         "title": "gbcImage_2025-06-01_17-31-36.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22108,7 +22976,13 @@
         "created": "2025-06-01 17:31:37:013",
         "title": "gbcImage_2025-06-01_17-31-37.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22120,7 +22994,13 @@
         "created": "2025-06-01 17:31:39:014",
         "title": "gbcImage_2025-06-01_17-31-39.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22132,7 +23012,13 @@
         "created": "2025-06-01 17:31:40:015",
         "title": "gbcImage_2025-06-01_17-31-40.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22144,7 +23030,13 @@
         "created": "2025-06-01 17:31:41:016",
         "title": "gbcImage_2025-06-01_17-31-41.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22156,7 +23048,13 @@
         "created": "2025-06-01 17:31:42:017",
         "title": "gbcImage_2025-06-01_17-31-42.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22168,7 +23066,13 @@
         "created": "2025-06-01 17:31:44:018",
         "title": "gbcImage_2025-06-01_17-31-43.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22180,7 +23084,13 @@
         "created": "2025-06-01 17:31:45:019",
         "title": "gbcImage_2025-06-01_17-31-44.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22192,7 +23102,13 @@
         "created": "2025-06-01 17:31:47:020",
         "title": "gbcImage_2025-06-01_17-31-47.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22204,7 +23120,13 @@
         "created": "2025-06-01 17:31:48:021",
         "title": "gbcImage_2025-06-01_17-31-48.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22216,7 +23138,13 @@
         "created": "2025-06-01 17:31:49:022",
         "title": "gbcImage_2025-06-01_17-31-49.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22228,7 +23156,13 @@
         "created": "2025-06-01 17:31:50:023",
         "title": "gbcImage_2025-06-01_17-31-50.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22240,7 +23174,13 @@
         "created": "2025-06-01 17:31:53:024",
         "title": "gbcImage_2025-06-01_17-31-53.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22252,7 +23192,13 @@
         "created": "2025-06-01 17:32:43:000",
         "title": "gbcImage_2025-06-01_17-32-43.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22264,7 +23210,13 @@
         "created": "2025-06-01 17:32:44:001",
         "title": "gbcImage_2025-06-01_17-32-44.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22276,7 +23228,13 @@
         "created": "2025-06-01 17:32:45:002",
         "title": "gbcImage_2025-06-01_17-32-45.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22288,7 +23246,13 @@
         "created": "2025-06-01 17:32:46:003",
         "title": "gbcImage_2025-06-01_17-32-46.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22300,7 +23264,13 @@
         "created": "2025-06-01 17:32:47:004",
         "title": "gbcImage_2025-06-01_17-32-47.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22312,7 +23282,13 @@
         "created": "2025-06-01 17:32:48:005",
         "title": "gbcImage_2025-06-01_17-32-48.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22324,7 +23300,13 @@
         "created": "2025-06-01 17:32:49:006",
         "title": "gbcImage_2025-06-01_17-32-49.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22336,7 +23318,13 @@
         "created": "2025-06-01 17:32:50:007",
         "title": "gbcImage_2025-06-01_17-32-50.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22348,7 +23336,13 @@
         "created": "2025-06-01 17:32:51:008",
         "title": "gbcImage_2025-06-01_17-32-51.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22360,7 +23354,13 @@
         "created": "2025-06-01 17:32:52:009",
         "title": "gbcImage_2025-06-01_17-32-52.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22372,7 +23372,13 @@
         "created": "2025-06-01 17:32:53:010",
         "title": "gbcImage_2025-06-01_17-32-53.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22384,7 +23390,13 @@
         "created": "2025-06-01 17:32:54:011",
         "title": "gbcImage_2025-06-01_17-32-54.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22396,7 +23408,13 @@
         "created": "2025-06-01 17:32:55:012",
         "title": "gbcImage_2025-06-01_17-32-55.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22408,7 +23426,13 @@
         "created": "2025-06-01 17:32:56:013",
         "title": "gbcImage_2025-06-01_17-32-56.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22420,7 +23444,13 @@
         "created": "2025-06-01 17:32:57:014",
         "title": "gbcImage_2025-06-01_17-32-57.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22432,7 +23462,13 @@
         "created": "2025-06-01 17:32:58:015",
         "title": "gbcImage_2025-06-01_17-32-58.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22444,7 +23480,13 @@
         "created": "2025-06-01 17:32:59:016",
         "title": "gbcImage_2025-06-01_17-32-59.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22456,7 +23498,13 @@
         "created": "2025-06-01 17:33:01:017",
         "title": "gbcImage_2025-06-01_17-33-01.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22468,7 +23516,13 @@
         "created": "2025-06-01 17:33:03:018",
         "title": "gbcImage_2025-06-01_17-33-03.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22480,7 +23534,13 @@
         "created": "2025-06-01 17:33:04:019",
         "title": "gbcImage_2025-06-01_17-33-04.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22492,7 +23552,13 @@
         "created": "2025-06-01 17:33:05:020",
         "title": "gbcImage_2025-06-01_17-33-05.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22504,7 +23570,13 @@
         "created": "2025-06-01 17:33:06:021",
         "title": "gbcImage_2025-06-01_17-33-06.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22516,7 +23588,13 @@
         "created": "2025-06-01 17:33:07:022",
         "title": "gbcImage_2025-06-01_17-33-07.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22528,7 +23606,13 @@
         "created": "2025-06-01 17:33:08:023",
         "title": "gbcImage_2025-06-01_17-33-08.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22540,7 +23624,13 @@
         "created": "2025-06-01 17:33:10:024",
         "title": "gbcImage_2025-06-01_17-33-10.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -22996,7 +24086,7 @@
         "loading": false
       }
     ],
-    "lastUpdateUTC": 1748792024,
+    "lastUpdateUTC": 1748798779,
     "version": 1
   }
 }
