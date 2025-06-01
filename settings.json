@@ -20390,7 +20390,7 @@
           "📸 Mart",
           "Den Haag"
         ],
-        "palette": "bw",
+        "palette": "llawk",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -24086,7 +24086,7 @@
         "loading": false
       }
     ],
-    "lastUpdateUTC": 1748798779,
+    "lastUpdateUTC": 1748812846,
     "version": 1
   }
 }
