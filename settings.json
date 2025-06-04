@@ -19916,6 +19916,7 @@
         "title": "gbcImage_2025-05-31_20-40-47.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Den Haag"
@@ -20125,6 +20126,7 @@
         "title": "gbcImage_2025-05-31_20-41-08.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Den Haag"
@@ -20160,6 +20162,7 @@
         "title": "gbcImage_2025-05-31_20-41-11.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Den Haag"
@@ -20335,6 +20338,7 @@
         "title": "gbcImage_2025-05-31_21-49-53.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Den Haag"
@@ -23636,6 +23640,42 @@
         "invertFramePalette": false,
         "invertPalette": false,
         "frame": ""
+      },
+      {
+        "hash": "8de9ddb939033f9407bf375317cecf7a0f96038b",
+        "created": "2025-06-04 18:31:11:000",
+        "title": "gbcImage_2025-06-04_18-31-11.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "65bf9cfc5cdfb3bd400d8c5f364040b53ae7dbab",
+        "created": "2025-06-04 18:31:13:001",
+        "title": "gbcImage_2025-06-04_18-31-13.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "dbc1f7712bf719d1c00ef314cf7467e51c38485e",
+        "created": "2025-06-04 18:31:15:002",
+        "title": "gbcImage_2025-06-04_18-31-15.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
       }
     ],
     "palettes": [
@@ -24086,7 +24126,7 @@
         "loading": false
       }
     ],
-    "lastUpdateUTC": 1748812846,
+    "lastUpdateUTC": 1749054686,
     "version": 1
   }
 }
