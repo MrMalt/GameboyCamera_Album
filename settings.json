@@ -1916,6 +1916,96 @@
           "cdbf518dcc13254a68ca142acb3d0e5ede5e0cc4"
         ],
         "groups": []
+      },
+      {
+        "id": "bdad8bb8-e037-4e6d-aadc-3f3e9a60118b",
+        "slug": "b",
+        "title": "B",
+        "created": "2025-06-04 21:27:13:890",
+        "coverImage": "d6b627d93e66e38b971eae2504dc33f981e87595",
+        "images": [
+          "d6b627d93e66e38b971eae2504dc33f981e87595",
+          "abaea9343bcf25ac1935c457cce6e0d1217219fd",
+          "487b75dc9cc9a4232c348f758da89178dc3af544",
+          "86af3561843d4368d5881dc0905353ee99cf24cb",
+          "0e1fa1e26955204852ed64a13c5539bb4d205447",
+          "579449adb91e3af7f08194738fbf1a648c0906d3",
+          "e59868a281c8cdb15ecb96bfe6c4d5d55ac32e58",
+          "24dfa07375a48af3b58609416fda9f5989fb3fd0",
+          "98594dd93545ad7f4b6a4421c56fb19b1181ac0a"
+        ],
+        "groups": []
+      },
+      {
+        "id": "58a83b85-96f5-4a26-9a0c-adebe95cda70",
+        "slug": "import_2025-06-04_21_31_14",
+        "title": "Import 2025-06-04 21:31:14",
+        "created": "2025-06-04 21:31:14:615",
+        "coverImage": "d8da909bd6d057a9c86dbddd13b0bab2a8a2d05f",
+        "images": [],
+        "groups": [
+          "6c505401-6230-4fb2-ab94-fb0f4bb0e51f",
+          "df2f9d24-6f97-487c-9e85-8279d6062d39",
+          "933d79f8-12f7-48f0-a14e-507f3f6f2679",
+          "bdad8bb8-e037-4e6d-aadc-3f3e9a60118b"
+        ]
+      },
+      {
+        "id": "6c505401-6230-4fb2-ab94-fb0f4bb0e51f",
+        "slug": "c",
+        "title": "C",
+        "created": "2025-06-04 21:31:32:242",
+        "coverImage": "f4a066a06157c2820ad79ff97fd48cec4093d0c8",
+        "images": [
+          "d8da909bd6d057a9c86dbddd13b0bab2a8a2d05f",
+          "fd9bf35dc1304cbefe4879846865d0b43ce10850",
+          "f8c8e2b3b1f1cd1afdb888fb9c0ce0de453d8580",
+          "422e1add039d02d1c6bc7f5007889966bf87fe5f",
+          "663a20c4cf5205e1daca9553d6469e6500c1b9d2",
+          "30d91a9c0d5b498bf0da32c40c3b5d56cf29a1fb",
+          "c93d48dd752212168e114311f32c3e7d240ab16d",
+          "3517bb95250b6e77c8c16e71e8bf18f823a4682b",
+          "f4a066a06157c2820ad79ff97fd48cec4093d0c8"
+        ],
+        "groups": []
+      },
+      {
+        "id": "df2f9d24-6f97-487c-9e85-8279d6062d39",
+        "slug": "r",
+        "title": "R",
+        "created": "2025-06-04 21:32:00:299",
+        "coverImage": "94c7f868c49fd0d78af71d4cb552debf43e7d2ce",
+        "images": [
+          "fb3d9a9369776a852408504fef4243567c8e19ee",
+          "0445b855b53997d15db2a7ea2e51fcadb987c8ee",
+          "d6ddd27f16c7b5d8427c77534f0cc0578d5695e8",
+          "cb821c138c58a5af90efe1e66af8df245e18e165",
+          "ea753a2bb971cf772b89d16b9c9f4c8595d4296e",
+          "c7dec8bbc44eded957da1862187024a7e0d31b5d",
+          "98affd7dec3d6c9a2ed9193961a5e6c8773fe005",
+          "aa7705f55585c940361ef52a29466ebf1cf2e6bf",
+          "94c7f868c49fd0d78af71d4cb552debf43e7d2ce"
+        ],
+        "groups": []
+      },
+      {
+        "id": "933d79f8-12f7-48f0-a14e-507f3f6f2679",
+        "slug": "g",
+        "title": "G",
+        "created": "2025-06-04 21:32:13:215",
+        "coverImage": "0ede704f82eb69670e185e56f3e83acf8c450148",
+        "images": [
+          "b664a9259364427aa638c2afe6128e741d4ba1d5",
+          "a478821fb38053cd724ec0d83dab5497db04d902",
+          "f083d5943fa83e6137d081045ca711b6cbf09dc8",
+          "801b4351e8d247bba3e7bde8dad8442e166cf4d0",
+          "4282350bbf698ea237c5133a8ec31ef63e9f1103",
+          "7ce646c7699adfacf6f729cb46a8eff5155bc9e1",
+          "81b466fcdde9ea4b053a5f5933ae27869017aa40",
+          "46404ce489cd47aa3e4ff92737a119bfba5df322",
+          "0ede704f82eb69670e185e56f3e83acf8c450148"
+        ],
+        "groups": []
       }
     ],
     "images": [
@@ -23674,6 +23764,438 @@
         "invertPalette": false,
         "frame": "",
         "lockFrame": true
+      },
+      {
+        "hash": "d6b627d93e66e38b971eae2504dc33f981e87595",
+        "created": "2025-06-04 21:27:03:242",
+        "title": "Text input.txt 01",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "abaea9343bcf25ac1935c457cce6e0d1217219fd",
+        "created": "2025-06-04 21:27:03:244",
+        "title": "Text input.txt 02",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "487b75dc9cc9a4232c348f758da89178dc3af544",
+        "created": "2025-06-04 21:27:03:246",
+        "title": "Text input.txt 03",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "86af3561843d4368d5881dc0905353ee99cf24cb",
+        "created": "2025-06-04 21:27:03:248",
+        "title": "Text input.txt 04",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "0e1fa1e26955204852ed64a13c5539bb4d205447",
+        "created": "2025-06-04 21:27:03:250",
+        "title": "Text input.txt 05",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "579449adb91e3af7f08194738fbf1a648c0906d3",
+        "created": "2025-06-04 21:27:03:252",
+        "title": "Text input.txt 06",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "e59868a281c8cdb15ecb96bfe6c4d5d55ac32e58",
+        "created": "2025-06-04 21:27:03:254",
+        "title": "Text input.txt 07",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "24dfa07375a48af3b58609416fda9f5989fb3fd0",
+        "created": "2025-06-04 21:27:03:256",
+        "title": "Text input.txt 08",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "98594dd93545ad7f4b6a4421c56fb19b1181ac0a",
+        "created": "2025-06-04 21:27:03:258",
+        "title": "Text input.txt 09",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "d8da909bd6d057a9c86dbddd13b0bab2a8a2d05f",
+        "created": "2025-06-04 21:31:11:699",
+        "title": "Text input.txt 01",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "fd9bf35dc1304cbefe4879846865d0b43ce10850",
+        "created": "2025-06-04 21:31:11:701",
+        "title": "Text input.txt 02",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "f8c8e2b3b1f1cd1afdb888fb9c0ce0de453d8580",
+        "created": "2025-06-04 21:31:11:703",
+        "title": "Text input.txt 03",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "422e1add039d02d1c6bc7f5007889966bf87fe5f",
+        "created": "2025-06-04 21:31:11:705",
+        "title": "Text input.txt 04",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "663a20c4cf5205e1daca9553d6469e6500c1b9d2",
+        "created": "2025-06-04 21:31:11:707",
+        "title": "Text input.txt 05",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "30d91a9c0d5b498bf0da32c40c3b5d56cf29a1fb",
+        "created": "2025-06-04 21:31:11:709",
+        "title": "Text input.txt 06",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "c93d48dd752212168e114311f32c3e7d240ab16d",
+        "created": "2025-06-04 21:31:11:711",
+        "title": "Text input.txt 07",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "3517bb95250b6e77c8c16e71e8bf18f823a4682b",
+        "created": "2025-06-04 21:31:11:713",
+        "title": "Text input.txt 08",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "f4a066a06157c2820ad79ff97fd48cec4093d0c8",
+        "created": "2025-06-04 21:31:11:715",
+        "title": "Text input.txt 09",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "fb3d9a9369776a852408504fef4243567c8e19ee",
+        "created": "2025-06-04 21:31:11:717",
+        "title": "Text input.txt 10",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "0445b855b53997d15db2a7ea2e51fcadb987c8ee",
+        "created": "2025-06-04 21:31:11:719",
+        "title": "Text input.txt 11",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "d6ddd27f16c7b5d8427c77534f0cc0578d5695e8",
+        "created": "2025-06-04 21:31:11:721",
+        "title": "Text input.txt 12",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "cb821c138c58a5af90efe1e66af8df245e18e165",
+        "created": "2025-06-04 21:31:11:723",
+        "title": "Text input.txt 13",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "ea753a2bb971cf772b89d16b9c9f4c8595d4296e",
+        "created": "2025-06-04 21:31:11:725",
+        "title": "Text input.txt 14",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "c7dec8bbc44eded957da1862187024a7e0d31b5d",
+        "created": "2025-06-04 21:31:11:727",
+        "title": "Text input.txt 15",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "98affd7dec3d6c9a2ed9193961a5e6c8773fe005",
+        "created": "2025-06-04 21:31:11:729",
+        "title": "Text input.txt 16",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "aa7705f55585c940361ef52a29466ebf1cf2e6bf",
+        "created": "2025-06-04 21:31:11:731",
+        "title": "Text input.txt 17",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "94c7f868c49fd0d78af71d4cb552debf43e7d2ce",
+        "created": "2025-06-04 21:31:11:733",
+        "title": "Text input.txt 18",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "b664a9259364427aa638c2afe6128e741d4ba1d5",
+        "created": "2025-06-04 21:31:11:735",
+        "title": "Text input.txt 19",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "a478821fb38053cd724ec0d83dab5497db04d902",
+        "created": "2025-06-04 21:31:11:737",
+        "title": "Text input.txt 20",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "f083d5943fa83e6137d081045ca711b6cbf09dc8",
+        "created": "2025-06-04 21:31:11:739",
+        "title": "Text input.txt 21",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "801b4351e8d247bba3e7bde8dad8442e166cf4d0",
+        "created": "2025-06-04 21:31:11:741",
+        "title": "Text input.txt 22",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "4282350bbf698ea237c5133a8ec31ef63e9f1103",
+        "created": "2025-06-04 21:31:11:743",
+        "title": "Text input.txt 23",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "7ce646c7699adfacf6f729cb46a8eff5155bc9e1",
+        "created": "2025-06-04 21:31:11:745",
+        "title": "Text input.txt 24",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "81b466fcdde9ea4b053a5f5933ae27869017aa40",
+        "created": "2025-06-04 21:31:11:747",
+        "title": "Text input.txt 25",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "46404ce489cd47aa3e4ff92737a119bfba5df322",
+        "created": "2025-06-04 21:31:11:749",
+        "title": "Text input.txt 26",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "0ede704f82eb69670e185e56f3e83acf8c450148",
+        "created": "2025-06-04 21:31:11:751",
+        "title": "Text input.txt 27",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
       }
     ],
     "palettes": [
@@ -24103,8 +24625,7 @@
         },
         "config": {
           "fileExtension": "png",
-          "mimeType": "png",
-          "scaleFactor": 0
+          "mimeType": "png"
         },
         "loading": false
       },
@@ -24115,17 +24636,9 @@
         "configParams": {},
         "config": {},
         "loading": false
-      },
-      {
-        "url": "https://herrzatacke.github.io/gb-printer-web-plugins/toSav.js",
-        "name": "To .sav",
-        "description": "This plugin creates a .sav file with a maximum of 30 images",
-        "configParams": {},
-        "config": {},
-        "loading": false
       }
     ],
-    "lastUpdateUTC": 1749060990,
+    "lastUpdateUTC": 1749065474,
     "version": 1
   }
 }
