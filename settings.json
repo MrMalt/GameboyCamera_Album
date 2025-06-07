@@ -496,7 +496,8 @@
           "96375409-0ed8-4e5f-85cc-6a0746b6a1cd",
           "679230a3-7378-4bbb-bf45-0201159a1bdd",
           "a159edaf-dc44-4c81-8f41-dd2298e1325e",
-          "58a83b85-96f5-4a26-9a0c-adebe95cda70"
+          "58a83b85-96f5-4a26-9a0c-adebe95cda70",
+          "10f370a3-3fce-48b9-9426-d1c217174326"
         ]
       },
       {
@@ -2014,23 +2015,17 @@
         "title": "Import 2025-06-07 17:33:20",
         "created": "2025-06-07 17:33:20:930",
         "coverImage": "a85e3586faf3c0d812f703111495c1f51e1ef7d9",
-        "images": [
-          "a85e3586faf3c0d812f703111495c1f51e1ef7d9",
-          "d53154d01896cb915bbaf1e66a4cb340e4b61631",
-          "7ae2b26beba07a74f77c5143bb88af9d8aa840f3",
-          "32e08c9f16f47f89a7b78d6830a67f62f1f40e21",
-          "27e7d1f79bf5b98b121b21d935210fd606a55103",
-          "8a1b1224e71a970f7cbad73b1ab5d5d4bc570052",
-          "41ccd3f78a7e1795ce258cf94ccaaa1195e4361f",
-          "ce4ec247b7e21fb6408b01758787bb749abe3a20",
-          "48918ed1bfccacba1f5630d49a54a664c91648a9"
-        ],
-        "groups": []
+        "images": [],
+        "groups": [
+          "24be4715-b4d0-4b7c-a66e-2af88325524f",
+          "3a86f88f-88b5-4b45-8c69-c94e0729e25d",
+          "04620046-b9d2-444b-a049-e1e98bcd95b7"
+        ]
       },
       {
         "id": "3a86f88f-88b5-4b45-8c69-c94e0729e25d",
-        "slug": "import_2025-06-07_17_38_51",
-        "title": "Import 2025-06-07 17:38:51",
+        "slug": "rgb",
+        "title": "RGB",
         "created": "2025-06-07 17:38:51:751",
         "coverImage": "a544035c3331246083f7fabb80f8fa48b2ffcfa3",
         "images": [
@@ -2066,8 +2061,8 @@
       },
       {
         "id": "24be4715-b4d0-4b7c-a66e-2af88325524f",
-        "slug": "import_2025-06-07_17_43_07",
-        "title": "Import 2025-06-07 17:43:07",
+        "slug": "y",
+        "title": "Y",
         "created": "2025-06-07 17:43:07:686",
         "coverImage": "c224c7ab4af7377aeff3889d2c2ddbaf0f5a9379",
         "images": [
@@ -2080,6 +2075,25 @@
           "ab778ccc1bb75dd612bea49233fe70846d7ab1c2",
           "d7940fba79bd95fdf287974b3612c6cf5044d346",
           "fa8f444fd5640e2a25e8208f01d28a2919f86ee4"
+        ],
+        "groups": []
+      },
+      {
+        "id": "04620046-b9d2-444b-a049-e1e98bcd95b7",
+        "slug": "c",
+        "title": "C",
+        "created": "2025-06-07 18:24:01:771",
+        "coverImage": "a85e3586faf3c0d812f703111495c1f51e1ef7d9",
+        "images": [
+          "48918ed1bfccacba1f5630d49a54a664c91648a9",
+          "41ccd3f78a7e1795ce258cf94ccaaa1195e4361f",
+          "8a1b1224e71a970f7cbad73b1ab5d5d4bc570052",
+          "ce4ec247b7e21fb6408b01758787bb749abe3a20",
+          "27e7d1f79bf5b98b121b21d935210fd606a55103",
+          "32e08c9f16f47f89a7b78d6830a67f62f1f40e21",
+          "7ae2b26beba07a74f77c5143bb88af9d8aa840f3",
+          "a85e3586faf3c0d812f703111495c1f51e1ef7d9",
+          "d53154d01896cb915bbaf1e66a4cb340e4b61631"
         ],
         "groups": []
       }
@@ -25332,7 +25346,8 @@
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "",
+        "lockFrame": true
       },
       {
         "hash": "300674883dfb55fef5ea157e183ecf98a22e14ff",
@@ -25779,8 +25794,7 @@
         },
         "config": {
           "fileExtension": "png",
-          "mimeType": "png",
-          "scaleFactor": 0
+          "mimeType": "png"
         },
         "loading": false
       },
@@ -25801,7 +25815,7 @@
         "loading": false
       }
     ],
-    "lastUpdateUTC": 1749313270,
+    "lastUpdateUTC": 1749313924,
     "version": 1
   }
 }
