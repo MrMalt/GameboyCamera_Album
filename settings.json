@@ -497,7 +497,12 @@
           "679230a3-7378-4bbb-bf45-0201159a1bdd",
           "a159edaf-dc44-4c81-8f41-dd2298e1325e",
           "58a83b85-96f5-4a26-9a0c-adebe95cda70",
-          "10f370a3-3fce-48b9-9426-d1c217174326"
+          "10f370a3-3fce-48b9-9426-d1c217174326",
+          "25180719-a3fc-4872-8f98-7b3585f91730",
+          "50e1817b-975a-4804-a49b-ff2a73e62706",
+          "362c5871-7d27-47cc-a8d9-21beaf8993dc",
+          "47657fe7-f1f7-4ac9-a8a3-702b797cd98e",
+          "bf4dd5f6-791c-40e5-b5ba-15a6d3c4723f"
         ]
       },
       {
@@ -647,13 +652,9 @@
           "704b6508-1937-48a1-b568-067b0d618fe4",
           "dfe5c2a5-7cad-4a79-9426-58b58c92413d",
           "e2894558-769d-42f6-9b2a-6118c8bfd80a",
-          "25180719-a3fc-4872-8f98-7b3585f91730",
-          "50e1817b-975a-4804-a49b-ff2a73e62706",
           "2f3cd0c2-a4a7-432c-8b9d-a376e265189f",
           "8b0148f5-1308-44b1-8b79-8129ee2917c9",
-          "362c5871-7d27-47cc-a8d9-21beaf8993dc",
-          "47657fe7-f1f7-4ac9-a8a3-702b797cd98e",
-          "bf4dd5f6-791c-40e5-b5ba-15a6d3c4723f"
+          "5d7e4696-afa5-40df-be8e-3542fbe5d4f3"
         ]
       },
       {
@@ -25404,7 +25405,13 @@
         "created": "2025-06-11 00:44:32:000",
         "title": "gbcImage_2025-06-11_00-44-31.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Moon"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -25416,7 +25423,13 @@
         "created": "2025-06-11 00:44:32:001",
         "title": "gbcImage_2025-06-11_00-44-32.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Moon"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -25428,7 +25441,13 @@
         "created": "2025-06-11 00:44:34:002",
         "title": "gbcImage_2025-06-11_00-44-34.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Moon"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -25440,7 +25459,13 @@
         "created": "2025-06-11 00:44:35:003",
         "title": "gbcImage_2025-06-11_00-44-35.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Moon"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -25452,7 +25477,13 @@
         "created": "2025-06-11 00:44:36:004",
         "title": "gbcImage_2025-06-11_00-44-36.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Moon"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -25464,7 +25495,13 @@
         "created": "2025-06-11 00:44:37:005",
         "title": "gbcImage_2025-06-11_00-44-37.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Moon"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -25476,7 +25513,13 @@
         "created": "2025-06-11 00:44:38:006",
         "title": "gbcImage_2025-06-11_00-44-38.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Moon"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -25488,7 +25531,13 @@
         "created": "2025-06-11 00:44:39:007",
         "title": "gbcImage_2025-06-11_00-44-39.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Moon"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -25500,7 +25549,13 @@
         "created": "2025-06-11 00:44:40:008",
         "title": "gbcImage_2025-06-11_00-44-40.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Moon"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -25512,7 +25567,13 @@
         "created": "2025-06-11 00:44:42:009",
         "title": "gbcImage_2025-06-11_00-44-42.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Moon"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -25524,7 +25585,13 @@
         "created": "2025-06-11 00:44:43:010",
         "title": "gbcImage_2025-06-11_00-44-43.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Moon"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -25536,7 +25603,13 @@
         "created": "2025-06-11 00:44:44:011",
         "title": "gbcImage_2025-06-11_00-44-44.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Moon"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -25548,7 +25621,13 @@
         "created": "2025-06-11 00:44:46:012",
         "title": "gbcImage_2025-06-11_00-44-46.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Moon"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -25560,7 +25639,13 @@
         "created": "2025-06-11 00:44:48:013",
         "title": "gbcImage_2025-06-11_00-44-48.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Moon"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -25572,7 +25657,13 @@
         "created": "2025-06-11 00:44:49:014",
         "title": "gbcImage_2025-06-11_00-44-49.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Moon"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -25584,7 +25675,13 @@
         "created": "2025-06-11 00:44:50:015",
         "title": "gbcImage_2025-06-11_00-44-50.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Moon"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -25596,7 +25693,13 @@
         "created": "2025-06-11 00:44:51:016",
         "title": "gbcImage_2025-06-11_00-44-51.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Moon"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -25608,7 +25711,13 @@
         "created": "2025-06-11 00:44:52:017",
         "title": "gbcImage_2025-06-11_00-44-52.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Moon"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -25620,7 +25729,13 @@
         "created": "2025-06-11 00:44:54:018",
         "title": "gbcImage_2025-06-11_00-44-54.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Moon"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -25632,7 +25747,13 @@
         "created": "2025-06-11 00:44:55:019",
         "title": "gbcImage_2025-06-11_00-44-55.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Moon"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -25644,7 +25765,13 @@
         "created": "2025-06-11 00:44:56:020",
         "title": "gbcImage_2025-06-11_00-44-56.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Moon"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -25656,7 +25783,13 @@
         "created": "2025-06-11 00:44:57:021",
         "title": "gbcImage_2025-06-11_00-44-57.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Moon"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -25668,7 +25801,13 @@
         "created": "2025-06-11 00:44:58:022",
         "title": "gbcImage_2025-06-11_00-44-58.png",
         "lines": 360,
-        "tags": [],
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Moon"
+        ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
@@ -26103,9 +26242,11 @@
         },
         "config": {
           "fileExtension": "png",
-          "mimeType": "png"
+          "mimeType": "png",
+          "scaleFactor": 0
         },
-        "loading": false
+        "loading": false,
+        "error": false
       },
       {
         "url": "https://herrzatacke.github.io/gb-printer-web-plugins/stitch.js",
@@ -26124,7 +26265,7 @@
         "loading": false
       }
     ],
-    "lastUpdateUTC": 1749595537,
+    "lastUpdateUTC": 1749313270,
     "version": 1
   }
 }
