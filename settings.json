@@ -25853,6 +25853,7 @@
         "title": "gbcImage_2025-06-14_11-21-33.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "⏲️ HDR",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
@@ -26048,17 +26049,19 @@
         "title": "gbcImage_2025-06-23_00-56-45.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Leiden",
           "Plant"
         ],
-        "palette": "bw",
+        "palette": "kditw",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "",
+        "lockFrame": true
       },
       {
         "hash": "34f4ddb47debce1f0006a6f48e858a9544999751",
@@ -26071,11 +26074,12 @@
           "📸 Mart",
           "Leiden"
         ],
-        "palette": "bw",
+        "palette": "shmgy",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "",
+        "lockFrame": true
       },
       {
         "hash": "f990de448673d1b114aeef4c28699e830e7357a3",
@@ -26088,11 +26092,12 @@
           "📸 Mart",
           "Leiden"
         ],
-        "palette": "bw",
+        "palette": "cstmgrey",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "",
+        "lockFrame": true
       },
       {
         "hash": "a99ad50e886d077e27c9560cd834c9082ce38c73",
@@ -26105,11 +26110,12 @@
           "📸 Mart",
           "Archeon"
         ],
-        "palette": "bw",
+        "palette": "gddhdxude",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "",
+        "lockFrame": true
       },
       {
         "hash": "125071e5fd86ae2e349b4b37827a45ddeefaa22f",
@@ -26123,11 +26129,12 @@
           "Archeon",
           "Plant"
         ],
-        "palette": "bw",
+        "palette": "gbcd",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "",
+        "lockFrame": true
       },
       {
         "hash": "df01c6f0c04981f02107e352b014cdc0abb9d8ff",
@@ -26141,11 +26148,12 @@
           "Archeon",
           "Plant"
         ],
-        "palette": "bw",
+        "palette": "hipster",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "",
+        "lockFrame": true
       },
       {
         "hash": "4ad7814175ae4dca06031f8f83974c47d549235a",
@@ -26159,11 +26167,12 @@
           "Archeon",
           "Plant"
         ],
-        "palette": "bw",
+        "palette": "sunset2",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "",
+        "lockFrame": true
       },
       {
         "hash": "6d8ac36bbeb077968240e7de0c375f43be7d718c",
@@ -26177,11 +26186,12 @@
           "Archeon",
           "Plant"
         ],
-        "palette": "bw",
+        "palette": "tbpp",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "",
+        "lockFrame": true
       },
       {
         "hash": "00545c4deecad6b3c5ab760832e27bd2a6984c92",
@@ -26189,16 +26199,19 @@
         "title": "gbcImage_2025-06-23_00-57-00.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
-          "Archeon"
+          "Archeon",
+          "Tom"
         ],
-        "palette": "bw",
+        "palette": "shmgy",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "",
+        "lockFrame": true
       },
       {
         "hash": "4a792a480985405ebc35bb2addacb8adc723c116",
@@ -26211,11 +26224,12 @@
           "📸 Mart",
           "Archeon"
         ],
-        "palette": "bw",
+        "palette": "fsp",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "",
+        "lockFrame": true
       },
       {
         "hash": "5056cd4bec48319d3d8dee97c9cc1aefa5b9c4a9",
@@ -26228,11 +26242,12 @@
           "📸 Mart",
           "Archeon"
         ],
-        "palette": "bw",
+        "palette": "grafixkidgray",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "",
+        "lockFrame": true
       },
       {
         "hash": "f4e25956725203a8232f91b53f32d611c5c9a490",
@@ -26245,11 +26260,12 @@
           "📸 Mart",
           "Archeon"
         ],
-        "palette": "bw",
+        "palette": "grafixkidgray",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "",
+        "lockFrame": true
       },
       {
         "hash": "445378f1bacedbab326b40b5b5708e9b153f4f0e",
@@ -26257,16 +26273,18 @@
         "title": "gbcImage_2025-06-23_00-57-07.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Archeon"
         ],
-        "palette": "bw",
+        "palette": "grafixkidgray",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "",
+        "lockFrame": true
       },
       {
         "hash": "ecaa8fbc706cff8e8d51f64ff567e5f82bce5c5a",
@@ -26274,16 +26292,18 @@
         "title": "gbcImage_2025-06-23_00-57-09.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Archeon"
         ],
-        "palette": "bw",
+        "palette": "grafixkidgray",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "",
+        "lockFrame": true
       },
       {
         "hash": "4884ced2a39804a0167e51ff643079f1e38482dd",
@@ -26296,11 +26316,12 @@
           "📸 Mart",
           "Archeon"
         ],
-        "palette": "bw",
+        "palette": "grafixkidgray",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "",
+        "lockFrame": true
       },
       {
         "hash": "d0bbd3e46034637e7f51dc231f6f890560d2ff28",
@@ -26308,16 +26329,18 @@
         "title": "gbcImage_2025-06-23_00-57-12.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Archeon"
         ],
-        "palette": "bw",
+        "palette": "grafixkidgray",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "",
+        "lockFrame": true
       },
       {
         "hash": "da743c66ed579cd2c2fee2cd682a56ac755b5a19",
@@ -26330,11 +26353,12 @@
           "📸 Mart",
           "Archeon"
         ],
-        "palette": "bw",
+        "palette": "grafixkidgray",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "",
+        "lockFrame": true
       },
       {
         "hash": "e4163c140875bde6bdcc2e95c2cc117969714ae4",
@@ -26347,11 +26371,12 @@
           "📸 Mart",
           "Archeon"
         ],
-        "palette": "bw",
+        "palette": "grafixkidgray",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "",
+        "lockFrame": true
       },
       {
         "hash": "e056bd02f4d4529c9b7e4dcced81d5c1d87da200",
@@ -26364,11 +26389,12 @@
           "📸 Mart",
           "Archeon"
         ],
-        "palette": "bw",
+        "palette": "grafixkidgray",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "",
+        "lockFrame": true
       },
       {
         "hash": "601881a5cddd8748c472fb69226f276ac03155d7",
@@ -26376,16 +26402,18 @@
         "title": "gbcImage_2025-06-23_00-57-20.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
           "Archeon"
         ],
-        "palette": "bw",
+        "palette": "grafixkidgray",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "",
+        "lockFrame": true
       },
       {
         "hash": "5c7783976c96b21341725a88d2b47b53a3e83197",
@@ -26398,11 +26426,12 @@
           "📸 Mart",
           "Archeon"
         ],
-        "palette": "bw",
+        "palette": "grafixkidgray",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "",
+        "lockFrame": true
       },
       {
         "hash": "e6cb0b79aea52e4e80e5cb2987542809ebb47ddb",
@@ -26415,11 +26444,12 @@
           "📸 Mart",
           "Archeon"
         ],
-        "palette": "bw",
+        "palette": "gbclb",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "",
+        "lockFrame": true
       },
       {
         "hash": "c619091e84421e32695773d6f630d23bcf77bfa6",
@@ -26433,11 +26463,12 @@
           "Archeon",
           "Plant"
         ],
-        "palette": "bw",
+        "palette": "roga",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "",
+        "lockFrame": true
       },
       {
         "hash": "c021b37eff26ea6c6d7896c863181a037d6223e6",
@@ -26454,7 +26485,8 @@
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "",
+        "lockFrame": true
       }
     ],
     "palettes": [
@@ -26905,7 +26937,7 @@
         "loading": false
       }
     ],
-    "lastUpdateUTC": 1750633236,
+    "lastUpdateUTC": 1750634639,
     "version": 1
   }
 }
