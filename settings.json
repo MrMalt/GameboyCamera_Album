@@ -2130,37 +2130,6 @@
           "5404b9c02c9e20c7e7cf15d8e46aef2c40d702ef"
         ],
         "groups": []
-      },
-      {
-        "id": "cfddf4ae-6b5f-485c-ac60-2cf8fc05abe8",
-        "slug": "import_2025-06-23_00_59_01",
-        "title": "Import 2025-06-23 00:59:01",
-        "created": "2025-06-23 00:59:01:283",
-        "coverImage": "a99ad50e886d077e27c9560cd834c9082ce38c73",
-        "images": [
-          "a99ad50e886d077e27c9560cd834c9082ce38c73",
-          "125071e5fd86ae2e349b4b37827a45ddeefaa22f",
-          "df01c6f0c04981f02107e352b014cdc0abb9d8ff",
-          "4ad7814175ae4dca06031f8f83974c47d549235a",
-          "6d8ac36bbeb077968240e7de0c375f43be7d718c",
-          "00545c4deecad6b3c5ab760832e27bd2a6984c92",
-          "4a792a480985405ebc35bb2addacb8adc723c116",
-          "5056cd4bec48319d3d8dee97c9cc1aefa5b9c4a9",
-          "f4e25956725203a8232f91b53f32d611c5c9a490",
-          "445378f1bacedbab326b40b5b5708e9b153f4f0e",
-          "ecaa8fbc706cff8e8d51f64ff567e5f82bce5c5a",
-          "4884ced2a39804a0167e51ff643079f1e38482dd",
-          "d0bbd3e46034637e7f51dc231f6f890560d2ff28",
-          "da743c66ed579cd2c2fee2cd682a56ac755b5a19",
-          "e4163c140875bde6bdcc2e95c2cc117969714ae4",
-          "e056bd02f4d4529c9b7e4dcced81d5c1d87da200",
-          "601881a5cddd8748c472fb69226f276ac03155d7",
-          "5c7783976c96b21341725a88d2b47b53a3e83197",
-          "e6cb0b79aea52e4e80e5cb2987542809ebb47ddb",
-          "c619091e84421e32695773d6f630d23bcf77bfa6",
-          "c021b37eff26ea6c6d7896c863181a037d6223e6"
-        ],
-        "groups": []
       }
     ],
     "images": [
@@ -26444,7 +26413,7 @@
           "📸 Mart",
           "Archeon"
         ],
-        "palette": "gbclb",
+        "palette": "lohp",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -26481,7 +26450,7 @@
           "📸 Guus",
           "Archeon"
         ],
-        "palette": "bw",
+        "palette": "cmyk",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
