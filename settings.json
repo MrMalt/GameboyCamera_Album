@@ -534,7 +534,10 @@
           "32e2c32491eafa773639d856760c58bff2f1e9d3",
           "173c0f097e3aff12541215303b2456d3d7c601a7",
           "7b72d9c8d10d944362b7600e66254359ef307ec5",
-          "7db60bf3c709f5d5323f60d507d9f9e6ec783867"
+          "7db60bf3c709f5d5323f60d507d9f9e6ec783867",
+          "8e528c40a97338a769bd21bc8f6d0cd6810b6462",
+          "0b8fd78b74627b9566a5388e0dd3619e672fe5e9",
+          "3056f3cf0204e451305da051b1d396e170beacdc"
         ],
         "groups": [
           "01dd0965-6e0c-4237-ad58-316b99581e76"
@@ -1478,7 +1481,6 @@
         "created": "2025-05-27 23:57:40:615",
         "coverImage": "f6a851e07c3c72558c2a16a8b558515d0ad1db15",
         "images": [
-          "8e528c40a97338a769bd21bc8f6d0cd6810b6462",
           "80ddfe9bf08723c7ced031be9ae343f12b2279eb",
           "f6a851e07c3c72558c2a16a8b558515d0ad1db15",
           "7e59cf9cd5ba86764e0492185ed45adc92f1ae2a",
@@ -1516,7 +1518,6 @@
         "created": "2025-05-28 00:05:06:738",
         "coverImage": "ceb4bc90e5e2fda94769041e0ca5af1e0f36d5f5",
         "images": [
-          "0b8fd78b74627b9566a5388e0dd3619e672fe5e9",
           "ceb4bc90e5e2fda94769041e0ca5af1e0f36d5f5",
           "fb52905da3bc6eb1202777cc4f1dab7ac22b88f8",
           "3f71f2fb46182e7917e466fed43e2723e0094309",
@@ -1647,8 +1648,7 @@
           "19b646b7493f6b76229fb692f6c461e8b5b73281",
           "4a1ed1bb6a38a29771e2fba3773f4dc6642db352",
           "db7801d9b3a4f350a1b5463f953b69928a46d754",
-          "fc53ae228a12b4dc180a9e35d1d94b626bac319b",
-          "3056f3cf0204e451305da051b1d396e170beacdc"
+          "fc53ae228a12b4dc180a9e35d1d94b626bac319b"
         ],
         "groups": []
       },
@@ -17645,7 +17645,12 @@
         "hash": "0b8fd78b74627b9566a5388e0dd3619e672fe5e9",
         "created": "2025-05-28 00:44:01:959",
         "title": "",
-        "tags": []
+        "tags": [
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ]
       },
       {
         "palette": {
@@ -17683,7 +17688,12 @@
         "hash": "8e528c40a97338a769bd21bc8f6d0cd6810b6462",
         "created": "2025-05-28 00:49:34:665",
         "title": "",
-        "tags": []
+        "tags": [
+          "🎨 Trichrome",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ]
       },
       {
         "hash": "808fd831e93088a1d71ee8e91d6106fe8db1121a",
@@ -19668,7 +19678,6 @@
         "created": "2025-05-29 21:08:32:650",
         "title": "",
         "tags": [
-          "⏲️ HDR",
           "🎨 Trichrome",
           "💿 PHOTO!",
           "📷 Gameboy Camera",
@@ -26474,18 +26483,6 @@
         "isPredefined": false
       },
       {
-        "shortName": "cstm4p",
-        "name": "4PROCES",
-        "palette": [
-          "#049cc4",
-          "#ff6600",
-          "#7c047c",
-          "#000059"
-        ],
-        "origin": "Made with the webapp",
-        "isPredefined": false
-      },
-      {
         "shortName": "cstmgrey",
         "name": "Brunhilde",
         "palette": [
@@ -26762,32 +26759,8 @@
         "isPredefined": false
       },
       {
-        "shortName": "cstmbrown",
-        "name": "Pien Brown",
-        "palette": [
-          "#f8f4f9",
-          "#ffd6af",
-          "#c49e85",
-          "#6b4b3e"
-        ],
-        "origin": "Made with the webapp",
-        "isPredefined": false
-      },
-      {
-        "shortName": "cstmgreen3",
-        "name": "Earthy Green",
-        "palette": [
-          "#e8e4db",
-          "#c9c1ae",
-          "#9ba17f",
-          "#687351"
-        ],
-        "origin": "Made with the webapp",
-        "isPredefined": false
-      },
-      {
         "shortName": "cstmpurple2",
-        "name": "Washed Purple",
+        "name": "Malt - Washed Pruple",
         "palette": [
           "#dabfff",
           "#907ad6",
@@ -26875,9 +26848,11 @@
         },
         "config": {
           "fileExtension": "png",
-          "mimeType": "png"
+          "mimeType": "png",
+          "scaleFactor": 0
         },
-        "loading": false
+        "loading": false,
+        "error": false
       },
       {
         "url": "https://herrzatacke.github.io/gb-printer-web-plugins/stitch.js",
@@ -26896,7 +26871,7 @@
         "loading": false
       }
     ],
-    "lastUpdateUTC": 1750634639,
+    "lastUpdateUTC": 1750924878,
     "version": 1
   }
 }
