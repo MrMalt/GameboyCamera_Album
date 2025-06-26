@@ -26459,24 +26459,60 @@
     ],
     "palettes": [
       {
+        "shortName": "gold12",
+        "name": "Gold12",
+        "palette": [
+          "#f8d3a8",
+          "#ce9e1e",
+          "#a45c18",
+          "#772911"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "pp12",
+        "name": "Purple12",
+        "palette": [
+          "#f8d3e6",
+          "#ce9e95",
+          "#a45c8d",
+          "#772981"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "red12",
+        "name": "Red12",
+        "palette": [
+          "#f8d3cf",
+          "#ce9e57",
+          "#a45c4e",
+          "#772941"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "blue12",
+        "name": "Blue12",
+        "palette": [
+          "#cff2ea",
+          "#579fc9",
+          "#4e6599",
+          "#443866"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
         "shortName": "gddhdxude",
         "name": "Grafixkid Gray (Black)",
         "palette": [
           "#e0dbcd",
           "#a89f94",
           "#706b66",
-          "#000000"
-        ],
-        "origin": "Made with the webapp",
-        "isPredefined": false
-      },
-      {
-        "shortName": "greenwhite",
-        "name": "Green White",
-        "palette": [
-          "#ffffff",
-          "#9eab00",
-          "#296300",
           "#000000"
         ],
         "origin": "Made with the webapp",
@@ -26646,30 +26682,6 @@
           "#8BC2FB",
           "#104F59",
           "#2A3636"
-        ],
-        "origin": "Made with the webapp",
-        "isPredefined": false
-      },
-      {
-        "shortName": "pool242",
-        "name": "Hiroshi Nagai's Pool 24 2nd",
-        "palette": [
-          "#82CAF5",
-          "#244FA5",
-          "#283741",
-          "#25192A"
-        ],
-        "origin": "Made with the webapp",
-        "isPredefined": false
-      },
-      {
-        "shortName": "sunset1",
-        "name": "Hiroshi Nagai's Sunset 1st",
-        "palette": [
-          "#AB7DB4",
-          "#682761",
-          "#3F1079",
-          "#12020C"
         ],
         "origin": "Made with the webapp",
         "isPredefined": false
