@@ -2252,6 +2252,22 @@
           "be9e93910dc282d044ec3e9cc8ead34ab3ac2f64"
         ],
         "groups": []
+      },
+      {
+        "id": "ec896cc7-8ab8-49ab-aa6c-6ab63347c3ee",
+        "slug": "import_21_07_2025_24_04",
+        "title": "Import 21/07/2025, 24:04",
+        "created": "2025-07-21 00:04:18:730",
+        "coverImage": "dd1a0e7c79e14b4261fdf59e659886faed4e3a10",
+        "images": [
+          "dd1a0e7c79e14b4261fdf59e659886faed4e3a10",
+          "08742faef8ab1e7bdb025fa84fe7245197a649cb",
+          "72734ccbb1814ea58e7527a0f26b9a0f94eea2b7",
+          "abba2f58e42740b780eb55fb0b50dde55a3db86a",
+          "140e393fddf04a2d63b1615dd1372ab57304a94c",
+          "bfccc913e6f12d974f18de5275f8ee365c3ddc93"
+        ],
+        "groups": []
       }
     ],
     "images": [
@@ -28659,6 +28675,114 @@
           "Zwarte Cross"
         ],
         "palette": "glmo",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "dd1a0e7c79e14b4261fdf59e659886faed4e3a10",
+        "created": "2025-07-20 23:30:20:000",
+        "title": "gbcImage_2025-07-20_23-30-20.png",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Zwarte Cross"
+        ],
+        "palette": "ffs",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "08742faef8ab1e7bdb025fa84fe7245197a649cb",
+        "created": "2025-07-20 23:30:21:001",
+        "title": "gbcImage_2025-07-20_23-30-21.png",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Zwarte Cross"
+        ],
+        "palette": "red12",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "72734ccbb1814ea58e7527a0f26b9a0f94eea2b7",
+        "created": "2025-07-20 23:30:22:002",
+        "title": "gbcImage_2025-07-20_23-30-22.png",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Zwarte Cross"
+        ],
+        "palette": "roga",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "abba2f58e42740b780eb55fb0b50dde55a3db86a",
+        "created": "2025-07-20 23:30:24:003",
+        "title": "gbcImage_2025-07-20_23-30-24.png",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Zwarte Cross"
+        ],
+        "palette": "fsp",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "140e393fddf04a2d63b1615dd1372ab57304a94c",
+        "created": "2025-07-20 23:30:25:004",
+        "title": "gbcImage_2025-07-20_23-30-25.png",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Zwarte Cross"
+        ],
+        "palette": "lohp",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "bfccc913e6f12d974f18de5275f8ee365c3ddc93",
+        "created": "2025-07-20 23:30:26:005",
+        "title": "gbcImage_2025-07-20_23-30-26.png",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Zwarte Cross"
+        ],
+        "palette": "gbcd",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
