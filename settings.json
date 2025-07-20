@@ -2186,32 +2186,70 @@
         "groups": []
       },
       {
-        "id": "646f1518-3611-4d24-a9cd-dff7b72101e6",
-        "slug": "import_2025-07-12_23_48_22",
-        "title": "Import 2025-07-12 23:48:22",
-        "created": "2025-07-12 23:48:22:764",
-        "coverImage": "7a1e55d549389502cb5848e9997a2020a1474c2e",
+        "id": "39402141-2e3f-4302-9633-5aa5daa1a2e7",
+        "slug": "import_20_07_2025_23_31",
+        "title": "Import 20/07/2025, 23:31",
+        "created": "2025-07-20 23:31:56:952",
+        "coverImage": "cee846aa58623f2cdeb9936ea3e192466e5d75a2",
         "images": [
-          "7a1e55d549389502cb5848e9997a2020a1474c2e",
-          "06c75049ef59481f0ba6564d9f62a04a905f2500",
-          "ada2eab55c328a0b81a6896ee662b0f5277e83a1",
-          "1725be85cce90c863360348b39cdb84c3df58e48",
-          "a617b4de40f325b0a5241f2b51b4bc9190c633f0",
-          "d0d84b0d6ddfbac4ac56b659d812c03e99d8d3b0",
-          "c66fd46ba7c52d49b6649805fe0d437b81aed0b1",
-          "2eae3bafdf88aa17b1cb3557170764779391b1d3",
-          "71c8f9bf60e323cab2f58f9e3e8040d9369f02cc",
-          "fc2c590039aea4cd99d9290ba5459f89410b074c",
-          "fed4ab875fc3ebaa873514bda04552f9672e6db6",
-          "dd4bd623fb35501345d5569774a074173ff2961e",
-          "e5052abe1e9860ede181230d1a805e9be7ad080c",
-          "6a1dc741c5db9e7286d991952d04e624d9af6c61",
-          "c5bef342994d02647b6dae611d540be4a3d06dd8",
-          "a41dc0d6cb2ceae9b5bced69c12fb2e551ea962c",
-          "ee66f297bb95ea03b52c88a414b923dc9d01caaf",
-          "fbc6249032036b129130f0a385f0daedf56cfd11",
-          "ca5311e86c2f05dddde09dd51048ee3718743d8c",
-          "df2ebcd1398704826d4af0e4220f9b2f2d222902"
+          "cee846aa58623f2cdeb9936ea3e192466e5d75a2",
+          "fc131870181ca1918cdf0e11dda04697061d323d",
+          "9a52617876ea4cef070972198e582c820c07f505",
+          "e2af6bf11c4bfdca0d2a0dc822b5ce3b0b831d59",
+          "360651b205c5bc47b70063a2edc3280c91ae6714",
+          "51089149c9e78f46b45b3e3904a9418f7f694d0d",
+          "30b3f36f3845340912364a944567c622e210298b",
+          "2c2571d3574419e6fa98a76f41915c35705d033a",
+          "7570c8bec8d6fbb51a31c67d16c0a694968d581d",
+          "caa8763c20bd6beb1f9dfb63ea1804c80b428e8d",
+          "8b88b0ffed129de594b89e0e27ec5e0dd3e85a49",
+          "b5ab6f0d805b6eb62b651d944613e47ee6bca4ff",
+          "10a5ca7175969c72db49bf49ce27a49a65996e8c",
+          "e67d627cec6134bdf27a1253180a56954eee437b",
+          "8f3f2dd05f368090e9ca2c9d338292b7323ed0b6",
+          "627888bd5261584c90cf01bf8f7f78ecea8fa06b",
+          "1318c936c4d038bc1e7229020190a912683cc074",
+          "03b8e863a451a764e90226a4249cd29547931e1a",
+          "8b8c746fed55e2812876afe17cc84c1f8575a508",
+          "d350abc620e4ab2b42354357e3d4b1922a92a48a",
+          "1c9d65b92ccbd8296c54793a20ab555cfb9c8165",
+          "a74bf9d7648729d3253da0d0adc41db30cc067cf",
+          "463076523e7193a9e3ad6299c3926e72993cd22a",
+          "26e27cf7093df2ef702fc8df0802f118ae0d0171",
+          "4b60e7b07788ae12496e5d5f55d6f841f6091254",
+          "44eb90b00adde6e94f3bcde825d8927136c46c42",
+          "c59eadc186a93ce71b058ed866f832299ed6f212",
+          "52f259ade0db58e1ace5a7d88ec93243b7f25160",
+          "ec8bcfefa63d6e2a80a991c3fb1f1badcb22e0e1",
+          "1d678537e6143fa2363418fa82813572369e13c0",
+          "19583239dbf1ca503e4a692ef4ecf9520e115a7d",
+          "5bd863ef57d70dc7fa6ee7a8ad2d2bb7a501a047",
+          "965037702ccb41f5cfee99517ce322ef377fad77",
+          "22574ad5a388881bd195b5ab52d6f0f03c9f828a",
+          "889b0e5f2966c0870a3bab0bf46434842eb22d45",
+          "69ac77905e403a2a646e50979f77983dd137ab90",
+          "2a5997da7ee93d291c99d0f5154d5433c2d47d22",
+          "c1a4839de57e48157c01ac90ca1cb42da4664952",
+          "c1a4839de57e48157c01ac90ca1cb42da4664952",
+          "fa686732ede62edd9e8ddb6d7d7b13f42ac49956",
+          "73b3ea70c8d21eb0267fbe20dc4abe9da0fadfc8",
+          "29a73dd2acacdcd300a33ac465efed2453dc457b",
+          "4fa19136ea66e4c14e8b59db618818086b0066b3",
+          "cd193f4b0e8fc4a98a6deef32bdd2f91ed3f6e0a",
+          "74a42f6e5463701110d4d73d42c139611384d778",
+          "024bf253056470fa4756b043a02843cc0913f2cd",
+          "4a1d2cdb7f6416125ecc772e6ab4af40cfb217e8",
+          "54699342baa90fab80f1c1e382c0820669c22e05",
+          "f83d090cf31c66bdb5e132d4596b26f2305c2767",
+          "52add8330f0332856f631fd3164cb8c86fea1ed1",
+          "0fcb0891839b53866ca92b5d3c1e4569a11e9984",
+          "bee14582038db4e71981092ab5ce04f83469f7fd",
+          "ce3bb40baf08ea38599a86830585da5116258e5c",
+          "6849bf67b5b82a15299d9ee902e08f11ddf011cd",
+          "9dec70c426649d4309de55b1c42547aacccff3f0",
+          "20d6ffe293563d9e56ce006ec10fee5834fb4fd0",
+          "49b077ee9bd61922b466841f185eeec1cad9c00a",
+          "be9e93910dc282d044ec3e9cc8ead34ab3ac2f64"
         ],
         "groups": []
       }
@@ -27233,13 +27271,15 @@
         "tags": [
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Animal"
         ],
-        "palette": "bw",
+        "palette": "shmgy",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": "aframes01"
+        "frame": "aframes01",
+        "lockFrame": true
       },
       {
         "hash": "06c75049ef59481f0ba6564d9f62a04a905f2500",
@@ -27249,13 +27289,15 @@
         "tags": [
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Animal"
         ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": "aframes01"
+        "frame": "aframes01",
+        "lockFrame": true
       },
       {
         "hash": "ada2eab55c328a0b81a6896ee662b0f5277e83a1",
@@ -27265,13 +27307,15 @@
         "tags": [
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Animal"
         ],
-        "palette": "bw",
+        "palette": "roga",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": "aframes01"
+        "frame": "aframes01",
+        "lockFrame": true
       },
       {
         "hash": "1725be85cce90c863360348b39cdb84c3df58e48",
@@ -27281,13 +27325,15 @@
         "tags": [
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Animal"
         ],
-        "palette": "bw",
+        "palette": "d2kr",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": "aframes01"
+        "frame": "aframes01",
+        "lockFrame": true
       },
       {
         "hash": "a617b4de40f325b0a5241f2b51b4bc9190c633f0",
@@ -27297,13 +27343,15 @@
         "tags": [
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Plant"
         ],
-        "palette": "bw",
+        "palette": "cstmyellow",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": "aframes01"
+        "frame": "aframes01",
+        "lockFrame": true
       },
       {
         "hash": "d0d84b0d6ddfbac4ac56b659d812c03e99d8d3b0",
@@ -27313,13 +27361,15 @@
         "tags": [
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Animal"
         ],
-        "palette": "bw",
+        "palette": "pp12",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": "aframes01"
+        "frame": "aframes01",
+        "lockFrame": true
       },
       {
         "hash": "c66fd46ba7c52d49b6649805fe0d437b81aed0b1",
@@ -27329,13 +27379,15 @@
         "tags": [
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Animal"
         ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": "aframes01"
+        "frame": "aframes01",
+        "lockFrame": true
       },
       {
         "hash": "2eae3bafdf88aa17b1cb3557170764779391b1d3",
@@ -27345,13 +27397,15 @@
         "tags": [
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Animal"
         ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": "aframes01"
+        "frame": "aframes01",
+        "lockFrame": true
       },
       {
         "hash": "71c8f9bf60e323cab2f58f9e3e8040d9369f02cc",
@@ -27361,13 +27415,15 @@
         "tags": [
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Animal"
         ],
-        "palette": "bw",
+        "palette": "fsp",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": "aframes01"
+        "frame": "aframes01",
+        "lockFrame": true
       },
       {
         "hash": "fc2c590039aea4cd99d9290ba5459f89410b074c",
@@ -27377,13 +27433,15 @@
         "tags": [
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Animal"
         ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": "aframes01"
+        "frame": "aframes01",
+        "lockFrame": true
       },
       {
         "hash": "fed4ab875fc3ebaa873514bda04552f9672e6db6",
@@ -27393,13 +27451,15 @@
         "tags": [
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Animal"
         ],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": "aframes01"
+        "frame": "aframes01",
+        "lockFrame": true
       },
       {
         "hash": "dd4bd623fb35501345d5569774a074173ff2961e",
@@ -27409,13 +27469,15 @@
         "tags": [
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Plant"
         ],
-        "palette": "bw",
+        "palette": "gbcd",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": "aframes01"
+        "frame": "aframes01",
+        "lockFrame": true
       },
       {
         "hash": "e5052abe1e9860ede181230d1a805e9be7ad080c",
@@ -27425,13 +27487,15 @@
         "tags": [
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Plant"
         ],
-        "palette": "bw",
+        "palette": "shmgy",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": "aframes01"
+        "frame": "aframes01",
+        "lockFrame": true
       },
       {
         "hash": "6a1dc741c5db9e7286d991952d04e624d9af6c61",
@@ -27441,13 +27505,15 @@
         "tags": [
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Animal"
         ],
-        "palette": "bw",
+        "palette": "gbcd",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": "aframes01"
+        "frame": "aframes01",
+        "lockFrame": true
       },
       {
         "hash": "c5bef342994d02647b6dae611d540be4a3d06dd8",
@@ -27459,11 +27525,12 @@
           "📷 2BitToy Camera+",
           "📸 Mart"
         ],
-        "palette": "bw",
+        "palette": "cstmgrey",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": "aframes01"
+        "frame": "aframes01",
+        "lockFrame": true
       },
       {
         "hash": "a41dc0d6cb2ceae9b5bced69c12fb2e551ea962c",
@@ -27475,11 +27542,12 @@
           "📷 2BitToy Camera+",
           "📸 Mart"
         ],
-        "palette": "bw",
+        "palette": "roga",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": "aframes01"
+        "frame": "aframes01",
+        "lockFrame": true
       },
       {
         "hash": "ee66f297bb95ea03b52c88a414b923dc9d01caaf",
@@ -27491,11 +27559,12 @@
           "📷 2BitToy Camera+",
           "📸 Mart"
         ],
-        "palette": "bw",
+        "palette": "grafixkidgray",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": "aframes01"
+        "frame": "aframes01",
+        "lockFrame": true
       },
       {
         "hash": "fbc6249032036b129130f0a385f0daedf56cfd11",
@@ -27507,11 +27576,12 @@
           "📷 2BitToy Camera+",
           "📸 Mart"
         ],
-        "palette": "bw",
+        "palette": "grafixkidgray",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": "aframes01"
+        "frame": "aframes01",
+        "lockFrame": true
       },
       {
         "hash": "ca5311e86c2f05dddde09dd51048ee3718743d8c",
@@ -27523,11 +27593,12 @@
           "📷 2BitToy Camera+",
           "📸 Mart"
         ],
-        "palette": "bw",
+        "palette": "kditw",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": "aframes01"
+        "frame": "aframes01",
+        "lockFrame": true
       },
       {
         "hash": "df2ebcd1398704826d4af0e4220f9b2f2d222902",
@@ -27537,13 +27608,773 @@
         "tags": [
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Plant"
+        ],
+        "palette": "tpa",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "aframes01",
+        "lockFrame": true
+      },
+      {
+        "hash": "e866af17d7a10bf8c5b48dbc3b967607cc73b747",
+        "created": "2025-07-15 00:30:59:000",
+        "title": "gbcImage_2025-07-15_00-30-59.png",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
           "📸 Mart"
         ],
+        "palette": "kditw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "cee846aa58623f2cdeb9936ea3e192466e5d75a2",
+        "created": "2025-07-20 23:28:51:000",
+        "title": "gbcImage_2025-07-20_23-28-50.png",
+        "lines": 360,
+        "tags": [],
         "palette": "bw",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": "aframes01"
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "fc131870181ca1918cdf0e11dda04697061d323d",
+        "created": "2025-07-20 23:28:52:001",
+        "title": "gbcImage_2025-07-20_23-28-52.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "9a52617876ea4cef070972198e582c820c07f505",
+        "created": "2025-07-20 23:28:54:002",
+        "title": "gbcImage_2025-07-20_23-28-54.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "e2af6bf11c4bfdca0d2a0dc822b5ce3b0b831d59",
+        "created": "2025-07-20 23:28:55:003",
+        "title": "gbcImage_2025-07-20_23-28-55.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "360651b205c5bc47b70063a2edc3280c91ae6714",
+        "created": "2025-07-20 23:28:57:004",
+        "title": "gbcImage_2025-07-20_23-28-57.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "51089149c9e78f46b45b3e3904a9418f7f694d0d",
+        "created": "2025-07-20 23:28:59:005",
+        "title": "gbcImage_2025-07-20_23-28-59.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "30b3f36f3845340912364a944567c622e210298b",
+        "created": "2025-07-20 23:29:01:006",
+        "title": "gbcImage_2025-07-20_23-29-01.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "2c2571d3574419e6fa98a76f41915c35705d033a",
+        "created": "2025-07-20 23:29:02:007",
+        "title": "gbcImage_2025-07-20_23-29-02.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "7570c8bec8d6fbb51a31c67d16c0a694968d581d",
+        "created": "2025-07-20 23:29:04:008",
+        "title": "gbcImage_2025-07-20_23-29-04.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "caa8763c20bd6beb1f9dfb63ea1804c80b428e8d",
+        "created": "2025-07-20 23:29:06:009",
+        "title": "gbcImage_2025-07-20_23-29-06.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "8b88b0ffed129de594b89e0e27ec5e0dd3e85a49",
+        "created": "2025-07-20 23:29:08:010",
+        "title": "gbcImage_2025-07-20_23-29-08.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "b5ab6f0d805b6eb62b651d944613e47ee6bca4ff",
+        "created": "2025-07-20 23:29:10:011",
+        "title": "gbcImage_2025-07-20_23-29-10.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "10a5ca7175969c72db49bf49ce27a49a65996e8c",
+        "created": "2025-07-20 23:29:11:012",
+        "title": "gbcImage_2025-07-20_23-29-11.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "e67d627cec6134bdf27a1253180a56954eee437b",
+        "created": "2025-07-20 23:29:13:013",
+        "title": "gbcImage_2025-07-20_23-29-13.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "8f3f2dd05f368090e9ca2c9d338292b7323ed0b6",
+        "created": "2025-07-20 23:29:14:014",
+        "title": "gbcImage_2025-07-20_23-29-14.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "627888bd5261584c90cf01bf8f7f78ecea8fa06b",
+        "created": "2025-07-20 23:29:16:015",
+        "title": "gbcImage_2025-07-20_23-29-16.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "1318c936c4d038bc1e7229020190a912683cc074",
+        "created": "2025-07-20 23:29:17:016",
+        "title": "gbcImage_2025-07-20_23-29-17.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "03b8e863a451a764e90226a4249cd29547931e1a",
+        "created": "2025-07-20 23:29:19:017",
+        "title": "gbcImage_2025-07-20_23-29-19.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "8b8c746fed55e2812876afe17cc84c1f8575a508",
+        "created": "2025-07-20 23:29:20:018",
+        "title": "gbcImage_2025-07-20_23-29-20.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "d350abc620e4ab2b42354357e3d4b1922a92a48a",
+        "created": "2025-07-20 23:29:22:019",
+        "title": "gbcImage_2025-07-20_23-29-21.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "1c9d65b92ccbd8296c54793a20ab555cfb9c8165",
+        "created": "2025-07-20 23:29:24:020",
+        "title": "gbcImage_2025-07-20_23-29-24.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "a74bf9d7648729d3253da0d0adc41db30cc067cf",
+        "created": "2025-07-20 23:29:26:021",
+        "title": "gbcImage_2025-07-20_23-29-26.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "463076523e7193a9e3ad6299c3926e72993cd22a",
+        "created": "2025-07-20 23:29:27:022",
+        "title": "gbcImage_2025-07-20_23-29-27.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "26e27cf7093df2ef702fc8df0802f118ae0d0171",
+        "created": "2025-07-20 23:29:29:023",
+        "title": "gbcImage_2025-07-20_23-29-29.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "4b60e7b07788ae12496e5d5f55d6f841f6091254",
+        "created": "2025-07-20 23:29:31:024",
+        "title": "gbcImage_2025-07-20_23-29-31.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "44eb90b00adde6e94f3bcde825d8927136c46c42",
+        "created": "2025-07-20 23:29:33:025",
+        "title": "gbcImage_2025-07-20_23-29-33.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "shmgy",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "c59eadc186a93ce71b058ed866f832299ed6f212",
+        "created": "2025-07-20 23:29:35:026",
+        "title": "gbcImage_2025-07-20_23-29-35.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "52f259ade0db58e1ace5a7d88ec93243b7f25160",
+        "created": "2025-07-20 23:29:36:027",
+        "title": "gbcImage_2025-07-20_23-29-36.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "ec8bcfefa63d6e2a80a991c3fb1f1badcb22e0e1",
+        "created": "2025-07-20 23:29:37:028",
+        "title": "gbcImage_2025-07-20_23-29-37.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "1d678537e6143fa2363418fa82813572369e13c0",
+        "created": "2025-07-20 23:29:39:029",
+        "title": "gbcImage_2025-07-20_23-29-39.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "19583239dbf1ca503e4a692ef4ecf9520e115a7d",
+        "created": "2025-07-20 23:29:40:030",
+        "title": "gbcImage_2025-07-20_23-29-40.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "kditw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "5bd863ef57d70dc7fa6ee7a8ad2d2bb7a501a047",
+        "created": "2025-07-20 23:29:41:031",
+        "title": "gbcImage_2025-07-20_23-29-41.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "965037702ccb41f5cfee99517ce322ef377fad77",
+        "created": "2025-07-20 23:29:43:032",
+        "title": "gbcImage_2025-07-20_23-29-43.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "22574ad5a388881bd195b5ab52d6f0f03c9f828a",
+        "created": "2025-07-20 23:29:44:033",
+        "title": "gbcImage_2025-07-20_23-29-44.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "cstmgrey",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "aframes02",
+        "lockFrame": true
+      },
+      {
+        "hash": "889b0e5f2966c0870a3bab0bf46434842eb22d45",
+        "created": "2025-07-20 23:29:46:034",
+        "title": "gbcImage_2025-07-20_23-29-46.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "69ac77905e403a2a646e50979f77983dd137ab90",
+        "created": "2025-07-20 23:29:47:035",
+        "title": "gbcImage_2025-07-20_23-29-47.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "2a5997da7ee93d291c99d0f5154d5433c2d47d22",
+        "created": "2025-07-20 23:29:49:036",
+        "title": "gbcImage_2025-07-20_23-29-49.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "c1a4839de57e48157c01ac90ca1cb42da4664952",
+        "created": "2025-07-20 23:29:50:037",
+        "title": "gbcImage_2025-07-20_23-29-50.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "fa686732ede62edd9e8ddb6d7d7b13f42ac49956",
+        "created": "2025-07-20 23:29:55:039",
+        "title": "gbcImage_2025-07-20_23-29-55.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "73b3ea70c8d21eb0267fbe20dc4abe9da0fadfc8",
+        "created": "2025-07-20 23:29:57:040",
+        "title": "gbcImage_2025-07-20_23-29-57.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "29a73dd2acacdcd300a33ac465efed2453dc457b",
+        "created": "2025-07-20 23:29:58:041",
+        "title": "gbcImage_2025-07-20_23-29-58.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "4fa19136ea66e4c14e8b59db618818086b0066b3",
+        "created": "2025-07-20 23:29:59:042",
+        "title": "gbcImage_2025-07-20_23-29-59.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "cd193f4b0e8fc4a98a6deef32bdd2f91ed3f6e0a",
+        "created": "2025-07-20 23:30:01:043",
+        "title": "gbcImage_2025-07-20_23-30-01.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "74a42f6e5463701110d4d73d42c139611384d778",
+        "created": "2025-07-20 23:30:02:044",
+        "title": "gbcImage_2025-07-20_23-30-02.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "024bf253056470fa4756b043a02843cc0913f2cd",
+        "created": "2025-07-20 23:30:03:045",
+        "title": "gbcImage_2025-07-20_23-30-03.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "4a1d2cdb7f6416125ecc772e6ab4af40cfb217e8",
+        "created": "2025-07-20 23:30:05:046",
+        "title": "gbcImage_2025-07-20_23-30-05.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "54699342baa90fab80f1c1e382c0820669c22e05",
+        "created": "2025-07-20 23:30:06:047",
+        "title": "gbcImage_2025-07-20_23-30-06.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "f83d090cf31c66bdb5e132d4596b26f2305c2767",
+        "created": "2025-07-20 23:30:07:048",
+        "title": "gbcImage_2025-07-20_23-30-07.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "52add8330f0332856f631fd3164cb8c86fea1ed1",
+        "created": "2025-07-20 23:30:09:049",
+        "title": "gbcImage_2025-07-20_23-30-09.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "ffs",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "0fcb0891839b53866ca92b5d3c1e4569a11e9984",
+        "created": "2025-07-20 23:30:10:050",
+        "title": "gbcImage_2025-07-20_23-30-10.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "bee14582038db4e71981092ab5ce04f83469f7fd",
+        "created": "2025-07-20 23:30:11:051",
+        "title": "gbcImage_2025-07-20_23-30-11.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bbp",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "ce3bb40baf08ea38599a86830585da5116258e5c",
+        "created": "2025-07-20 23:30:13:052",
+        "title": "gbcImage_2025-07-20_23-30-13.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "6849bf67b5b82a15299d9ee902e08f11ddf011cd",
+        "created": "2025-07-20 23:30:14:053",
+        "title": "gbcImage_2025-07-20_23-30-14.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "scp",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "9dec70c426649d4309de55b1c42547aacccff3f0",
+        "created": "2025-07-20 23:30:15:054",
+        "title": "gbcImage_2025-07-20_23-30-15.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "20d6ffe293563d9e56ce006ec10fee5834fb4fd0",
+        "created": "2025-07-20 23:30:16:055",
+        "title": "gbcImage_2025-07-20_23-30-16.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "49b077ee9bd61922b466841f185eeec1cad9c00a",
+        "created": "2025-07-20 23:30:18:056",
+        "title": "gbcImage_2025-07-20_23-30-18.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "be9e93910dc282d044ec3e9cc8ead34ab3ac2f64",
+        "created": "2025-07-20 23:30:19:057",
+        "title": "gbcImage_2025-07-20_23-30-19.png",
+        "lines": 360,
+        "tags": [],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
       }
     ],
     "palettes": [
@@ -27949,8 +28780,7 @@
         },
         "config": {
           "fileExtension": "png",
-          "mimeType": "png",
-          "scaleFactor": 0
+          "mimeType": "png"
         },
         "loading": false
       },
@@ -27971,7 +28801,7 @@
         "loading": false
       }
     ],
-    "lastUpdateUTC": 1752356902,
+    "lastUpdateUTC": 1753047498,
     "version": 1
   }
 }
