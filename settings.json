@@ -2184,90 +2184,6 @@
           "8ce24ec2115c783d84ad172bf0488a5cde079456"
         ],
         "groups": []
-      },
-      {
-        "id": "39402141-2e3f-4302-9633-5aa5daa1a2e7",
-        "slug": "import_20_07_2025_23_31",
-        "title": "Import 20/07/2025, 23:31",
-        "created": "2025-07-20 23:31:56:952",
-        "coverImage": "cee846aa58623f2cdeb9936ea3e192466e5d75a2",
-        "images": [
-          "cee846aa58623f2cdeb9936ea3e192466e5d75a2",
-          "fc131870181ca1918cdf0e11dda04697061d323d",
-          "9a52617876ea4cef070972198e582c820c07f505",
-          "e2af6bf11c4bfdca0d2a0dc822b5ce3b0b831d59",
-          "360651b205c5bc47b70063a2edc3280c91ae6714",
-          "51089149c9e78f46b45b3e3904a9418f7f694d0d",
-          "30b3f36f3845340912364a944567c622e210298b",
-          "2c2571d3574419e6fa98a76f41915c35705d033a",
-          "7570c8bec8d6fbb51a31c67d16c0a694968d581d",
-          "caa8763c20bd6beb1f9dfb63ea1804c80b428e8d",
-          "8b88b0ffed129de594b89e0e27ec5e0dd3e85a49",
-          "b5ab6f0d805b6eb62b651d944613e47ee6bca4ff",
-          "10a5ca7175969c72db49bf49ce27a49a65996e8c",
-          "e67d627cec6134bdf27a1253180a56954eee437b",
-          "8f3f2dd05f368090e9ca2c9d338292b7323ed0b6",
-          "627888bd5261584c90cf01bf8f7f78ecea8fa06b",
-          "1318c936c4d038bc1e7229020190a912683cc074",
-          "03b8e863a451a764e90226a4249cd29547931e1a",
-          "8b8c746fed55e2812876afe17cc84c1f8575a508",
-          "d350abc620e4ab2b42354357e3d4b1922a92a48a",
-          "1c9d65b92ccbd8296c54793a20ab555cfb9c8165",
-          "a74bf9d7648729d3253da0d0adc41db30cc067cf",
-          "463076523e7193a9e3ad6299c3926e72993cd22a",
-          "26e27cf7093df2ef702fc8df0802f118ae0d0171",
-          "4b60e7b07788ae12496e5d5f55d6f841f6091254",
-          "44eb90b00adde6e94f3bcde825d8927136c46c42",
-          "c59eadc186a93ce71b058ed866f832299ed6f212",
-          "52f259ade0db58e1ace5a7d88ec93243b7f25160",
-          "ec8bcfefa63d6e2a80a991c3fb1f1badcb22e0e1",
-          "1d678537e6143fa2363418fa82813572369e13c0",
-          "19583239dbf1ca503e4a692ef4ecf9520e115a7d",
-          "5bd863ef57d70dc7fa6ee7a8ad2d2bb7a501a047",
-          "965037702ccb41f5cfee99517ce322ef377fad77",
-          "22574ad5a388881bd195b5ab52d6f0f03c9f828a",
-          "889b0e5f2966c0870a3bab0bf46434842eb22d45",
-          "69ac77905e403a2a646e50979f77983dd137ab90",
-          "2a5997da7ee93d291c99d0f5154d5433c2d47d22",
-          "c1a4839de57e48157c01ac90ca1cb42da4664952",
-          "c1a4839de57e48157c01ac90ca1cb42da4664952",
-          "fa686732ede62edd9e8ddb6d7d7b13f42ac49956",
-          "73b3ea70c8d21eb0267fbe20dc4abe9da0fadfc8",
-          "29a73dd2acacdcd300a33ac465efed2453dc457b",
-          "4fa19136ea66e4c14e8b59db618818086b0066b3",
-          "cd193f4b0e8fc4a98a6deef32bdd2f91ed3f6e0a",
-          "74a42f6e5463701110d4d73d42c139611384d778",
-          "024bf253056470fa4756b043a02843cc0913f2cd",
-          "4a1d2cdb7f6416125ecc772e6ab4af40cfb217e8",
-          "54699342baa90fab80f1c1e382c0820669c22e05",
-          "f83d090cf31c66bdb5e132d4596b26f2305c2767",
-          "52add8330f0332856f631fd3164cb8c86fea1ed1",
-          "0fcb0891839b53866ca92b5d3c1e4569a11e9984",
-          "bee14582038db4e71981092ab5ce04f83469f7fd",
-          "ce3bb40baf08ea38599a86830585da5116258e5c",
-          "6849bf67b5b82a15299d9ee902e08f11ddf011cd",
-          "9dec70c426649d4309de55b1c42547aacccff3f0",
-          "20d6ffe293563d9e56ce006ec10fee5834fb4fd0",
-          "49b077ee9bd61922b466841f185eeec1cad9c00a",
-          "be9e93910dc282d044ec3e9cc8ead34ab3ac2f64"
-        ],
-        "groups": []
-      },
-      {
-        "id": "ec896cc7-8ab8-49ab-aa6c-6ab63347c3ee",
-        "slug": "import_21_07_2025_24_04",
-        "title": "Import 21/07/2025, 24:04",
-        "created": "2025-07-21 00:04:18:730",
-        "coverImage": "dd1a0e7c79e14b4261fdf59e659886faed4e3a10",
-        "images": [
-          "dd1a0e7c79e14b4261fdf59e659886faed4e3a10",
-          "08742faef8ab1e7bdb025fa84fe7245197a649cb",
-          "72734ccbb1814ea58e7527a0f26b9a0f94eea2b7",
-          "abba2f58e42740b780eb55fb0b50dde55a3db86a",
-          "140e393fddf04a2d63b1615dd1372ab57304a94c",
-          "bfccc913e6f12d974f18de5275f8ee365c3ddc93"
-        ],
-        "groups": []
       }
     ],
     "images": [
@@ -26545,6 +26461,7 @@
         "title": "gbcImage_2025-06-23_00-57-23.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -26618,6 +26535,7 @@
         "title": "IMG_PC26.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -26691,6 +26609,7 @@
         "title": "IMG_PC30.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -27285,6 +27204,7 @@
         "title": "IMG_PC01.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -27321,6 +27241,7 @@
         "title": "IMG_PC03.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -27339,6 +27260,7 @@
         "title": "IMG_PC04.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -27375,6 +27297,7 @@
         "title": "IMG_PC06.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -27429,6 +27352,7 @@
         "title": "IMG_PC09.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -27483,6 +27407,7 @@
         "title": "IMG_PC12.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -27501,6 +27426,7 @@
         "title": "IMG_PC13.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -27571,6 +27497,7 @@
         "title": "IMG_PC17.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart"
@@ -27605,6 +27532,7 @@
         "title": "IMG_PC19.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart"
@@ -27622,6 +27550,7 @@
         "title": "IMG_PC20.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -27657,6 +27586,7 @@
         "title": "gbcImage_2025-07-20_23-28-50.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -27675,6 +27605,7 @@
         "title": "gbcImage_2025-07-20_23-28-52.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -27729,6 +27660,7 @@
         "title": "gbcImage_2025-07-20_23-28-57.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -27747,6 +27679,7 @@
         "title": "gbcImage_2025-07-20_23-28-59.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -27765,6 +27698,7 @@
         "title": "gbcImage_2025-07-20_23-29-01.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -27855,6 +27789,7 @@
         "title": "gbcImage_2025-07-20_23-29-10.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -27911,6 +27846,7 @@
         "title": "gbcImage_2025-07-20_23-29-14.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -27985,6 +27921,7 @@
         "title": "gbcImage_2025-07-20_23-29-20.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -28021,6 +27958,7 @@
         "title": "gbcImage_2025-07-20_23-29-24.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -28093,6 +28031,7 @@
         "title": "gbcImage_2025-07-20_23-29-31.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -28111,6 +28050,7 @@
         "title": "gbcImage_2025-07-20_23-29-33.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -28129,6 +28069,7 @@
         "title": "gbcImage_2025-07-20_23-29-35.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -28183,6 +28124,7 @@
         "title": "gbcImage_2025-07-20_23-29-39.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -28201,6 +28143,7 @@
         "title": "gbcImage_2025-07-20_23-29-40.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -28273,6 +28216,7 @@
         "title": "gbcImage_2025-07-20_23-29-46.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -28291,6 +28235,7 @@
         "title": "gbcImage_2025-07-20_23-29-47.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -28327,6 +28272,7 @@
         "title": "gbcImage_2025-07-20_23-29-50.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -28381,6 +28327,7 @@
         "title": "gbcImage_2025-07-20_23-29-58.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -28417,6 +28364,7 @@
         "title": "gbcImage_2025-07-20_23-30-01.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -28435,6 +28383,7 @@
         "title": "gbcImage_2025-07-20_23-30-02.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -28561,6 +28510,7 @@
         "title": "gbcImage_2025-07-20_23-30-11.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -28597,6 +28547,7 @@
         "title": "gbcImage_2025-07-20_23-30-14.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -28633,6 +28584,7 @@
         "title": "gbcImage_2025-07-20_23-30-16.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -28777,6 +28729,7 @@
         "title": "gbcImage_2025-07-20_23-30-26.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
@@ -29193,7 +29146,8 @@
         },
         "config": {
           "fileExtension": "png",
-          "mimeType": "png"
+          "mimeType": "png",
+          "scaleFactor": 0
         },
         "loading": false
       },
@@ -29214,7 +29168,7 @@
         "loading": false
       }
     ],
-    "lastUpdateUTC": 1753047498,
+    "lastUpdateUTC": 1752356902,
     "version": 1
   }
 }
