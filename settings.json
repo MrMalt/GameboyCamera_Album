@@ -986,7 +986,10 @@
         "coverImage": "d6ff0ca66fc529760fb88b234ffc962d0e611fa9",
         "images": [],
         "groups": [
-          "aef5bd4f-7def-4629-9c51-5daf0b2b6e61"
+          "aef5bd4f-7def-4629-9c51-5daf0b2b6e61",
+          "ff71ef06-643a-4ca7-9a9f-40fe81240d9b",
+          "55b7f82d-3cba-4524-8fa2-f13711281a72",
+          "2e5d3ef4-f8d4-4c16-908b-5a6f708842e8"
         ]
       },
       {
@@ -2327,6 +2330,234 @@
           "d0bac9b918bb54d31a22e36754cc3cc4606f1e0a",
           "8defa7210b32552d1d7b11e4e1d32e54e35446bb",
           "762c17ed38120aad1944b50027f606e541145286"
+        ],
+        "groups": []
+      },
+      {
+        "id": "55b7f82d-3cba-4524-8fa2-f13711281a72",
+        "slug": "import_07_23_2025_10_25",
+        "title": "Import 07/23/2025, 10:25",
+        "created": "2025-07-23 10:25:26:433",
+        "coverImage": "2396b674ab610213fe98b02d0c85775cbaf16eed",
+        "images": [
+          "2396b674ab610213fe98b02d0c85775cbaf16eed",
+          "ac40c66412b7b658e679400284b7fb8f257b1ab1",
+          "e7d95e02374bf155449c3f075d28235b06e480c3",
+          "a0880e95166d6a961ef0342bb1ec862db3155bf2",
+          "a134ded10056221f0c1b3632a80e2ec52def8505",
+          "5fda37733273c363650bb740fdfb86d9530a2ca9",
+          "73c303d82d6268832258225bc4a6e0a6be926ecf",
+          "56b353003e28f22ea7cefee55196865b2bf46908",
+          "e8cea8a7c8acb3f95ba2c63e560b96b652056ec2",
+          "dd15478f4fc084d6e523105ab22c0954e64d6163",
+          "1efa4774dfd4594d6d1911fdf1d83ffa2a3ba9ef",
+          "5509958359f807020c2fe366685bdc2d482306d1",
+          "7f6ca2ab7e3b120713cff490c55e836fe2a2ff42",
+          "076b8ac0352b9a2564dcd3e5986d378df6f5a126",
+          "bf2bac16f43e8b53c0ea420db01cae77a098e1f6",
+          "0bc74ddd4d7e9d39ada2b23f9f1f1784fa09fabd",
+          "b1625eb11a34eb90ecd870e0c5a85e20b79c892d",
+          "71beb70231a80f67ab05af18b9f4f952d414efb5",
+          "5a1d3bc5ce577891a5e51eb638638b89066046a8",
+          "8f58950e2cc229d1d95a3b7a6276fda23ba63869",
+          "16ca725db028b9e560611fce4c098ee868ffad39",
+          "a8af448e32e6a5fa032429db7dbe658b04fe8e5b",
+          "db7d163667af91ff51035f1f1fb68a6086d1e469",
+          "88aef1d873367143243a457ec98746ee15f6bea0",
+          "9e3f9372f06ddf8c07ca68aa0ebeb96499720d63",
+          "e97ff72fcdb7c1ff739692bd7833fff11841e95b",
+          "f1e55f7a5d012a14f119aaadab39725463fd126c",
+          "14b2fbd640e12d5506317349fbcbdeec35e8297a",
+          "f363865aa4098252c695c332e4554a4470e0e45d",
+          "32d16a567577a342bcdf70dd5215caa4a6367cb9",
+          "9657f77f372dae02e0ca746a3e5b3f1e7f8f9aff",
+          "3df4aaf52ed4e0b3636db24f5ca3b464cfdc100e",
+          "db180f618a4085daade7b4e054f2783d49ca8234",
+          "b2b4ebf14ccfc33200f86098ddd7a376b6cd38fb",
+          "1b5c03bb2673a0608dd41921ee4782dfd359fdf1",
+          "26259ce9f8fc2133ec2da739023d829f3c47263a",
+          "a1703f760ac77ba922164374c72aae300e181b8b",
+          "c63e6915161c30811a6aa4843ccd42fae6f6b92f",
+          "a754c7909ce55153d9ff67dc19334617f09cf92b",
+          "a3a480d4f26c797e08fc616784c26b28ca01796d",
+          "03b13e21556040394265434eddcd4f1569916569",
+          "5dee5f2fb7559aaad4b65478756be4d31cade377",
+          "a113ec2c62cfbca84b5290398bf343761781e4e7",
+          "fe31eab3d69b53ea6510d7518871ee740c2dc3cc",
+          "01a4fc037a962addd0f10111e5f7a3f7d49f927b",
+          "17c2c11bfa7615f0019352174a0f0a933aa7be80",
+          "361f9871065ec0142d84188b2197a19a441de479",
+          "978c01b302dd72e0920e97fce30963793cc5d2b7",
+          "5ebcd7c0727998e57d1898b61c112dd476c0e34f",
+          "f95a594d6d5a8da50f50f2e0849bbb96295017d7",
+          "2f622f64e007130d1705051506496c325fc451ee",
+          "8392008b8c786d1f18f2687c8ea324d873489f45",
+          "d481cef6d8be76d5c1b6cdd415df368650bc8fad",
+          "46b8b375bb01943ec3404bbcd700398345745773",
+          "3ec9b06968ce0c3064a5bcace3ebfb70b9407f62",
+          "688ce693921a291847c727289894a92ff4604f42",
+          "e5eaf2b3b25a000080c505d7df5b48cde743f67b",
+          "0cef65ea1f1a67d603ef0d5229290fb4db1fab33",
+          "09258101b0c14fa01c1dae039123a886199969d9",
+          "2a3368b91f3844bbf7d2fc05526bbf0bc948411d",
+          "34167ee0b1a4befeb627584294ef6340c3991aa0",
+          "1ae78bed217f80fcb67f30059adbd1d7da556409",
+          "8d4e4c7a397e2cbb4cc6f26a2a71c0e535fc49cc",
+          "3830e88e59c1cc7f5c9c71c48e7555cfa47d361e",
+          "1322b1117698c7cbb630db0eb5ea7f8eb3e37032",
+          "0bee612b31c4436aa75f5aa88d76287e21059f90",
+          "f3db16690134d518911cdd11cf01f78a7d7f6bd0",
+          "800087a4913bef9e554e0141bcae3fd2e379db79",
+          "123291c0cfc3e3738a15a44823db791a8c99827c",
+          "82b17ac589357248cd6ada8456f03bea0651469c",
+          "b34adf317d3eb83c63437edfe5990145715aa752",
+          "97b3a09a16a2a40217141cdfd078cf1120daf4c1",
+          "8f5d27897b2cc83fcfd5abd010b172fa33f18f8c",
+          "af7881e12862135895534098927565e697cf5f10",
+          "d401783f563198be91ccbe8af18450208fb9908f",
+          "7d9129a5a99b34cab7c736ac555ba10bdff5b0ad",
+          "41c249238079e411c0aee80ff5f94b48a81bf334",
+          "e061ee9415ef02dd22c596509e3d4ee785bb2e56",
+          "e7d92033cf433acf7055e043a5a59148cff7ecde",
+          "65724ace3557ac24e9540c873f96d9b8b9ec2731",
+          "0c8dbf6464e808cc8c7f9ae122d7ea44bf8aba0d",
+          "2d9bcda657574e9f1b3fecf76778dbfb1c0cff24",
+          "036dbad799659e305bafa2e58e5d066a7293e8fd",
+          "5dce865ed22015351ce1fee35d86aba8ba7459c5",
+          "7d591b98874692b2c482cd1ac5bfec6e6e3fb793",
+          "9f75e9222f7379840f148e0356f982ca3245f028",
+          "122633ef3d2b4f320cee366e7b4e3b15bf486c36",
+          "f66eb0e7d25054629be887ef83b5f5f515eaac3a",
+          "f0960d48c71849e4525b9a69aa372af2eb8b079a",
+          "b994ef1d80570105629813f0ffa36bf1370e0ca0",
+          "dde6f710f08f48942c20b285057f755453be45a2",
+          "2f78e57b55d37faf43a5ea636ed192c02a71a2d0",
+          "d8be7179e65a71ba2bfe4a0a82d89400a9de5bee",
+          "ce326c57f390ef6eb07441d01a735f2cabdee1f3"
+        ],
+        "groups": []
+      },
+      {
+        "id": "ff71ef06-643a-4ca7-9a9f-40fe81240d9b",
+        "slug": "import_07_23_2025_10_33",
+        "title": "Import 07/23/2025, 10:33",
+        "created": "2025-07-23 10:33:03:524",
+        "coverImage": "8edfefab84d6d50e027baac89265aec7f22415d0",
+        "images": [
+          "8edfefab84d6d50e027baac89265aec7f22415d0",
+          "5e3a00ab941ac9e839fe3c5f5f2c67a6e164615a",
+          "1708515d1d4e6a19a3e813498aaaa2b65e704e56",
+          "3b9c69b5e970d2d18caf01840dc7c394b59ac110",
+          "f219a59f7afa75aacb1a12e1d2d66ee6800e2ede",
+          "c856b7f800fe099742542463b041e3cc8658096e",
+          "809b1fc8b6c3fbb180ed6707534a62a1dbfced92",
+          "b39c3ee5771566afca400a59ea15bd03a49e1950",
+          "ee8b49d1f9a63d46230b0fd02e037a45b88bbf14",
+          "867e5dcb8d6e398e582ab2e757f1ba28f3d5984f",
+          "b76971eec621f45bf74f57e7f04b1fca84e56446",
+          "2d2013095421f36d487f4e37cdcf881caa04048a",
+          "2112d0207e6b9d64386359e25e24b237d51f1579",
+          "7850d3e1e2625256063eb65035e1f75fc842a9b9",
+          "0eba64b94d5ca2b5f1e054b4c7287a1273db6180",
+          "bbeff0e4eed92abbdebcbbcf143aad829454e652",
+          "24db83f15902418277dda12ef6e436b74edffc8e",
+          "a9dbd9b9d6b4dfbfb23261ca21ef43cada71cb14",
+          "3e2e5af6a29851a3873abde50c70730f5448cd5d",
+          "a927c277af1b2b24dd9ec401aba60d201abc2518",
+          "86d2678d506e93d67d6f18bfd2a9355429e55433",
+          "c92949f525eb35406f65f56a470dbb37ded5eb05",
+          "6a7473b71d4585e87cf7a1f9c2f45f2669d2b077",
+          "2320c0d9b7560f4c2b2f66d4c12a5e50f473f5ba",
+          "22d13355f64bacb7fdd8594c5aae3489dce98134",
+          "ca71231343f8704c9f239c70e61a37a06ed5201f",
+          "e8b9be5981d3e14850fc8931ba7ce6e80d438927",
+          "8f2010b956fee06f580dd44fc92bbfd1f13e9925",
+          "12be5405a2b98ac930d690dbcb9d702843fd94c8",
+          "c355d53bcc03f2d4d45e3a9443d70dab04613bfa",
+          "2510c065d8c8d75a1c5036da5e1acf91bda53f80",
+          "54ab5e52718c0a7e1ea37b56656d3b9c8531cf18",
+          "0d7cf11fa3caa39edc8f5f5cbd52e56cf03e8f4c",
+          "66d34e33adfc052e3e7f255681c0b02ee6a56067",
+          "0e1aaac95c36d38790954371bf929370b460dcf0",
+          "6b5402598951c51ae5a32ecc6a1473c87f5a4f8b",
+          "5fb26f6fb5372e96d3ad3d954b28b15a2733bb55",
+          "d5af4aea2cc2b6c2c57791b6dc20993a54a22594"
+        ],
+        "groups": []
+      },
+      {
+        "id": "2e5d3ef4-f8d4-4c16-908b-5a6f708842e8",
+        "slug": "import_07_23_2025_10_37",
+        "title": "Import 07/23/2025, 10:37",
+        "created": "2025-07-23 10:37:10:074",
+        "coverImage": "6cf113dfde4206134c6ce2fe0d695714416a3196",
+        "images": [
+          "6cf113dfde4206134c6ce2fe0d695714416a3196",
+          "27c1ff3c5e531e766727a2121375e22ec5c35919",
+          "df040540b539f283745e9ed55250b6acbe6590b9",
+          "48c58a76d9e7323e5deea4a3c48c62b76309c20c",
+          "8c06548814dd568caf5fb051ca6b1d2a0124b214",
+          "8233d8d58799830a937b67f7a6cd8bd487036b9c",
+          "9bd76d572c43870c26f18a9094f39cfb7e6b1746",
+          "346a2b8b5747951fdba67867f028c48549149832",
+          "734b0e8329ca650f9e7eab3fa6ac127195421914",
+          "9ee1fc0a06f329866eb0ec941d72b9b8ced81dfa",
+          "831daf5c40549ecb7955286ed843c4bd17338238",
+          "23d4104c2f846d8e1d30a9268d89bb63fa0525e4",
+          "708a69de97052e48efeae9faeb29e47fd2b97da3",
+          "fb57f86c1f7b4db8d2577af81f4937f8bbe02b44",
+          "b35709f28442e9e4dea87e0415868db3882a20e4",
+          "8cdc9b39e56ad15aaafb26d2de88b476fb108897",
+          "bb44c8329a86a74443a454f40845af4b54579c43",
+          "054dbd0b95d95d56db931f16eef4b95a2fd947a5",
+          "724019bd024f2739a493d57c43010f88e1297339",
+          "4a8a56e7b5cf985b196b27395fa2db4fcbba3a7b",
+          "b65906144e85b4dc18ad243bc6c97539097e7861",
+          "81fcf50d2f6f8a451ddb6f30b81cdf82ca49e1f0",
+          "5eded91293103b16b8f93cfdbeb6ba6d4f3cc0c3",
+          "7f4a24b70b77800c5a6b623b9354343e71dbb6d9",
+          "fbd6eb99ac35f0bbfd020723ca557be7ae6dfc60",
+          "fb0232fc9cfa10ba1651996f31aad9b30e08ebf9",
+          "5caa9c76a039300f586649e9224e2be7f6466f70",
+          "16592cac1e01a4689524775a630ae0bddbc484b5",
+          "ec01c0588c1b3c21d9be6ced9a1c2b72b4235964",
+          "a4a6c015e3127d9b55b943efdd1c8cbf2548bb99",
+          "96d0603bca4696f46f9682db84dda617a15eae96",
+          "531b89c04e0ec15266113175a1882cb27c20c316",
+          "18cde3f19d4516e310d9297fecd67c88c9661adc",
+          "d6b3067740ce426919de401c98b5829830e2e2b1",
+          "d1d13d1149e3c250892ff8593219b29b75a0c588",
+          "0beeaee362427caff364df44251d704756ad6e5c",
+          "ff3e28e183b4851c35b03b3c79f6bd47459773f0",
+          "e9b2d435141060a1f8d1aba24f2dd390ea46b144",
+          "2ffaedb1f33b74247c53323d617364a022ed41f9",
+          "6d8459089ec511f49bb5fd4f7543769fbc98c91b",
+          "2c573653a0bdba24263a90983f1bb314399d3e6c",
+          "4ed7e91102a6b2601ce32c75b7f244f71068cea0",
+          "4308d8bab86bc3d55653da7ddfa17135a6d59e99",
+          "796e8549aad92f6000068e0bdf2eee51392a1fb1",
+          "0ce18fab80387d417ababa19f3162d711c5708d1",
+          "79e2dc6a799a1ef2b6c3f4e6d415a8dfa1d3e3da",
+          "662e90cde06a418dad1619f384c8520a863d0ea3",
+          "d6d2f2e6fa4e0dfc31531713a133c1bf005e8ea2",
+          "927441df5d719ec50f999638303a4caf8e7e957a",
+          "a1ee5d206f74c19c485120a006042f9b556d65a7",
+          "bea8ef1d9c4478e43b1a0db3b5ff1bb46df71141",
+          "946711c00d0a242bcdb8c2d561398df0ec2b130d",
+          "848cacd88024ae695fd8de019c6ad087935c8009",
+          "19cd4c80ef401f26cf263cf6f2a926b967e434f5",
+          "6fa8a049c9fb44cd58612f2c7b5fe3c034d0a349",
+          "2273b168273f259b1ef160705e5f705ee6fa15de",
+          "d03e353ff29a18b095fe2e74b3f60c8891afce3e",
+          "5d00d766626ef0952c10672641329e7b76065fa7",
+          "15b6c0cf3ce8cef4fada708ee1b6d02cfa0050ea",
+          "5c1f9e97f8066139d5ef0d9de0fd35677357cb09",
+          "66095cacf7411ad79b4a3b78f35dc86126a8d5b9",
+          "819c666d06c43efee47bb9433e5058462f3cea03",
+          "99c7cc59765d0867b13c0f797de9ab1a4cf457bc",
+          "7bca1719b3776c947cfc37f0c8043b32c9650055",
+          "9fba9ad85eeb3ba3cefc09fc751d59796f8fef43",
+          "3789464cde3044550a8035f69713f96ea88716db"
         ],
         "groups": []
       }
@@ -29831,6 +30062,3608 @@
         "invertFramePalette": false,
         "invertPalette": false,
         "frame": ""
+      },
+      {
+        "hash": "2396b674ab610213fe98b02d0c85775cbaf16eed",
+        "created": "2025-07-21 01:02:25:124",
+        "title": "1.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "ac40c66412b7b658e679400284b7fb8f257b1ab1",
+        "created": "2025-07-21 01:02:25:714",
+        "title": "10.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "e7d95e02374bf155449c3f075d28235b06e480c3",
+        "created": "2025-07-21 01:02:25:787",
+        "title": "11.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "a0880e95166d6a961ef0342bb1ec862db3155bf2",
+        "created": "2025-07-21 01:02:25:846",
+        "title": "12.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "a134ded10056221f0c1b3632a80e2ec52def8505",
+        "created": "2025-07-21 01:02:25:912",
+        "title": "13.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "5fda37733273c363650bb740fdfb86d9530a2ca9",
+        "created": "2025-07-21 01:02:25:978",
+        "title": "14.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "73c303d82d6268832258225bc4a6e0a6be926ecf",
+        "created": "2025-07-21 01:02:26:044",
+        "title": "15.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "56b353003e28f22ea7cefee55196865b2bf46908",
+        "created": "2025-07-21 01:02:26:115",
+        "title": "16.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "e8cea8a7c8acb3f95ba2c63e560b96b652056ec2",
+        "created": "2025-07-21 01:02:26:186",
+        "title": "17.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "dd15478f4fc084d6e523105ab22c0954e64d6163",
+        "created": "2025-07-21 01:02:26:245",
+        "title": "18.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "1efa4774dfd4594d6d1911fdf1d83ffa2a3ba9ef",
+        "created": "2025-07-21 01:02:26:307",
+        "title": "19.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "5509958359f807020c2fe366685bdc2d482306d1",
+        "created": "2025-07-21 01:02:25:193",
+        "title": "2.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "7f6ca2ab7e3b120713cff490c55e836fe2a2ff42",
+        "created": "2025-07-21 01:02:26:371",
+        "title": "20.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "076b8ac0352b9a2564dcd3e5986d378df6f5a126",
+        "created": "2025-07-21 01:02:26:441",
+        "title": "21.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "bf2bac16f43e8b53c0ea420db01cae77a098e1f6",
+        "created": "2025-07-21 01:02:26:504",
+        "title": "22.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "0bc74ddd4d7e9d39ada2b23f9f1f1784fa09fabd",
+        "created": "2025-07-21 01:02:26:572",
+        "title": "23.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "b1625eb11a34eb90ecd870e0c5a85e20b79c892d",
+        "created": "2025-07-21 01:02:26:636",
+        "title": "24.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "71beb70231a80f67ab05af18b9f4f952d414efb5",
+        "created": "2025-07-21 01:02:26:698",
+        "title": "25.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "5a1d3bc5ce577891a5e51eb638638b89066046a8",
+        "created": "2025-07-21 01:02:26:771",
+        "title": "26.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "8f58950e2cc229d1d95a3b7a6276fda23ba63869",
+        "created": "2025-07-21 01:02:26:843",
+        "title": "27.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "16ca725db028b9e560611fce4c098ee868ffad39",
+        "created": "2025-07-21 01:02:26:917",
+        "title": "28.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "a8af448e32e6a5fa032429db7dbe658b04fe8e5b",
+        "created": "2025-07-21 01:02:26:986",
+        "title": "29.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "db7d163667af91ff51035f1f1fb68a6086d1e469",
+        "created": "2025-07-21 01:02:25:268",
+        "title": "3.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "88aef1d873367143243a457ec98746ee15f6bea0",
+        "created": "2025-07-21 01:02:27:071",
+        "title": "30.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "9e3f9372f06ddf8c07ca68aa0ebeb96499720d63",
+        "created": "2025-07-21 01:02:27:131",
+        "title": "31.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "e97ff72fcdb7c1ff739692bd7833fff11841e95b",
+        "created": "2025-07-21 01:02:27:199",
+        "title": "32.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "f1e55f7a5d012a14f119aaadab39725463fd126c",
+        "created": "2025-07-21 01:02:27:268",
+        "title": "33.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "14b2fbd640e12d5506317349fbcbdeec35e8297a",
+        "created": "2025-07-21 01:02:27:343",
+        "title": "34.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "f363865aa4098252c695c332e4554a4470e0e45d",
+        "created": "2025-07-21 01:02:27:416",
+        "title": "35.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "32d16a567577a342bcdf70dd5215caa4a6367cb9",
+        "created": "2025-07-21 01:02:27:487",
+        "title": "36.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "9657f77f372dae02e0ca746a3e5b3f1e7f8f9aff",
+        "created": "2025-07-21 01:02:27:557",
+        "title": "37.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "3df4aaf52ed4e0b3636db24f5ca3b464cfdc100e",
+        "created": "2025-07-21 01:02:27:627",
+        "title": "38.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "db180f618a4085daade7b4e054f2783d49ca8234",
+        "created": "2025-07-21 01:02:27:687",
+        "title": "39.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "b2b4ebf14ccfc33200f86098ddd7a376b6cd38fb",
+        "created": "2025-07-21 01:02:25:350",
+        "title": "4.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "1b5c03bb2673a0608dd41921ee4782dfd359fdf1",
+        "created": "2025-07-21 01:02:27:772",
+        "title": "40.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "26259ce9f8fc2133ec2da739023d829f3c47263a",
+        "created": "2025-07-21 01:02:27:843",
+        "title": "41.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "a1703f760ac77ba922164374c72aae300e181b8b",
+        "created": "2025-07-21 01:02:27:927",
+        "title": "42.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "c63e6915161c30811a6aa4843ccd42fae6f6b92f",
+        "created": "2025-07-21 01:02:27:995",
+        "title": "43.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "a754c7909ce55153d9ff67dc19334617f09cf92b",
+        "created": "2025-07-21 01:02:28:077",
+        "title": "44.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "a3a480d4f26c797e08fc616784c26b28ca01796d",
+        "created": "2025-07-21 01:02:28:153",
+        "title": "45.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "03b13e21556040394265434eddcd4f1569916569",
+        "created": "2025-07-21 01:02:28:228",
+        "title": "46.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "5dee5f2fb7559aaad4b65478756be4d31cade377",
+        "created": "2025-07-21 01:02:28:299",
+        "title": "47.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "a113ec2c62cfbca84b5290398bf343761781e4e7",
+        "created": "2025-07-21 01:02:28:367",
+        "title": "48.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "fe31eab3d69b53ea6510d7518871ee740c2dc3cc",
+        "created": "2025-07-21 01:02:28:428",
+        "title": "49.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "01a4fc037a962addd0f10111e5f7a3f7d49f927b",
+        "created": "2025-07-21 01:02:25:422",
+        "title": "5.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "17c2c11bfa7615f0019352174a0f0a933aa7be80",
+        "created": "2025-07-21 01:02:28:512",
+        "title": "50.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "361f9871065ec0142d84188b2197a19a441de479",
+        "created": "2025-07-21 01:02:28:576",
+        "title": "51.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "978c01b302dd72e0920e97fce30963793cc5d2b7",
+        "created": "2025-07-21 01:02:28:640",
+        "title": "52.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "5ebcd7c0727998e57d1898b61c112dd476c0e34f",
+        "created": "2025-07-21 01:02:28:720",
+        "title": "53.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "f95a594d6d5a8da50f50f2e0849bbb96295017d7",
+        "created": "2025-07-21 01:02:28:796",
+        "title": "54.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "2f622f64e007130d1705051506496c325fc451ee",
+        "created": "2025-07-21 01:02:28:859",
+        "title": "55.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "8392008b8c786d1f18f2687c8ea324d873489f45",
+        "created": "2025-07-21 01:02:28:939",
+        "title": "56.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "d481cef6d8be76d5c1b6cdd415df368650bc8fad",
+        "created": "2025-07-21 01:02:29:003",
+        "title": "57.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "46b8b375bb01943ec3404bbcd700398345745773",
+        "created": "2025-07-21 01:02:29:082",
+        "title": "58.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "3ec9b06968ce0c3064a5bcace3ebfb70b9407f62",
+        "created": "2025-07-21 01:02:29:155",
+        "title": "59.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "688ce693921a291847c727289894a92ff4604f42",
+        "created": "2025-07-21 01:02:25:503",
+        "title": "6.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "e5eaf2b3b25a000080c505d7df5b48cde743f67b",
+        "created": "2025-07-21 01:02:29:232",
+        "title": "60.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "0cef65ea1f1a67d603ef0d5229290fb4db1fab33",
+        "created": "2025-07-21 01:02:29:314",
+        "title": "61.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "09258101b0c14fa01c1dae039123a886199969d9",
+        "created": "2025-07-21 01:02:29:390",
+        "title": "62.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "2a3368b91f3844bbf7d2fc05526bbf0bc948411d",
+        "created": "2025-07-21 01:02:29:470",
+        "title": "63.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "34167ee0b1a4befeb627584294ef6340c3991aa0",
+        "created": "2025-07-21 01:02:29:553",
+        "title": "64.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "1ae78bed217f80fcb67f30059adbd1d7da556409",
+        "created": "2025-07-21 01:02:29:635",
+        "title": "65.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "8d4e4c7a397e2cbb4cc6f26a2a71c0e535fc49cc",
+        "created": "2025-07-21 01:02:29:694",
+        "title": "66.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "3830e88e59c1cc7f5c9c71c48e7555cfa47d361e",
+        "created": "2025-07-21 01:02:29:781",
+        "title": "67.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "1322b1117698c7cbb630db0eb5ea7f8eb3e37032",
+        "created": "2025-07-21 01:02:29:859",
+        "title": "68.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "0bee612b31c4436aa75f5aa88d76287e21059f90",
+        "created": "2025-07-21 01:02:29:936",
+        "title": "69.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "f3db16690134d518911cdd11cf01f78a7d7f6bd0",
+        "created": "2025-07-21 01:02:25:575",
+        "title": "7.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "800087a4913bef9e554e0141bcae3fd2e379db79",
+        "created": "2025-07-21 01:02:30:015",
+        "title": "70.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "123291c0cfc3e3738a15a44823db791a8c99827c",
+        "created": "2025-07-21 01:02:30:083",
+        "title": "71.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "82b17ac589357248cd6ada8456f03bea0651469c",
+        "created": "2025-07-21 01:02:30:165",
+        "title": "72.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "b34adf317d3eb83c63437edfe5990145715aa752",
+        "created": "2025-07-21 01:02:30:241",
+        "title": "73.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "97b3a09a16a2a40217141cdfd078cf1120daf4c1",
+        "created": "2025-07-21 01:02:30:306",
+        "title": "74.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "8f5d27897b2cc83fcfd5abd010b172fa33f18f8c",
+        "created": "2025-07-21 01:02:30:369",
+        "title": "75.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "af7881e12862135895534098927565e697cf5f10",
+        "created": "2025-07-21 01:02:30:435",
+        "title": "76.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "d401783f563198be91ccbe8af18450208fb9908f",
+        "created": "2025-07-21 01:02:30:499",
+        "title": "77.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "7d9129a5a99b34cab7c736ac555ba10bdff5b0ad",
+        "created": "2025-07-21 01:02:30:578",
+        "title": "78.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "41c249238079e411c0aee80ff5f94b48a81bf334",
+        "created": "2025-07-21 01:02:30:641",
+        "title": "79.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "e061ee9415ef02dd22c596509e3d4ee785bb2e56",
+        "created": "2025-07-21 01:02:25:642",
+        "title": "8.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "e7d92033cf433acf7055e043a5a59148cff7ecde",
+        "created": "2025-07-21 01:02:30:718",
+        "title": "80.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "65724ace3557ac24e9540c873f96d9b8b9ec2731",
+        "created": "2025-07-21 01:02:30:785",
+        "title": "81.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "0c8dbf6464e808cc8c7f9ae122d7ea44bf8aba0d",
+        "created": "2025-07-21 01:02:30:871",
+        "title": "82.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "2d9bcda657574e9f1b3fecf76778dbfb1c0cff24",
+        "created": "2025-07-21 01:02:30:937",
+        "title": "83.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "036dbad799659e305bafa2e58e5d066a7293e8fd",
+        "created": "2025-07-21 01:02:31:029",
+        "title": "84.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "5dce865ed22015351ce1fee35d86aba8ba7459c5",
+        "created": "2025-07-21 01:02:31:096",
+        "title": "85.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "7d591b98874692b2c482cd1ac5bfec6e6e3fb793",
+        "created": "2025-07-21 01:02:31:158",
+        "title": "86.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "9f75e9222f7379840f148e0356f982ca3245f028",
+        "created": "2025-07-21 01:02:31:234",
+        "title": "87.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "122633ef3d2b4f320cee366e7b4e3b15bf486c36",
+        "created": "2025-07-21 01:02:31:294",
+        "title": "88.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "f66eb0e7d25054629be887ef83b5f5f515eaac3a",
+        "created": "2025-07-21 01:02:31:378",
+        "title": "89.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "f0960d48c71849e4525b9a69aa372af2eb8b079a",
+        "created": "2025-07-21 01:02:25:741",
+        "title": "9.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "b994ef1d80570105629813f0ffa36bf1370e0ca0",
+        "created": "2025-07-21 01:02:31:440",
+        "title": "90.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "dde6f710f08f48942c20b285057f755453be45a2",
+        "created": "2025-07-21 01:02:31:506",
+        "title": "91.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "2f78e57b55d37faf43a5ea636ed192c02a71a2d0",
+        "created": "2025-07-21 01:02:31:576",
+        "title": "92.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "d8be7179e65a71ba2bfe4a0a82d89400a9de5bee",
+        "created": "2025-07-21 01:02:31:644",
+        "title": "93.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "ce326c57f390ef6eb07441d01a735f2cabdee1f3",
+        "created": "2025-07-21 01:02:31:704",
+        "title": "94.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Guus"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "8edfefab84d6d50e027baac89265aec7f22415d0",
+        "created": "2025-07-12 23:12:28:331",
+        "title": "1.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "5e3a00ab941ac9e839fe3c5f5f2c67a6e164615a",
+        "created": "2025-07-12 23:12:28:965",
+        "title": "10.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "1708515d1d4e6a19a3e813498aaaa2b65e704e56",
+        "created": "2025-07-12 23:12:29:034",
+        "title": "11.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "3b9c69b5e970d2d18caf01840dc7c394b59ac110",
+        "created": "2025-07-12 23:12:29:102",
+        "title": "12.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "f219a59f7afa75aacb1a12e1d2d66ee6800e2ede",
+        "created": "2025-07-12 23:12:29:175",
+        "title": "13.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "c856b7f800fe099742542463b041e3cc8658096e",
+        "created": "2025-07-12 23:12:29:237",
+        "title": "14.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "809b1fc8b6c3fbb180ed6707534a62a1dbfced92",
+        "created": "2025-07-12 23:12:29:306",
+        "title": "15.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "b39c3ee5771566afca400a59ea15bd03a49e1950",
+        "created": "2025-07-12 23:12:29:373",
+        "title": "16.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "ee8b49d1f9a63d46230b0fd02e037a45b88bbf14",
+        "created": "2025-07-12 23:12:29:432",
+        "title": "17.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "867e5dcb8d6e398e582ab2e757f1ba28f3d5984f",
+        "created": "2025-07-12 23:12:29:501",
+        "title": "18.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "b76971eec621f45bf74f57e7f04b1fca84e56446",
+        "created": "2025-07-12 23:12:29:567",
+        "title": "19.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "2d2013095421f36d487f4e37cdcf881caa04048a",
+        "created": "2025-07-12 23:12:28:401",
+        "title": "2.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "2112d0207e6b9d64386359e25e24b237d51f1579",
+        "created": "2025-07-12 23:12:29:629",
+        "title": "20.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "7850d3e1e2625256063eb65035e1f75fc842a9b9",
+        "created": "2025-07-12 23:12:29:696",
+        "title": "21.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "0eba64b94d5ca2b5f1e054b4c7287a1273db6180",
+        "created": "2025-07-12 23:12:29:760",
+        "title": "22.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "bbeff0e4eed92abbdebcbbcf143aad829454e652",
+        "created": "2025-07-12 23:12:29:823",
+        "title": "23.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "24db83f15902418277dda12ef6e436b74edffc8e",
+        "created": "2025-07-12 23:12:29:882",
+        "title": "24.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "a9dbd9b9d6b4dfbfb23261ca21ef43cada71cb14",
+        "created": "2025-07-12 23:12:29:950",
+        "title": "25.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "3e2e5af6a29851a3873abde50c70730f5448cd5d",
+        "created": "2025-07-12 23:12:30:011",
+        "title": "26.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "a927c277af1b2b24dd9ec401aba60d201abc2518",
+        "created": "2025-07-12 23:12:30:075",
+        "title": "27.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "86d2678d506e93d67d6f18bfd2a9355429e55433",
+        "created": "2025-07-12 23:12:30:138",
+        "title": "28.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "c92949f525eb35406f65f56a470dbb37ded5eb05",
+        "created": "2025-07-12 23:12:30:197",
+        "title": "29.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "6a7473b71d4585e87cf7a1f9c2f45f2669d2b077",
+        "created": "2025-07-12 23:12:28:478",
+        "title": "3.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "2320c0d9b7560f4c2b2f66d4c12a5e50f473f5ba",
+        "created": "2025-07-12 23:12:30:256",
+        "title": "30.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "22d13355f64bacb7fdd8594c5aae3489dce98134",
+        "created": "2025-07-12 23:12:30:317",
+        "title": "31.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "ca71231343f8704c9f239c70e61a37a06ed5201f",
+        "created": "2025-07-12 23:12:30:384",
+        "title": "32.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "e8b9be5981d3e14850fc8931ba7ce6e80d438927",
+        "created": "2025-07-12 23:12:30:444",
+        "title": "33.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "8f2010b956fee06f580dd44fc92bbfd1f13e9925",
+        "created": "2025-07-12 23:12:30:510",
+        "title": "34.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "12be5405a2b98ac930d690dbcb9d702843fd94c8",
+        "created": "2025-07-12 23:12:30:571",
+        "title": "35.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "c355d53bcc03f2d4d45e3a9443d70dab04613bfa",
+        "created": "2025-07-12 23:12:30:639",
+        "title": "36.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "2510c065d8c8d75a1c5036da5e1acf91bda53f80",
+        "created": "2025-07-12 23:12:30:706",
+        "title": "37.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "54ab5e52718c0a7e1ea37b56656d3b9c8531cf18",
+        "created": "2025-07-12 23:12:30:767",
+        "title": "38.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "0d7cf11fa3caa39edc8f5f5cbd52e56cf03e8f4c",
+        "created": "2025-07-12 23:12:28:570",
+        "title": "4.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "66d34e33adfc052e3e7f255681c0b02ee6a56067",
+        "created": "2025-07-12 23:12:28:632",
+        "title": "5.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "0e1aaac95c36d38790954371bf929370b460dcf0",
+        "created": "2025-07-12 23:12:28:712",
+        "title": "6.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "6b5402598951c51ae5a32ecc6a1473c87f5a4f8b",
+        "created": "2025-07-12 23:12:28:783",
+        "title": "7.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "5fb26f6fb5372e96d3ad3d954b28b15a2733bb55",
+        "created": "2025-07-12 23:12:28:851",
+        "title": "8.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "d5af4aea2cc2b6c2c57791b6dc20993a54a22594",
+        "created": "2025-07-12 23:12:28:918",
+        "title": "9.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "6cf113dfde4206134c6ce2fe0d695714416a3196",
+        "created": "2025-07-12 23:12:34:779",
+        "title": "100.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "27c1ff3c5e531e766727a2121375e22ec5c35919",
+        "created": "2025-07-12 23:12:34:839",
+        "title": "101.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "df040540b539f283745e9ed55250b6acbe6590b9",
+        "created": "2025-07-12 23:12:34:915",
+        "title": "102.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "48c58a76d9e7323e5deea4a3c48c62b76309c20c",
+        "created": "2025-07-12 23:12:34:976",
+        "title": "103.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "8c06548814dd568caf5fb051ca6b1d2a0124b214",
+        "created": "2025-07-12 23:12:35:037",
+        "title": "104.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "8233d8d58799830a937b67f7a6cd8bd487036b9c",
+        "created": "2025-07-12 23:12:30:807",
+        "title": "39.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "9bd76d572c43870c26f18a9094f39cfb7e6b1746",
+        "created": "2025-07-12 23:12:30:886",
+        "title": "40.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "346a2b8b5747951fdba67867f028c48549149832",
+        "created": "2025-07-12 23:12:30:949",
+        "title": "41.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "734b0e8329ca650f9e7eab3fa6ac127195421914",
+        "created": "2025-07-12 23:12:31:009",
+        "title": "42.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "9ee1fc0a06f329866eb0ec941d72b9b8ced81dfa",
+        "created": "2025-07-12 23:12:31:076",
+        "title": "43.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "831daf5c40549ecb7955286ed843c4bd17338238",
+        "created": "2025-07-12 23:12:31:136",
+        "title": "44.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "23d4104c2f846d8e1d30a9268d89bb63fa0525e4",
+        "created": "2025-07-12 23:12:31:204",
+        "title": "45.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "708a69de97052e48efeae9faeb29e47fd2b97da3",
+        "created": "2025-07-12 23:12:31:272",
+        "title": "46.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "fb57f86c1f7b4db8d2577af81f4937f8bbe02b44",
+        "created": "2025-07-12 23:12:31:331",
+        "title": "47.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "b35709f28442e9e4dea87e0415868db3882a20e4",
+        "created": "2025-07-12 23:12:31:407",
+        "title": "48.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "8cdc9b39e56ad15aaafb26d2de88b476fb108897",
+        "created": "2025-07-12 23:12:31:466",
+        "title": "49.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "bb44c8329a86a74443a454f40845af4b54579c43",
+        "created": "2025-07-12 23:12:31:535",
+        "title": "50.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "054dbd0b95d95d56db931f16eef4b95a2fd947a5",
+        "created": "2025-07-12 23:12:31:593",
+        "title": "51.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "724019bd024f2739a493d57c43010f88e1297339",
+        "created": "2025-07-12 23:12:31:661",
+        "title": "52.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "4a8a56e7b5cf985b196b27395fa2db4fcbba3a7b",
+        "created": "2025-07-12 23:12:31:721",
+        "title": "53.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "b65906144e85b4dc18ad243bc6c97539097e7861",
+        "created": "2025-07-12 23:12:31:782",
+        "title": "54.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "81fcf50d2f6f8a451ddb6f30b81cdf82ca49e1f0",
+        "created": "2025-07-12 23:12:31:848",
+        "title": "55.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "5eded91293103b16b8f93cfdbeb6ba6d4f3cc0c3",
+        "created": "2025-07-12 23:12:31:916",
+        "title": "56.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "7f4a24b70b77800c5a6b623b9354343e71dbb6d9",
+        "created": "2025-07-12 23:12:31:984",
+        "title": "57.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "fbd6eb99ac35f0bbfd020723ca557be7ae6dfc60",
+        "created": "2025-07-12 23:12:32:043",
+        "title": "58.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "fb0232fc9cfa10ba1651996f31aad9b30e08ebf9",
+        "created": "2025-07-12 23:12:32:118",
+        "title": "59.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "5caa9c76a039300f586649e9224e2be7f6466f70",
+        "created": "2025-07-12 23:12:32:187",
+        "title": "60.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "16592cac1e01a4689524775a630ae0bddbc484b5",
+        "created": "2025-07-12 23:12:32:268",
+        "title": "61.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "ec01c0588c1b3c21d9be6ced9a1c2b72b4235964",
+        "created": "2025-07-12 23:12:32:330",
+        "title": "62.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "a4a6c015e3127d9b55b943efdd1c8cbf2548bb99",
+        "created": "2025-07-12 23:12:32:400",
+        "title": "63.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "96d0603bca4696f46f9682db84dda617a15eae96",
+        "created": "2025-07-12 23:12:32:473",
+        "title": "64.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "531b89c04e0ec15266113175a1882cb27c20c316",
+        "created": "2025-07-12 23:12:32:542",
+        "title": "65.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "18cde3f19d4516e310d9297fecd67c88c9661adc",
+        "created": "2025-07-12 23:12:32:609",
+        "title": "66.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "d6b3067740ce426919de401c98b5829830e2e2b1",
+        "created": "2025-07-12 23:12:32:677",
+        "title": "67.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "d1d13d1149e3c250892ff8593219b29b75a0c588",
+        "created": "2025-07-12 23:12:32:745",
+        "title": "68.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "0beeaee362427caff364df44251d704756ad6e5c",
+        "created": "2025-07-12 23:12:32:812",
+        "title": "69.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "ff3e28e183b4851c35b03b3c79f6bd47459773f0",
+        "created": "2025-07-12 23:12:32:880",
+        "title": "70.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "e9b2d435141060a1f8d1aba24f2dd390ea46b144",
+        "created": "2025-07-12 23:12:32:948",
+        "title": "71.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "2ffaedb1f33b74247c53323d617364a022ed41f9",
+        "created": "2025-07-12 23:12:33:015",
+        "title": "72.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "6d8459089ec511f49bb5fd4f7543769fbc98c91b",
+        "created": "2025-07-12 23:12:33:085",
+        "title": "73.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "2c573653a0bdba24263a90983f1bb314399d3e6c",
+        "created": "2025-07-12 23:12:33:144",
+        "title": "74.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "4ed7e91102a6b2601ce32c75b7f244f71068cea0",
+        "created": "2025-07-12 23:12:33:210",
+        "title": "75.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "4308d8bab86bc3d55653da7ddfa17135a6d59e99",
+        "created": "2025-07-12 23:12:33:271",
+        "title": "76.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "796e8549aad92f6000068e0bdf2eee51392a1fb1",
+        "created": "2025-07-12 23:12:33:347",
+        "title": "77.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "0ce18fab80387d417ababa19f3162d711c5708d1",
+        "created": "2025-07-12 23:12:33:408",
+        "title": "78.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "79e2dc6a799a1ef2b6c3f4e6d415a8dfa1d3e3da",
+        "created": "2025-07-12 23:12:33:473",
+        "title": "79.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "662e90cde06a418dad1619f384c8520a863d0ea3",
+        "created": "2025-07-12 23:12:33:540",
+        "title": "80.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "d6d2f2e6fa4e0dfc31531713a133c1bf005e8ea2",
+        "created": "2025-07-12 23:12:33:604",
+        "title": "81.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "927441df5d719ec50f999638303a4caf8e7e957a",
+        "created": "2025-07-12 23:12:33:689",
+        "title": "82.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "a1ee5d206f74c19c485120a006042f9b556d65a7",
+        "created": "2025-07-12 23:12:33:753",
+        "title": "83.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "bea8ef1d9c4478e43b1a0db3b5ff1bb46df71141",
+        "created": "2025-07-12 23:12:33:834",
+        "title": "84.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "946711c00d0a242bcdb8c2d561398df0ec2b130d",
+        "created": "2025-07-12 23:12:33:896",
+        "title": "85.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "848cacd88024ae695fd8de019c6ad087935c8009",
+        "created": "2025-07-12 23:12:33:965",
+        "title": "86.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "19cd4c80ef401f26cf263cf6f2a926b967e434f5",
+        "created": "2025-07-12 23:12:34:025",
+        "title": "87.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "6fa8a049c9fb44cd58612f2c7b5fe3c034d0a349",
+        "created": "2025-07-12 23:12:34:091",
+        "title": "88.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "2273b168273f259b1ef160705e5f705ee6fa15de",
+        "created": "2025-07-12 23:12:34:160",
+        "title": "89.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "d03e353ff29a18b095fe2e74b3f60c8891afce3e",
+        "created": "2025-07-12 23:12:34:227",
+        "title": "90.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "5d00d766626ef0952c10672641329e7b76065fa7",
+        "created": "2025-07-12 23:12:34:294",
+        "title": "91.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "15b6c0cf3ce8cef4fada708ee1b6d02cfa0050ea",
+        "created": "2025-07-12 23:12:34:352",
+        "title": "92.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "5c1f9e97f8066139d5ef0d9de0fd35677357cb09",
+        "created": "2025-07-12 23:12:34:420",
+        "title": "93.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "66095cacf7411ad79b4a3b78f35dc86126a8d5b9",
+        "created": "2025-07-12 23:12:34:487",
+        "title": "94.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "819c666d06c43efee47bb9433e5058462f3cea03",
+        "created": "2025-07-12 23:12:34:543",
+        "title": "95.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "99c7cc59765d0867b13c0f797de9ab1a4cf457bc",
+        "created": "2025-07-12 23:12:34:600",
+        "title": "96.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "7bca1719b3776c947cfc37f0c8043b32c9650055",
+        "created": "2025-07-12 23:12:34:666",
+        "title": "97.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "9fba9ad85eeb3ba3cefc09fc751d59796f8fef43",
+        "created": "2025-07-12 23:12:34:726",
+        "title": "98.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "3789464cde3044550a8035f69713f96ea88716db",
+        "created": "2025-07-12 23:12:34:786",
+        "title": "99.bmp",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "📹 Animation",
+          "Animal"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
       }
     ],
     "palettes": [
@@ -30236,7 +34069,8 @@
         },
         "config": {
           "fileExtension": "png",
-          "mimeType": "png"
+          "mimeType": "png",
+          "scaleFactor": 0
         },
         "loading": false
       },
@@ -30257,7 +34091,7 @@
         "loading": false
       }
     ],
-    "lastUpdateUTC": 1753121744,
+    "lastUpdateUTC": 1752356902,
     "version": 1
   }
 }
