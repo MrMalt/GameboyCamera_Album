@@ -33668,6 +33668,18 @@
     ],
     "palettes": [
       {
+        "shortName": "umbreon",
+        "name": "Umbreon",
+        "palette": [
+          "#ffff5d",
+          "#6d7e80",
+          "#222827",
+          "#191F1E"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
         "shortName": "gold12",
         "name": "Gold12",
         "palette": [
@@ -34091,7 +34103,7 @@
         "loading": false
       }
     ],
-    "lastUpdateUTC": 1752356902,
+    "lastUpdateUTC": 1753341687,
     "version": 1
   }
 }
