@@ -668,7 +668,8 @@
           "35a25085-92d9-4a04-b138-4bc83748d32a",
           "1beee561-6af5-4898-ad69-301d13916a55",
           "af3b2ce8-ca22-4c6a-8362-eda3808b8e81",
-          "df71ef64-d088-4e2c-8f6a-e557508969f6"
+          "df71ef64-d088-4e2c-8f6a-e557508969f6",
+          "0e792922-2c43-440c-ac21-81726166a15f"
         ]
       },
       {
@@ -2562,46 +2563,156 @@
         "groups": []
       },
       {
-        "id": "cd8a5e87-37b7-40c7-bef4-74ffcd254827",
-        "slug": "import_24_07_2025_21_21",
-        "title": "Import 24/07/2025, 21:21",
-        "created": "2025-07-24 21:21:56:018",
-        "coverImage": "29ee7ec695859c1a5ec2d7cca5bfffb29aa9f41f",
+        "id": "0e792922-2c43-440c-ac21-81726166a15f",
+        "slug": "import_28_07_2025_23_50",
+        "title": "Import 28/07/2025, 23:50",
+        "created": "2025-07-28 23:50:45:895",
+        "coverImage": "f5aa0d9c4133e36d60762e1d77d5f81f1520d5fb",
+        "images": [],
+        "groups": [
+          "dd65ac94-1ec1-4c8f-8e86-114cb14b1c87",
+          "b0ba822e-2140-4185-9990-c0a136b1e455",
+          "52cb0d93-7728-47f9-9a0f-07df0bc8311b",
+          "c7077c6b-e5a0-49a8-894d-147e52cb1355",
+          "9a2b1480-8173-4992-b02c-36b80abaec14",
+          "ebd0f08f-d502-4b8c-a2cb-50aabb239c52",
+          "5a31586a-3e96-45ba-aea5-01b11a64ef2f",
+          "43727414-a779-47f7-88e5-a72421ee6643"
+        ]
+      },
+      {
+        "id": "dd65ac94-1ec1-4c8f-8e86-114cb14b1c87",
+        "slug": "gbcimage_2025_07_28_23",
+        "title": "gbcImage 2025 07 28 23",
+        "created": "2025-07-28 23:52:49:718",
+        "coverImage": "d051872ad65e9d039e2eba2205ee633615b00726",
         "images": [
-          "29ee7ec695859c1a5ec2d7cca5bfffb29aa9f41f",
-          "2cac21a2b53312e87b066378ca7a522185ea6380",
-          "f9327aedbf604e7f87cd194d868151194200760c",
-          "f63b4d1893aca811f4c8d3d7a6bf220bbd08991d",
-          "7c6d1a14e04247ab656d71c2599ffae7156db562",
-          "30f943858e05d8bffc5807acc335c5596d6bb72b",
-          "1e3044ce1f5964ef6ad8535d897b9c15e690cc72"
+          "f5aa0d9c4133e36d60762e1d77d5f81f1520d5fb",
+          "43445ab070334cc766245477aa0363b4a0c40342",
+          "b88378902a7e7a3014ab711f2f8ba7a7f893b43d",
+          "cce1fd318a9313ec51de5f79f075a0059c1e30e3",
+          "b8dc21e9a19f8d6cef36d574fd4fe0e4b933a1c3",
+          "223432b0c3d0d58716e7084e8285337c5255c9f8",
+          "d051872ad65e9d039e2eba2205ee633615b00726"
         ],
         "groups": []
       },
       {
-        "id": "e6ca1a2c-659c-4c91-ac8b-ab5e791282ed",
-        "slug": "import_24_07_2025_21_27",
-        "title": "Import 24/07/2025, 21:27",
-        "created": "2025-07-24 21:27:50:635",
-        "coverImage": "4143f17231e32f6fb1b47c8116e4e667004f7a71",
+        "id": "b0ba822e-2140-4185-9990-c0a136b1e455",
+        "slug": "gbcimage_2025_07_28_24",
+        "title": "gbcImage 2025 07 28 23",
+        "created": "2025-07-28 23:53:07:247",
+        "coverImage": "5b9fc93a0a030186f6539b0eaeb5b55eb84bed08",
         "images": [
-          "4143f17231e32f6fb1b47c8116e4e667004f7a71",
-          "068e33d80d15d5e6c4c49eef78eeb4bb032da455",
-          "9a271a7c3c0b2c9e160145f93cbc76aece1ddf9f",
-          "006c0b9af62d8146087db96a372dcd0602bb555c",
-          "cfefa717e182c48b606b6459a14b4638317d7489",
-          "28afc298849c4093886c896ca3b9a1974aa7004f",
-          "befbfb503edc44c61272c33fec2613d7db916991",
-          "f47f61a3f47262d8c5636124e833150f61379d70",
-          "fb754910543f7d43a4bace4bc0c6e486f47b3365",
-          "fd1243cf4134c08dd6e6276f1af2832df83bfe56",
-          "fa8612f6743f56878e25e0927f1d59876a655f0b",
-          "29116c48429bfb2dac689a93b2c3e69c2b5487e6",
-          "8f28270a5f41aeb96a74b99ded1c34fa822c5e3f",
-          "080e388011b9f63a74ce5f607369ca1decff6040",
-          "f9d4710db17c9880014fe684cc1267ffc587a8f0",
-          "dae4275fd4d4e2826d9e2e26c484dc91e473437b",
-          "21cb76049687cdbd3b86dfb606e0285a77832362"
+          "5228945d8c673d9eec7199ef0f42de81cd3c1f6f",
+          "f37969c6c44da1a2cfc7736b45bbff57d8cde9f8",
+          "786027fba9ba0ec0e8dd9edb3f547808fef910cc",
+          "5b9fc93a0a030186f6539b0eaeb5b55eb84bed08",
+          "8322dac21fd67269c4c678869b514b4872631d2d",
+          "814adcecacc3f4455e2a97827754e9329269034e",
+          "c60da655b6d824b44bd83b5759fab322703996f0"
+        ],
+        "groups": []
+      },
+      {
+        "id": "52cb0d93-7728-47f9-9a0f-07df0bc8311b",
+        "slug": "gbcimage_2025_07_28_25",
+        "title": "gbcImage 2025 07 28 23",
+        "created": "2025-07-28 23:53:26:316",
+        "coverImage": "6cd04a3c6dcb7ad37c2fc9893bab1b8cdc6b3e09",
+        "images": [
+          "459c24acb652687635b78eeec975a232f49448b7",
+          "012a74d25a57df313adbb67217e4d36db7257286",
+          "6cd04a3c6dcb7ad37c2fc9893bab1b8cdc6b3e09",
+          "4251e33fd3ed704a0888cbea82d060a2fb99bd36",
+          "e1eb8cbb9e962fa84c05648253edd2e05974a31f",
+          "04d6814b1abdb661bbcfd1c821504c42f7a7c2a8",
+          "1c209bee6a5555f88ddb5c9f7d994f9915449950"
+        ],
+        "groups": []
+      },
+      {
+        "id": "c7077c6b-e5a0-49a8-894d-147e52cb1355",
+        "slug": "gbcimage_2025_07_28_26",
+        "title": "gbcImage 2025 07 28 23",
+        "created": "2025-07-28 23:53:40:482",
+        "coverImage": "da0d22ae3461ce388f98ab36acebf513a398dcb9",
+        "images": [
+          "dab1979105806e6a1986804abd4d2027aad5b4a7",
+          "bdbc03c06457a60be7a13e9bfc5a608e49e1d943",
+          "da0d22ae3461ce388f98ab36acebf513a398dcb9",
+          "76833b8b1e6ed8afbab354ee6634255344e38d07",
+          "246ec8eff58e1289bc873aad837a1463666fda3e",
+          "ebe422b5179f49fb08aaecc3eea781488d6c13aa",
+          "637c64e239c6fa9249e04ea464c96238ecd6ddd8"
+        ],
+        "groups": []
+      },
+      {
+        "id": "9a2b1480-8173-4992-b02c-36b80abaec14",
+        "slug": "gbcimage_2025_07_28_27",
+        "title": "gbcImage 2025 07 28 23",
+        "created": "2025-07-28 23:53:59:795",
+        "coverImage": "780adc40ff8bd16610c6cc37576b8644c9fa0c54",
+        "images": [
+          "68de8573d803e6427f408b70e0048cc838b988e6",
+          "fa9bd2b69eaf7d25aa23574013cf23ce3a92e730",
+          "780adc40ff8bd16610c6cc37576b8644c9fa0c54",
+          "0dbc6b20ac556ba476df2c554727d23986c6a45c",
+          "b6fd3d3180535e4d366f7d97dcd93928c34c0a38",
+          "2ffa9d683a5ed3ed76bf72d50cc18d5a153510ef",
+          "b317504a0f17c46cf61690031ffc1d09ee9d42a2"
+        ],
+        "groups": []
+      },
+      {
+        "id": "ebd0f08f-d502-4b8c-a2cb-50aabb239c52",
+        "slug": "gbcimage_2025_07_28_28",
+        "title": "gbcImage 2025 07 28 23",
+        "created": "2025-07-28 23:54:21:097",
+        "coverImage": "76b1ee5bb9cac96c3e03f6ea13f17f69393b7ba4",
+        "images": [
+          "0291f2ffe57adba8b150711891ca0f32d736aef7",
+          "eb453fe9933208b4d9ead9d79d4c9efbbe5daea9",
+          "9495d226d8818a1b755d517da517dabec469a0ac",
+          "76b1ee5bb9cac96c3e03f6ea13f17f69393b7ba4",
+          "de27350a40441c17d9c0a197ffd34c6e6838b59a",
+          "33b32a68f65ade4dc854c56819a2f26aaa4f7586",
+          "bba8fef3efa1fa63b284c36e0a394ae972e45223"
+        ],
+        "groups": []
+      },
+      {
+        "id": "5a31586a-3e96-45ba-aea5-01b11a64ef2f",
+        "slug": "gbcimage_2025_07_28_29",
+        "title": "gbcImage 2025 07 28 23",
+        "created": "2025-07-28 23:54:42:238",
+        "coverImage": "4e6a801af117e2e12f6d879db6506d8619a7492f",
+        "images": [
+          "c0617a7b4ac24eab251a4289e3f312d4159c1164",
+          "b1abcbfd96f3345c8ae2693b6919d1fdc8cc367a",
+          "2844b0225750a0c15d720a56f83da9b707e1e645",
+          "e6e6c420c897432897faa78f130a00e7e5b165ee",
+          "d411085bfde336907cff66ed003bbf2a034b9cd6",
+          "80b4e88a8d8c0f0a68a82530d89eb6c462e19089",
+          "4e6a801af117e2e12f6d879db6506d8619a7492f"
+        ],
+        "groups": []
+      },
+      {
+        "id": "43727414-a779-47f7-88e5-a72421ee6643",
+        "slug": "gbcimage_2025_07_28_30",
+        "title": "gbcImage 2025 07 28 23",
+        "created": "2025-07-28 23:54:56:848",
+        "coverImage": "2a7e6f2776dcaf13d3af1b551b8a2ecbe439cca1",
+        "images": [
+          "6ea3851f8d52e022cb4749d98255c20e3808cb5b",
+          "b732ae5f20d811ba0cb64b8b0c592d66ecc9908b",
+          "483d6ab4f48efc683cf536c66ef96ccd7c78c749",
+          "7ac1d96692b57e4cedddcae45a775a1a1308d012",
+          "b38d2699bc5cd04e96a65813c9c87649e3aaa728",
+          "ebe73ed0a16daafcc772b9e7b0e915890dbe38b4",
+          "2a7e6f2776dcaf13d3af1b551b8a2ecbe439cca1"
         ],
         "groups": []
       }
@@ -27979,7 +28090,8 @@
         "tags": [
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Sky"
         ],
         "palette": "kditw",
         "framePalette": "bw",
@@ -27998,6 +28110,7 @@
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
+          "Sky",
           "Zwarte Cross"
         ],
         "palette": "glmo",
@@ -28016,6 +28129,7 @@
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
+          "Sky",
           "Zwarte Cross"
         ],
         "palette": "ffs",
@@ -28686,6 +28800,7 @@
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
+          "Sky",
           "Zwarte Cross"
         ],
         "palette": "blue12",
@@ -28741,6 +28856,7 @@
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
+          "Sky",
           "Zwarte Cross"
         ],
         "palette": "spezi",
@@ -28779,6 +28895,7 @@
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
           "📸 Mart",
+          "Sky",
           "Zwarte Cross"
         ],
         "palette": "gbcd",
@@ -33716,13 +33833,14 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Lyra"
+          "📸 Lyra",
+          "Haarlem"
         ],
         "palette": "other1",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": "",
+        "frame": "aframes01",
         "lockFrame": true
       },
       {
@@ -33732,13 +33850,15 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Lyra"
+          "📸 Lyra",
+          "Haarlem"
         ],
-        "palette": "bw",
+        "palette": "lohp",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "aframes01",
+        "lockFrame": true
       },
       {
         "hash": "f9327aedbf604e7f87cd194d868151194200760c",
@@ -33747,13 +33867,16 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Lyra"
+          "📸 Lyra",
+          "Haarlem",
+          "Plant"
         ],
-        "palette": "bw",
+        "palette": "shzol",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "aframes01",
+        "lockFrame": true
       },
       {
         "hash": "f63b4d1893aca811f4c8d3d7a6bf220bbd08991d",
@@ -33762,13 +33885,16 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Lyra"
+          "📸 Lyra",
+          "Haarlem",
+          "Plant"
         ],
-        "palette": "bw",
+        "palette": "dimwm",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "aframes01",
+        "lockFrame": true
       },
       {
         "hash": "7c6d1a14e04247ab656d71c2599ffae7156db562",
@@ -33777,13 +33903,15 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Lyra"
+          "📸 Lyra",
+          "Haarlem"
         ],
-        "palette": "bw",
+        "palette": "llawk",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "aframes01",
+        "lockFrame": true
       },
       {
         "hash": "30f943858e05d8bffc5807acc335c5596d6bb72b",
@@ -33792,13 +33920,15 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Lyra"
+          "📸 Lyra",
+          "Haarlem"
         ],
-        "palette": "bw",
+        "palette": "architecture3",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "aframes01",
+        "lockFrame": true
       },
       {
         "hash": "1e3044ce1f5964ef6ad8535d897b9c15e690cc72",
@@ -33807,13 +33937,15 @@
         "lines": 360,
         "tags": [
           "📷 2BitToy Camera+",
-          "📸 Lyra"
+          "📸 Lyra",
+          "Haarlem"
         ],
-        "palette": "bw",
+        "palette": "d2kr",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
-        "frame": ""
+        "frame": "aframes01",
+        "lockFrame": true
       },
       {
         "hash": "4143f17231e32f6fb1b47c8116e4e667004f7a71",
@@ -33823,7 +33955,8 @@
         "tags": [
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Haarlem"
         ],
         "palette": "fsp",
         "framePalette": "bw",
@@ -33838,9 +33971,12 @@
         "title": "gbcImage_2025-07-24_21-26-28.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Haarlem",
+          "Sky"
         ],
         "palette": "gbcd",
         "framePalette": "bw",
@@ -33855,9 +33991,12 @@
         "title": "gbcImage_2025-07-24_21-26-29.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Haarlem",
+          "Sky"
         ],
         "palette": "tsk",
         "framePalette": "bw",
@@ -33872,11 +34011,13 @@
         "title": "gbcImage_2025-07-24_21-26-31.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Haarlem"
         ],
-        "palette": "kditw",
+        "palette": "gold12",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -33891,7 +34032,9 @@
         "tags": [
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Haarlem",
+          "Sky"
         ],
         "palette": "cstmorange",
         "framePalette": "bw",
@@ -33906,9 +34049,12 @@
         "title": "gbcImage_2025-07-24_21-26-34.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Haarlem",
+          "Plant"
         ],
         "palette": "red12",
         "framePalette": "bw",
@@ -33925,7 +34071,8 @@
         "tags": [
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Haarlem"
         ],
         "palette": "scp",
         "framePalette": "bw",
@@ -33940,9 +34087,11 @@
         "title": "gbcImage_2025-07-24_21-26-37.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Haarlem"
         ],
         "palette": "aqpp",
         "framePalette": "bw",
@@ -33959,7 +34108,8 @@
         "tags": [
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Haarlem"
         ],
         "palette": "cstmgrey",
         "framePalette": "bw",
@@ -33974,9 +34124,12 @@
         "title": "gbcImage_2025-07-24_21-26-41.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Haarlem",
+          "Sky"
         ],
         "palette": "blue12",
         "framePalette": "bw",
@@ -33991,9 +34144,12 @@
         "title": "gbcImage_2025-07-24_21-26-42.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Haarlem",
+          "Sky"
         ],
         "palette": "tpa",
         "framePalette": "bw",
@@ -34008,9 +34164,11 @@
         "title": "gbcImage_2025-07-24_21-26-44.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Haarlem"
         ],
         "palette": "aqpp",
         "framePalette": "bw",
@@ -34027,7 +34185,9 @@
         "tags": [
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Haarlem",
+          "Sky"
         ],
         "palette": "wtfp",
         "framePalette": "bw",
@@ -34042,9 +34202,11 @@
         "title": "gbcImage_2025-07-24_21-26-47.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Haarlem"
         ],
         "palette": "banana",
         "framePalette": "bw",
@@ -34059,9 +34221,11 @@
         "title": "gbcImage_2025-07-24_21-26-49.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Haarlem"
         ],
         "palette": "cstmgreen2",
         "framePalette": "bw",
@@ -34076,9 +34240,11 @@
         "title": "gbcImage_2025-07-24_21-26-50.png",
         "lines": 360,
         "tags": [
+          "__filter:favourite__",
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
-          "📸 Mart"
+          "📸 Mart",
+          "Haarlem"
         ],
         "palette": "lohp",
         "framePalette": "bw",
@@ -34095,9 +34261,1489 @@
         "tags": [
           "💿 PHOTO!",
           "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Haarlem"
+        ],
+        "palette": "d2kr",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "f5aa0d9c4133e36d60762e1d77d5f81f1520d5fb",
+        "created": "2025-07-28 23:47:16:000",
+        "title": "gbcImage_2025-07-28_23-47-16.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "b88378902a7e7a3014ab711f2f8ba7a7f893b43d",
+        "created": "2025-07-28 23:47:18:001",
+        "title": "gbcImage_2025-07-28_23-47-18.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "43445ab070334cc766245477aa0363b4a0c40342",
+        "created": "2025-07-28 23:47:19:002",
+        "title": "gbcImage_2025-07-28_23-47-19.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "b8dc21e9a19f8d6cef36d574fd4fe0e4b933a1c3",
+        "created": "2025-07-28 23:47:21:003",
+        "title": "gbcImage_2025-07-28_23-47-21.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "223432b0c3d0d58716e7084e8285337c5255c9f8",
+        "created": "2025-07-28 23:47:22:004",
+        "title": "gbcImage_2025-07-28_23-47-22.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "cce1fd318a9313ec51de5f79f075a0059c1e30e3",
+        "created": "2025-07-28 23:47:23:005",
+        "title": "gbcImage_2025-07-28_23-47-23.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "d051872ad65e9d039e2eba2205ee633615b00726",
+        "created": "2025-07-28 23:47:25:006",
+        "title": "gbcImage_2025-07-28_23-47-25.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "5228945d8c673d9eec7199ef0f42de81cd3c1f6f",
+        "created": "2025-07-28 23:47:26:007",
+        "title": "gbcImage_2025-07-28_23-47-26.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "f37969c6c44da1a2cfc7736b45bbff57d8cde9f8",
+        "created": "2025-07-28 23:47:28:008",
+        "title": "gbcImage_2025-07-28_23-47-28.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "786027fba9ba0ec0e8dd9edb3f547808fef910cc",
+        "created": "2025-07-28 23:47:29:009",
+        "title": "gbcImage_2025-07-28_23-47-29.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "8322dac21fd67269c4c678869b514b4872631d2d",
+        "created": "2025-07-28 23:47:30:010",
+        "title": "gbcImage_2025-07-28_23-47-30.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "5b9fc93a0a030186f6539b0eaeb5b55eb84bed08",
+        "created": "2025-07-28 23:47:32:011",
+        "title": "gbcImage_2025-07-28_23-47-32.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "814adcecacc3f4455e2a97827754e9329269034e",
+        "created": "2025-07-28 23:47:34:012",
+        "title": "gbcImage_2025-07-28_23-47-34.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "c60da655b6d824b44bd83b5759fab322703996f0",
+        "created": "2025-07-28 23:47:35:013",
+        "title": "gbcImage_2025-07-28_23-47-35.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "459c24acb652687635b78eeec975a232f49448b7",
+        "created": "2025-07-28 23:47:37:014",
+        "title": "gbcImage_2025-07-28_23-47-37.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "012a74d25a57df313adbb67217e4d36db7257286",
+        "created": "2025-07-28 23:47:39:015",
+        "title": "gbcImage_2025-07-28_23-47-39.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "4251e33fd3ed704a0888cbea82d060a2fb99bd36",
+        "created": "2025-07-28 23:47:40:016",
+        "title": "gbcImage_2025-07-28_23-47-40.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "6cd04a3c6dcb7ad37c2fc9893bab1b8cdc6b3e09",
+        "created": "2025-07-28 23:47:41:017",
+        "title": "gbcImage_2025-07-28_23-47-41.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "04d6814b1abdb661bbcfd1c821504c42f7a7c2a8",
+        "created": "2025-07-28 23:47:43:018",
+        "title": "gbcImage_2025-07-28_23-47-43.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "1c209bee6a5555f88ddb5c9f7d994f9915449950",
+        "created": "2025-07-28 23:47:44:019",
+        "title": "gbcImage_2025-07-28_23-47-44.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "e1eb8cbb9e962fa84c05648253edd2e05974a31f",
+        "created": "2025-07-28 23:47:45:020",
+        "title": "gbcImage_2025-07-28_23-47-45.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "dab1979105806e6a1986804abd4d2027aad5b4a7",
+        "created": "2025-07-28 23:47:47:021",
+        "title": "gbcImage_2025-07-28_23-47-47.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "bdbc03c06457a60be7a13e9bfc5a608e49e1d943",
+        "created": "2025-07-28 23:47:48:022",
+        "title": "gbcImage_2025-07-28_23-47-48.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "da0d22ae3461ce388f98ab36acebf513a398dcb9",
+        "created": "2025-07-28 23:47:49:023",
+        "title": "gbcImage_2025-07-28_23-47-49.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "246ec8eff58e1289bc873aad837a1463666fda3e",
+        "created": "2025-07-28 23:47:50:024",
+        "title": "gbcImage_2025-07-28_23-47-50.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "ebe422b5179f49fb08aaecc3eea781488d6c13aa",
+        "created": "2025-07-28 23:47:51:025",
+        "title": "gbcImage_2025-07-28_23-47-51.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "76833b8b1e6ed8afbab354ee6634255344e38d07",
+        "created": "2025-07-28 23:47:53:026",
+        "title": "gbcImage_2025-07-28_23-47-53.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "637c64e239c6fa9249e04ea464c96238ecd6ddd8",
+        "created": "2025-07-28 23:47:54:027",
+        "title": "gbcImage_2025-07-28_23-47-54.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "68de8573d803e6427f408b70e0048cc838b988e6",
+        "created": "2025-07-28 23:47:55:028",
+        "title": "gbcImage_2025-07-28_23-47-55.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "fa9bd2b69eaf7d25aa23574013cf23ce3a92e730",
+        "created": "2025-07-28 23:47:56:029",
+        "title": "gbcImage_2025-07-28_23-47-56.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "0dbc6b20ac556ba476df2c554727d23986c6a45c",
+        "created": "2025-07-28 23:47:58:030",
+        "title": "gbcImage_2025-07-28_23-47-58.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "b6fd3d3180535e4d366f7d97dcd93928c34c0a38",
+        "created": "2025-07-28 23:47:59:031",
+        "title": "gbcImage_2025-07-28_23-47-59.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "780adc40ff8bd16610c6cc37576b8644c9fa0c54",
+        "created": "2025-07-28 23:48:00:032",
+        "title": "gbcImage_2025-07-28_23-48-00.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "b317504a0f17c46cf61690031ffc1d09ee9d42a2",
+        "created": "2025-07-28 23:48:02:033",
+        "title": "gbcImage_2025-07-28_23-48-02.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "2ffa9d683a5ed3ed76bf72d50cc18d5a153510ef",
+        "created": "2025-07-28 23:48:03:034",
+        "title": "gbcImage_2025-07-28_23-48-03.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "0291f2ffe57adba8b150711891ca0f32d736aef7",
+        "created": "2025-07-28 23:48:04:035",
+        "title": "gbcImage_2025-07-28_23-48-04.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "eb453fe9933208b4d9ead9d79d4c9efbbe5daea9",
+        "created": "2025-07-28 23:48:06:036",
+        "title": "gbcImage_2025-07-28_23-48-06.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "76b1ee5bb9cac96c3e03f6ea13f17f69393b7ba4",
+        "created": "2025-07-28 23:48:07:037",
+        "title": "gbcImage_2025-07-28_23-48-07.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "9495d226d8818a1b755d517da517dabec469a0ac",
+        "created": "2025-07-28 23:48:08:038",
+        "title": "gbcImage_2025-07-28_23-48-08.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "33b32a68f65ade4dc854c56819a2f26aaa4f7586",
+        "created": "2025-07-28 23:48:09:039",
+        "title": "gbcImage_2025-07-28_23-48-09.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "bba8fef3efa1fa63b284c36e0a394ae972e45223",
+        "created": "2025-07-28 23:48:11:040",
+        "title": "gbcImage_2025-07-28_23-48-10.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "de27350a40441c17d9c0a197ffd34c6e6838b59a",
+        "created": "2025-07-28 23:48:12:041",
+        "title": "gbcImage_2025-07-28_23-48-12.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "c0617a7b4ac24eab251a4289e3f312d4159c1164",
+        "created": "2025-07-28 23:48:13:042",
+        "title": "gbcImage_2025-07-28_23-48-13.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "b1abcbfd96f3345c8ae2693b6919d1fdc8cc367a",
+        "created": "2025-07-28 23:48:14:043",
+        "title": "gbcImage_2025-07-28_23-48-14.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "2844b0225750a0c15d720a56f83da9b707e1e645",
+        "created": "2025-07-28 23:48:16:044",
+        "title": "gbcImage_2025-07-28_23-48-16.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "80b4e88a8d8c0f0a68a82530d89eb6c462e19089",
+        "created": "2025-07-28 23:48:17:045",
+        "title": "gbcImage_2025-07-28_23-48-17.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "e6e6c420c897432897faa78f130a00e7e5b165ee",
+        "created": "2025-07-28 23:48:18:046",
+        "title": "gbcImage_2025-07-28_23-48-18.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "d411085bfde336907cff66ed003bbf2a034b9cd6",
+        "created": "2025-07-28 23:48:19:047",
+        "title": "gbcImage_2025-07-28_23-48-19.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "4e6a801af117e2e12f6d879db6506d8619a7492f",
+        "created": "2025-07-28 23:48:20:048",
+        "title": "gbcImage_2025-07-28_23-48-20.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "6ea3851f8d52e022cb4749d98255c20e3808cb5b",
+        "created": "2025-07-28 23:48:22:049",
+        "title": "gbcImage_2025-07-28_23-48-22.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "b732ae5f20d811ba0cb64b8b0c592d66ecc9908b",
+        "created": "2025-07-28 23:48:23:050",
+        "title": "gbcImage_2025-07-28_23-48-23.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "483d6ab4f48efc683cf536c66ef96ccd7c78c749",
+        "created": "2025-07-28 23:48:24:051",
+        "title": "gbcImage_2025-07-28_23-48-24.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "b38d2699bc5cd04e96a65813c9c87649e3aaa728",
+        "created": "2025-07-28 23:48:26:052",
+        "title": "gbcImage_2025-07-28_23-48-26.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "7ac1d96692b57e4cedddcae45a775a1a1308d012",
+        "created": "2025-07-28 23:48:27:053",
+        "title": "gbcImage_2025-07-28_23-48-27.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "ebe73ed0a16daafcc772b9e7b0e915890dbe38b4",
+        "created": "2025-07-28 23:48:29:054",
+        "title": "gbcImage_2025-07-28_23-48-29.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "2a7e6f2776dcaf13d3af1b551b8a2ecbe439cca1",
+        "created": "2025-07-28 23:48:30:055",
+        "title": "gbcImage_2025-07-28_23-48-30.png",
+        "lines": 360,
+        "tags": [
+          "⏲️ HDR",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": ""
+      },
+      {
+        "hash": "700ba9aa9fc86a075c27067ba1616c5ad7913e5d",
+        "created": "2025-07-28 23:55:22:000",
+        "title": "gbcImage_2025-07-28_23-55-22.png",
+        "lines": 360,
+        "tags": [
+          "__filter:favourite__",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Tom"
+        ],
+        "palette": "gbcd",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "4730ba1b2df9a7d716eadfd7ef0805fea815c425",
+        "created": "2025-07-28 23:55:25:001",
+        "title": "gbcImage_2025-07-28_23-55-25.png",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "fsp",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "809aae2fc97cdee36a51875742fcf38b5ff89b61",
+        "created": "2025-07-28 23:55:26:002",
+        "title": "gbcImage_2025-07-28_23-55-26.png",
+        "lines": 360,
+        "tags": [
+          "__filter:favourite__",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "llawk",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "33d1fbff0a294cc0800acf79a3ad36aa5137c2ea",
+        "created": "2025-07-28 23:55:28:003",
+        "title": "gbcImage_2025-07-28_23-55-28.png",
+        "lines": 360,
+        "tags": [
+          "__filter:favourite__",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "banana",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "c2683edde9bfefdc3a553c1f63337c12a732ed82",
+        "created": "2025-07-28 23:55:29:004",
+        "title": "gbcImage_2025-07-28_23-55-29.png",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Guus"
+        ],
+        "palette": "tbpp",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "0628ac4292c665b36b3a9349f299f8d09268284d",
+        "created": "2025-07-28 23:55:31:005",
+        "title": "gbcImage_2025-07-28_23-55-31.png",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "cstmgrey",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "04a80d1eed5c34a988fca0e58309ee638ada85a2",
+        "created": "2025-07-28 23:55:32:006",
+        "title": "gbcImage_2025-07-28_23-55-32.png",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart",
+          "Kris",
+          "Tom"
+        ],
+        "palette": "fsp",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "d8fd288a04ffe5143f08af646ebc3801e79704fb",
+        "created": "2025-07-28 23:55:34:007",
+        "title": "gbcImage_2025-07-28_23-55-34.png",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "wtfp",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "374b0efd63412901b403018d759e863a8b5878a5",
+        "created": "2025-07-28 23:55:35:008",
+        "title": "gbcImage_2025-07-28_23-55-35.png",
+        "lines": 360,
+        "tags": [
+          "__filter:favourite__",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "obmgp",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "9d53329846f03c36caed86d7103aeb19de2c6218",
+        "created": "2025-07-28 23:55:37:009",
+        "title": "gbcImage_2025-07-28_23-55-37.png",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
           "📸 Mart"
         ],
         "palette": "d2kr",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "c909dcc0736c0cae73407274adcd83873bb4b12e",
+        "created": "2025-07-28 23:55:38:010",
+        "title": "gbcImage_2025-07-28_23-55-38.png",
+        "lines": 360,
+        "tags": [
+          "__filter:favourite__",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "lohp",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "355d979d55580d744dbfffda17b54fee8b51b103",
+        "created": "2025-07-28 23:55:40:011",
+        "title": "gbcImage_2025-07-28_23-55-40.png",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "dhg",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "5f64125f651d4dd5fc637998ad08fdcdc5a5b594",
+        "created": "2025-07-28 23:55:41:012",
+        "title": "gbcImage_2025-07-28_23-55-41.png",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "glmo",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "01b6a635cd157d91f79f52a1b262f990d03eea51",
+        "created": "2025-07-28 23:55:43:013",
+        "title": "gbcImage_2025-07-28_23-55-43.png",
+        "lines": 360,
+        "tags": [
+          "__filter:favourite__",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "bbp",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "38969fc1437d428c8c7edfaa8651d750799d3f94",
+        "created": "2025-07-28 23:55:44:014",
+        "title": "gbcImage_2025-07-28_23-55-44.png",
+        "lines": 360,
+        "tags": [
+          "__filter:favourite__",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "shmgy",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "8fe460b8f7c8fe976d88fd12ac0d04b58cc61bff",
+        "created": "2025-07-28 23:55:46:015",
+        "title": "gbcImage_2025-07-28_23-55-46.png",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "tsk",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "ac671491f73b4ec050cea7b2189704ca8707a6f7",
+        "created": "2025-07-28 23:55:47:016",
+        "title": "gbcImage_2025-07-28_23-55-47.png",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "red12",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "57175b00a6b2e4d20d0c9fd73fbc96f901e425eb",
+        "created": "2025-07-28 23:55:49:017",
+        "title": "gbcImage_2025-07-28_23-55-48.png",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "cfp",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "04a2cc71c0292b8a11774aa262fe0732be423aca",
+        "created": "2025-07-28 23:55:50:018",
+        "title": "gbcImage_2025-07-28_23-55-50.png",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "aqpp",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "4a8134d0d4ca10279da12bb93adc0f2b842abe32",
+        "created": "2025-07-28 23:55:51:019",
+        "title": "gbcImage_2025-07-28_23-55-51.png",
+        "lines": 360,
+        "tags": [
+          "__filter:favourite__",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "cstmgrey",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "b3b92023da7031fbc75fad0c3563b040d9f0c016",
+        "created": "2025-07-28 23:55:59:020",
+        "title": "gbcImage_2025-07-28_23-55-59.png",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "kditw",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "2b2e269cbba921a5c6acecc0174432f18e3b6aff",
+        "created": "2025-07-28 23:56:00:021",
+        "title": "gbcImage_2025-07-28_23-56-00.png",
+        "lines": 360,
+        "tags": [
+          "__filter:favourite__",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "gbcd",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "27650f0c1a07a091bf30e8053adc8647e183edb7",
+        "created": "2025-07-28 23:56:02:022",
+        "title": "gbcImage_2025-07-28_23-56-02.png",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "fsp",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "e9e34104dcd2e72bca67340d7147d27c38e2b011",
+        "created": "2025-07-28 23:56:04:023",
+        "title": "gbcImage_2025-07-28_23-56-04.png",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "cstmgreen2",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "f3dd05f216cd38b53092be506efee22c8c87f546",
+        "created": "2025-07-28 23:56:06:025",
+        "title": "gbcImage_2025-07-28_23-56-06.png",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "grafixkidgray",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "9264965fac7f2004bcdbf586753d3c636f556756",
+        "created": "2025-07-28 23:56:08:026",
+        "title": "gbcImage_2025-07-28_23-56-08.png",
+        "lines": 360,
+        "tags": [
+          "__filter:favourite__",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "sfh",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "daff828fc612d8196bf55791d256a2e2c1f3e660",
+        "created": "2025-07-28 23:56:09:027",
+        "title": "gbcImage_2025-07-28_23-56-09.png",
+        "lines": 360,
+        "tags": [
+          "__filter:favourite__",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "scp",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "d533d33ca7bddc228ac618e9caaf6c6c749d47d3",
+        "created": "2025-07-28 23:56:10:028",
+        "title": "gbcImage_2025-07-28_23-56-15.png",
+        "lines": 360,
+        "tags": [
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "sfh",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "d4c418ed75ab8422677e3f839aee772f69dd2202",
+        "created": "2025-07-28 23:56:12:029",
+        "title": "gbcImage_2025-07-28_23-56-12.png",
+        "lines": 360,
+        "tags": [
+          "__filter:favourite__",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "lohp",
+        "framePalette": "bw",
+        "invertFramePalette": false,
+        "invertPalette": false,
+        "frame": "",
+        "lockFrame": true
+      },
+      {
+        "hash": "c636698a4deec1ce07934c82eff4a84c8f09f5bb",
+        "created": "2025-07-28 23:56:13:030",
+        "title": "gbcImage_2025-07-28_23-56-16.png",
+        "lines": 360,
+        "tags": [
+          "__filter:favourite__",
+          "💿 PHOTO!",
+          "📷 2BitToy Camera+",
+          "📸 Mart"
+        ],
+        "palette": "sfh",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -34529,7 +36175,7 @@
         "loading": false
       }
     ],
-    "lastUpdateUTC": 1753386089,
+    "lastUpdateUTC": 1753828735,
     "version": 1
   }
 }
