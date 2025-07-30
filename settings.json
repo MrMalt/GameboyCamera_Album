@@ -37747,7 +37747,7 @@
           "📷 2BitToy Camera+",
           "📸 Mart"
         ],
-        "palette": "harlequin1",
+        "palette": "softgradient1",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -37800,7 +37800,7 @@
           "📷 2BitToy Camera+",
           "📸 Mart"
         ],
-        "palette": "umbreon",
+        "palette": "aqpp",
         "framePalette": "bw",
         "invertFramePalette": false,
         "invertPalette": false,
@@ -38283,7 +38283,8 @@
         },
         "config": {
           "fileExtension": "png",
-          "mimeType": "png"
+          "mimeType": "png",
+          "scaleFactor": 0
         },
         "loading": false
       },
@@ -38304,7 +38305,7 @@
         "loading": false
       }
     ],
-    "lastUpdateUTC": 1753903839,
+    "lastUpdateUTC": 1753882887,
     "version": 1
   }
 }
