@@ -35753,6 +35753,66 @@
     ],
     "palettes": [
       {
+        "shortName": "umbreon",
+        "name": "Umbreon",
+        "palette": [
+          "#ffff5d",
+          "#6d7e80",
+          "#222827",
+          "#1c1c1c"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "bluegradient1",
+        "name": "BlueGradient",
+        "palette": [
+          "#f7ecb9",
+          "#34d4ac",
+          "#2b5178",
+          "#291f23"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "harshpink1",
+        "name": "HarshPink",
+        "palette": [
+          "#d7d3ad",
+          "#d65c87",
+          "#21031e",
+          "#000000"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "softgradient1",
+        "name": "SoftGradient",
+        "palette": [
+          "#f8e8f8",
+          "#efaf88",
+          "#61536b",
+          "#181010"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
+        "shortName": "bluegreen1",
+        "name": "BlueGreen",
+        "palette": [
+          "#bce7fd",
+          "#5e9987",
+          "#325b2e",
+          "#0a280b"
+        ],
+        "origin": "Made with the webapp",
+        "isPredefined": false
+      },
+      {
         "shortName": "gold12",
         "name": "Gold12",
         "palette": [
@@ -36154,7 +36214,8 @@
         },
         "config": {
           "fileExtension": "png",
-          "mimeType": "png"
+          "mimeType": "png",
+          "scaleFactor": 0
         },
         "loading": false
       },
@@ -36175,7 +36236,7 @@
         "loading": false
       }
     ],
-    "lastUpdateUTC": 1753828735,
+    "lastUpdateUTC": 1753873806,
     "version": 1
   }
 }
